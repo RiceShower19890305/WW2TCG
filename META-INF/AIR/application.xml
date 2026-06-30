@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/29.0">
+	<id>air.com.fs.wwiitcg</id>
+	<filename>WWIITCG</filename>
+	<architecture/>
+	<name>World War II TCG</name>
+	<versionNumber>0.7.7</versionNumber>
+	<versionLabel>0.7.7</versionLabel>
+	<initialWindow>
+		<content>MainGame.swf</content>
+		<minSize>1024 768</minSize>
+		<depthAndStencil>true</depthAndStencil>
+		<requestedDisplayResolution>high</requestedDisplayResolution>
+		<autoOrients>false</autoOrients>
+        <fullScreen>true</fullScreen>
+        <visible>true</visible>
+        <renderMode>direct</renderMode>
+    </initialWindow>
+
+	<supportedProfiles>extendedDesktop</supportedProfiles>
+	<icon>
+		<image16x16>icons/icon_16.png</image16x16>
+		<image29x29>icons/icon_29.png</image29x29>
+		<image32x32>icons/icon_32.png</image32x32>
+		<image36x36>icons/icon_36.png</image36x36>
+		<image40x40>icons/icon_40.png</image40x40>
+		<image44x44>icons/icon_44.png</image44x44>
+		<image48x48>icons/icon_48.png</image48x48>
+		<image50x50>icons/icon_50.png</image50x50>
+		<image57x57>icons/icon_57.png</image57x57>
+		<image58x58>icons/icon_58.png</image58x58>
+		<image60x60>icons/icon_60.png</image60x60>
+		<image66x66>icons/icon_66.png</image66x66>
+		<image72x72>icons/icon_72.png</image72x72>
+		<image75x75>icons/icon_75.png</image75x75>
+		<image76x76>icons/icon_76.png</image76x76>
+		<image80x80>icons/icon_80.png</image80x80>
+		<image87x87>icons/icon_87.png</image87x87>
+		<image96x96>icons/icon_96.png</image96x96>
+		<image100x100>icons/icon_100.png</image100x100>
+		<image114x114>icons/icon_114.png</image114x114>
+		<image120x120>icons/icon_120.png</image120x120>
+		<image128x128>icons/icon_128.png</image128x128>
+		<image144x144>icons/icon_144.png</image144x144>
+		<image152x152>icons/icon_152.png</image152x152>
+        <image167x167>icons/icon_167.png</image167x167>
+		<image180x180>icons/icon_180.png</image180x180>
+		<image192x192>icons/icon_192.png</image192x192>
+		<image512x512>icons/icon_512.png</image512x512>
+		<image1024x1024>icons/icon_1024.png</image1024x1024>
+	</icon>
+
+	<extensions>
+        <extensionID>com.amanitadesign.steam.FRESteamWorks</extensionID>
+    </extensions>
+</application>

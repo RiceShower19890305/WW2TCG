@@ -1,0 +1,751 @@
+[
+  {
+    "sku": "pvpBotsDeck_01",
+    "index": 0,
+    "IAUnitsSku": "unit_237:1,unit_01:1,unit_198:2,unit_210:1,unit_21:1,unit_54:1,unit_13:1,unit_192:1,unit_252:1,unit_10:1,unit_27:2,unit_90:2,unit_216:1,unit_300:1,unit_258:1",
+    "IAAttachmentsSku": "attach_106:1,attach_91:1,attach_82:1,attach_25:1,attach_01:2,attach_22:1,attach_04:1",
+    "IAActionsSku": "action_16:2,action_01:1,action_02:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_14",
+    "IAElo": 700
+  },
+  {
+    "sku": "pvpBotsDeck_02",
+    "index": 1,
+    "IAUnitsSku": "unit_192:2,unit_90:2,unit_267:1,unit_54:1,unit_258:1,unit_237:1,unit_27:2,unit_10:1,unit_01:1,unit_198:2,unit_210:1,unit_21:1,unit_216:1,unit_252:1,unit_300:1,unit_186:1,unit_13:1,unit_228:1",
+    "IAAttachmentsSku": "attach_04:1,attach_01:2,attach_22:1",
+    "IAActionsSku": "action_06:2,action_02:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_17",
+    "IAElo": 700
+  },
+  {
+    "sku": "pvpBotsDeck_03",
+    "index": 2,
+    "IAUnitsSku": "unit_90:2,unit_27:2,unit_171:1,unit_141:1,unit_237:1,unit_300:1,unit_147:1,unit_01:1,unit_198:1,unit_186:1,unit_21:1,unit_54:1,unit_261:1,unit_192:2,unit_13:1,unit_10:1,unit_216:1,unit_42:1,unit_258:1",
+    "IAAttachmentsSku": "attach_169:1,attach_22:1,attach_67:1",
+    "IAActionsSku": "action_06:1,action_02:1,action_01:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_25",
+    "IAElo": 725
+  },
+  {
+    "sku": "pvpBotsDeck_04",
+    "index": 3,
+    "IAUnitsSku": "unit_147:1,unit_300:1,unit_258:1,unit_210:1,unit_27:2,unit_21:1,unit_252:1,unit_180:1,unit_134:1,unit_42:1,unit_294:1,unit_153:1,unit_33:1,unit_216:1,unit_01:1,unit_237:1,unit_13:1,unit_141:1",
+    "IAAttachmentsSku": "attach_22:1,attach_01:1,attach_106:1,attach_49:1,attach_40:1,attach_04:2",
+    "IAActionsSku": "action_02:1,action_01:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_35",
+    "IAElo": 725
+  },
+  {
+    "sku": "pvpBotsDeck_05",
+    "index": 4,
+    "IAUnitsSku": "unit_147:1,unit_300:1,unit_258:1,unit_210:1,unit_27:1,unit_21:1,unit_252:1,unit_180:1,unit_42:1,unit_294:1,unit_153:1,unit_33:1,unit_216:1,unit_237:1,unit_141:1,unit_443:1,unit_273:1,unit_78:1,unit_42:1,unit_30:1",
+    "IAAttachmentsSku": "attach_169:1,attach_106:1,attach_49:1,attach_91:1,attach_22:1,attach_94:1",
+    "IAActionsSku": "action_02:2,action_01:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_45",
+    "IAElo": 750
+  },
+  {
+    "sku": "pvpBotsDeck_06",
+    "index": 5,
+    "IAUnitsSku": "unit_324:1,unit_237:1,unit_01:1,unit_198:2,unit_210:1,unit_21:1,unit_54:1,unit_13:1,unit_192:1,unit_252:1,unit_10:1,unit_27:2,unit_90:2,unit_216:1,unit_300:1,unit_258:1",
+    "IAAttachmentsSku": "attach_106:1,attach_82:1,attach_25:1,attach_01:2,attach_22:1,attach_04:1",
+    "IAActionsSku": "action_16:1,action_01:1,action_02:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_14",
+    "IAElo": 700
+  },
+  {
+    "sku": "pvpBotsDeck_07",
+    "index": 6,
+    "IAUnitsSku": "unit_192:2,unit_90:2,unit_267:1,unit_54:1,unit_258:1,unit_237:1,unit_27:2,unit_10:1,unit_01:1,unit_198:2,unit_210:1,unit_21:1,unit_216:1,unit_252:1,unit_300:1,unit_186:1,unit_13:1,unit_228:1",
+    "IAAttachmentsSku": "attach_04:1,attach_01:2,attach_22:1",
+    "IAActionsSku": "action_06:1,action_02:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_17",
+    "IAElo": 700
+  },
+  {
+    "sku": "pvpBotsDeck_08",
+    "index": 7,
+    "IAUnitsSku": "unit_90:2,unit_27:2,unit_171:1,unit_141:1,unit_237:1,unit_300:1,unit_147:1,unit_01:1,unit_198:1,unit_186:1,unit_21:1,unit_54:1,unit_261:1,unit_192:2,unit_13:1,unit_10:1,unit_216:1,unit_16:1,unit_42:1,unit_258:1",
+    "IAAttachmentsSku": "attach_169:1,attach_22:1,attach_67:1",
+    "IAActionsSku": "action_06:1,action_02:1,action_01:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_25",
+    "IAElo": 725
+  },
+  {
+    "sku": "pvpBotsDeck_09",
+    "index": 8,
+    "IAUnitsSku": "unit_360:1,unit_204:2,unit_213:2,unit_366:1,unit_321:2,unit_122:2,unit_372:1,unit_345:2,unit_369:2",
+    "IAAttachmentsSku": "attach_142:2,attach_73:1,attach_100:2",
+    "IAActionsSku": "action_23:1,action_01:2",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_80",
+    "IAElo": 1200
+  },
+  {
+    "sku": "pvpBotsDeck_10",
+    "index": 9,
+    "IAUnitsSku": "unit_45:2,unit_366:1,unit_360:1,unit_231:2,unit_39:1,unit_273:2,unit_345:2,unit_357:1",
+    "IAAttachmentsSku": "attach_22:2,attach_88:1,attach_73:2,attach_64:2",
+    "IAActionsSku": "action_09:2,action_11:1,action_19:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_80",
+    "IAElo": 1200
+  },
+  {
+    "sku": "pvpBotsDeck_11",
+    "index": 10,
+    "IAUnitsSku": "unit_45:2,unit_372:1,unit_366:1,unit_360:1,unit_231:2,unit_39:1,unit_273:2,unit_345:1,unit_357:1",
+    "IAAttachmentsSku": "attach_22:2,attach_88:1,attach_73:2,attach_64:2",
+    "IAActionsSku": "action_21:1,action_09:2,action_19:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_90",
+    "IAElo": 1200
+  },
+  {
+    "sku": "pvpBotsDeck_12",
+    "index": 11,
+    "IAUnitsSku": "unit_494:1,unit_503:1,unit_500:1,unit_506:1,unit_360:1,unit_204:2,unit_213:2,unit_366:1,unit_321:2,unit_122:2,unit_372:1,unit_662:2,unit_647:1",
+    "IAAttachmentsSku": "attach_88:1,attach_64:1,attach_52:1",
+    "IAActionsSku": "action_23:1,action_09:1,action_19:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_100",
+    "IAElo": 1200
+  },
+  {
+    "sku": "pvpBotsDeck_13",
+    "index": 12,
+    "IAUnitsSku": "unit_360:1,unit_150:1,unit_324:1,unit_48:1,unit_231:2,unit_315:2,unit_348:1,unit_321:1,unit_983:1,unit_1073:1,unit_1301:1,unit_1394:1",
+    "IAAttachmentsSku": "attach_88:1,attach_64:1,attach_52:1",
+    "IAActionsSku": "action_23:1,action_09:1,action_19:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_100",
+    "IAElo": 1200
+  },
+  {
+    "sku": "pvpBotsDeck_14",
+    "index": 13,
+    "IAUnitsSku": "unit_107:1,unit_122:1,unit_141:2,unit_147:2,unit_183:1,unit_204:1,unit_21:1,unit_2159:1,unit_216:2,unit_2162:1,unit_237:2,unit_246:1,unit_258:2,unit_300:2,unit_376:1,unit_437:1",
+    "IAAttachmentsSku": "attach_01:2,attach_22:1,attach_82:2",
+    "IAActionsSku": "action_01:2,action_02:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_25",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_15",
+    "index": 14,
+    "IAUnitsSku": "unit_01:1,unit_156:1,unit_174:1,unit_192:1,unit_198:1,unit_21:1,unit_213:1,unit_216:2,unit_2162:1,unit_237:2,unit_252:1,unit_27:2,unit_376:1,unit_392:1,unit_404:1,unit_42:1,unit_461:1,unit_51:1,unit_782:1,unit_806:1,unit_836:1",
+    "IAAttachmentsSku": "attach_01:1,attach_04:2,attach_22:1",
+    "IAActionsSku": "action_01:1,action_02:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_25",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_16",
+    "index": 15,
+    "IAUnitsSku": "unit_147:2,unit_216:2,unit_2162:2,unit_297:1,unit_300:2,unit_306:1,unit_33:1,unit_339:1,unit_342:2,unit_464:1,unit_51:1,unit_63:1,unit_90:2,unit_1481:1",
+    "IAAttachmentsSku": "attach_112:1,attach_295:1,attach_55:1,attach_514:1,attach_91:1",
+    "IAActionsSku": "action_02:1,action_13:1,action_14:1,action_24:1,action_25:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_25",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_17",
+    "index": 16,
+    "IAUnitsSku": "unit_134:1,unit_141:2,unit_147:2,unit_150:1,unit_159:1,unit_186:1,unit_21:1,unit_231:1,unit_249:2,unit_258:2,unit_300:2,unit_386:2,unit_389:1,unit_162:1",
+    "IAAttachmentsSku": "attach_157:2,attach_184:1,attach_46:1,attach_97:2",
+    "IAActionsSku": "action_01:1,action_02:1,action_12:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_25",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_18",
+    "index": 17,
+    "IAUnitsSku": "unit_147:2,unit_216:1,unit_294:1,unit_297:1,unit_303:2,unit_345:1,unit_363:2,unit_482:1,unit_584:1,unit_60:2,unit_611:1,unit_195:1,unit_237:1,unit_950:1",
+    "IAAttachmentsSku": "attach_109:2,attach_115:1,attach_22:1,attach_247:1,attach_292:1,attach_46:1,attach_514:1",
+    "IAActionsSku": "action_06:1,action_09:1,action_20:1,action_28:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_55",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_19",
+    "index": 18,
+    "IAUnitsSku": "unit_104:1,unit_116:1,unit_141:2,unit_153:1,unit_165:1,unit_21:1,unit_2168:1,unit_2177:1,unit_243:2,unit_267:1,unit_270:1,unit_315:1,unit_351:2,unit_398:1,unit_407:1,unit_42:1,unit_458:1,unit_470:1,unit_566:1",
+    "IAAttachmentsSku": "attach_22:2,attach_55:1,attach_82:2",
+    "IAActionsSku": "action_02:1,action_12:1,action_73:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_45",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_20",
+    "index": 19,
+    "IAUnitsSku": "unit_141:2,unit_147:2,unit_150:1,unit_159:2,unit_177:1,unit_189:1,unit_21:1,unit_213:1,unit_216:1,unit_243:1,unit_324:1,unit_369:1,unit_376:2,unit_42:1,unit_467:2,unit_60:1",
+    "IAAttachmentsSku": "attach_37:1,attach_433:1,attach_487:1,attach_70:1",
+    "IAActionsSku": "action_11:2,action_111:1,action_06:1,action_08:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_45",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_21",
+    "index": 20,
+    "IAUnitsSku": "unit_107:1,unit_13:1,unit_180:1,unit_186:1,unit_21:2,unit_210:1,unit_252:1,unit_255:1,unit_264:1,unit_288:1,unit_300:1,unit_339:1,unit_342:2,unit_354:1,unit_386:1,unit_422:1,unit_45:1,unit_491:1,unit_51:1,unit_836:1",
+    "IAAttachmentsSku": "attach_01:1,attach_04:1,attach_169:1,attach_187:1,attach_82:1",
+    "IAActionsSku": "action_02:1,action_03:1,action_16:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_20",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_22",
+    "index": 21,
+    "IAUnitsSku": "unit_128:1,unit_13:1,unit_141:2,unit_159:1,unit_165:1,unit_21:1,unit_2165:1,unit_237:1,unit_243:1,unit_252:1,unit_258:1,unit_264:1,unit_300:1,unit_422:1,unit_51:1,unit_75:1,unit_90:1,unit_33:1",
+    "IAAttachmentsSku": "attach_01:2,attach_04:2,attach_106:1,attach_127:1,attach_82:1",
+    "IAActionsSku": "action_01:1,action_02:1,action_16:1,action_20:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_20",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_23",
+    "index": 22,
+    "IAUnitsSku": "unit_1097:1,unit_119:1,unit_258:2,unit_261:1,unit_270:1,unit_294:1,unit_300:2,unit_336:1,unit_404:1,unit_437:1,unit_512:1,unit_96:1,unit_1460:1,unit_1070:1,unit_1478:1,unit_189:1",
+    "IAAttachmentsSku": "attach_01:2,attach_04:2,attach_211:1,attach_22:1,attach_46:1,attach_82:1",
+    "IAActionsSku": "action_12:1,action_20:2,action_24:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_42",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_24",
+    "index": 23,
+    "IAUnitsSku": "unit_01:2,unit_116:1,unit_141:2,unit_198:1,unit_21:1,unit_237:2,unit_252:1,unit_255:1,unit_258:2,unit_267:1,unit_324:1,unit_376:1,unit_42:1,unit_443:1,unit_51:1",
+    "IAAttachmentsSku": "attach_01:2,attach_04:2,attach_82:2",
+    "IAActionsSku": "action_01:2,action_02:1,action_16:2,action_20:1,",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_18",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_25",
+    "index": 24,
+    "IAUnitsSku": "unit_153:1,unit_156:1,unit_1730:1,unit_1763:1,unit_1766:1,unit_177:1,unit_180:1,unit_1850:1,unit_21:1,unit_243:1,unit_276:1,unit_294:1,unit_376:1,unit_386:1,unit_431:1,unit_467:1,unit_48:1,unit_69:1,unit_782:1,unit_81:1,unit_443:1,unit_369:1",
+    "IAAttachmentsSku": "attach_109:1,attach_118:1,attach_208:1,attach_22:1,attach_346:1",
+    "IAActionsSku": "action_06:1,action_12:1,action_35:1,",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_62",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_26",
+    "index": 25,
+    "IAUnitsSku": "unit_110:2,unit_255:2,unit_258:2,unit_270:1,unit_300:2,unit_312:1,unit_449:1,unit_461:1,unit_782:1,unit_81:2,unit_96:1",
+    "IAAttachmentsSku": "attach_01:1,attach_04:2,attach_109:1,attach_133:1,attach_136:2,attach_211:1,attach_82:2",
+    "IAActionsSku": "action_02:1,action_03:1,action_16:2",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_38",
+    "IAElo": 1000
+  },
+  {
+    "sku": "pvpBotsDeck_27",
+    "index": 26,
+    "IAUnitsSku": "unit_1487:1,unit_159:1,unit_168:1,unit_1691:1,unit_1694:1,unit_1796:1,unit_1820:1,unit_21:1,unit_324:1,unit_360:1,unit_366:1,unit_372:1,unit_39:1,unit_440:1,unit_488:1,unit_491:1,unit_509:1,unit_932:1,unit_96:1,unit_461:2",
+    "IAAttachmentsSku": "attach_514:2,attach_553:1,attach_94:1",
+    "IAActionsSku": "action_02:1,action_08:1,action_12:1,action_17:1,action_19:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_80",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_28",
+    "index": 27,
+    "IAUnitsSku": "unit_159:1,unit_162:1,unit_21:1,unit_219:1,unit_237:1,unit_243:1,unit_267:1,unit_330:1,unit_354:1,unit_376:2,unit_401:1,unit_410:1,unit_491:1,unit_497:1,unit_512:1,unit_515:1,unit_524:1,unit_584:1,unit_60:1,unit_611:1",
+    "IAAttachmentsSku": "attach_247:1,attach_55:1,attach_67:1,attach_22:1",
+    "IAActionsSku": "action_07:1,action_11:1,action_12:1,action_17:1,action_23:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_90",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_29",
+    "index": 28,
+    "IAUnitsSku": "unit_104:1,unit_110:1,unit_300:1,unit_321:1,unit_324:1,unit_398:1,unit_434:1,unit_437:1,unit_45:1,unit_452:1,unit_488:1,unit_509:1,unit_758:1,unit_806:1,unit_824:1,unit_839:1,unit_932:1,unit_99:1",
+    "IAAttachmentsSku": "attach_109:1,attach_115:1,attach_157:1,attach_190:1,attach_214:2,attach_31:1,attach_34:1,attach_37:1",
+    "IAActionsSku": "action_02:1,action_06:1,action_12:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_75",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_30",
+    "index": 29,
+    "IAUnitsSku": "unit_1109:2,unit_1475:1,unit_1478:2,unit_153:1,unit_177:1,unit_294:2,unit_360:1,unit_380:1,unit_39:1,unit_401:1,unit_407:1,unit_45:1,unit_96:1,unit_2171:1,unit_2168:1",
+    "IAAttachmentsSku": "attach_208:1,attach_214:1,attach_514:2",
+    "IAActionsSku": "action_06:1,action_08:1,action_09:1,action_12:1,action_16:1,action_19:1,action_21:1,action_24:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_85",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_31",
+    "index": 30,
+    "IAUnitsSku": "unit_141:1,unit_147:1,unit_153:1,unit_159:2,unit_183:1,unit_243:1,unit_294:2,unit_333:1,unit_354:1,unit_383:1,unit_431:1,unit_437:1,unit_455:1,unit_48:2,unit_488:1,unit_512:2,unit_75:2,unit_839:1,unit_87:1",
+    "IAAttachmentsSku": "attach_211:1,attach_70:1",
+    "IAActionsSku": "action_01:1,action_06:1,action_11:1,action_12:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_85",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_32",
+    "index": 31,
+    "IAUnitsSku": "unit_1088:1,unit_1100:1,unit_1127:1,unit_1472:1,unit_1493:1,unit_150:1,unit_153:1,unit_324:1,unit_330:1,unit_383:1,unit_410:1,unit_413:1,unit_434:1,unit_455:1,unit_464:1,unit_488:1,unit_491:1,unit_497:1,unit_515:1,unit_824:1,unit_926:1,unit_929:1",
+    "IAAttachmentsSku": "attach_205:1,attach_514:1,attach_52:1,attach_70:1",
+    "IAActionsSku": "action_08:1,action_11:2,action_13:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_122",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_33",
+    "index": 32,
+    "IAUnitsSku": "unit_110:1,unit_1100:1,unit_1472:1,unit_1478:1,unit_177:1,unit_183:1,unit_231:1,unit_324:1,unit_401:1,unit_434:1,unit_45:1,unit_452:1,unit_482:1,unit_806:1,unit_824:1,unit_839:1,unit_932:1,unit_950:1,unit_986:1",
+    "IAAttachmentsSku": "attach_211:1,attach_214:2,attach_478:1,attach_544:1,attach_547:1,attach_556:1",
+    "IAActionsSku": "action_06:1,action_08:1,action_09:1,action_13:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_142",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_34",
+    "index": 33,
+    "IAUnitsSku": "unit_1088:1,unit_1100:1,unit_1127:1,unit_1472:1,unit_1493:1,unit_150:1,unit_153:1,unit_1682:1,unit_324:1,unit_330:1,unit_383:1,unit_410:1,unit_413:1,unit_455:1,unit_464:1,unit_482:1,unit_488:1,unit_491:1,unit_497:1,unit_515:1,unit_824:1,unit_926:1,unit_929:1",
+    "IAAttachmentsSku": "attach_205:1,attach_514:1,attach_52:1,attach_70:1",
+    "IAActionsSku": "action_08:1,action_09:1,action_13:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_137",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_35",
+    "index": 34,
+    "IAUnitsSku": "unit_159:1,unit_1718:1,unit_2387:1,unit_369:1,unit_383:1,unit_45:2,unit_536:1,unit_539:2,unit_542:2,unit_545:1,unit_548:2,unit_749:2,unit_755:1,unit_869:1",
+    "IAAttachmentsSku": "attach_199:1,attach_217:1,attach_232:2,attach_304:1,attach_64:1",
+    "IAActionsSku": "action_08:1,action_09:2,action_12:1,action_21:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_36",
+    "index": 35,
+    "IAUnitsSku": "unit_1061:1,unit_1562:1,unit_1565:1,unit_1568:1,unit_1712:1,unit_1811:1,unit_1884:1,unit_189:1,unit_2168:2,unit_2264:1,unit_434:1,unit_551:2,unit_557:2,unit_560:2,unit_563:2,unit_680:1,unit_767:1",
+    "IAAttachmentsSku": "attach_118:1,attach_220:1,attach_241:2,attach_529:1",
+    "IAActionsSku": "action_09:2,action_147:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_37",
+    "index": 36,
+    "IAUnitsSku": "unit_1034:1,unit_1325:1,unit_1415:1,unit_1478:1,unit_1643:1,unit_1652:1,unit_1655:1,unit_1784:1,unit_2285:1,unit_416:1,unit_476:1,unit_482:1,unit_608:1,unit_614:2,unit_695:2,unit_797:1,unit_896:2,unit_926:1",
+    "IAAttachmentsSku": "attach_223:1,attach_250:2,attach_520:1,attach_676:1,attach_739:1,attach_88:1",
+    "IAActionsSku": "action_09:1,action_21:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_38",
+    "index": 37,
+    "IAUnitsSku": "unit_1064:2,unit_1304:2,unit_1340:2,unit_1484:1,unit_1487:1,unit_2052:1,unit_2126:1,unit_2186:1,unit_2336:1,unit_2492:1,unit_360:1,unit_446:1,unit_647:2,unit_704:1,unit_809:1,unit_818:1,unit_965:1,unit_1325:1",
+    "IAAttachmentsSku": "attach_256:2,attach_259:1,attach_283:1,attach_52:1,attach_583:1,attach_679:1",
+    "IAActionsSku": "action_83:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_39",
+    "index": 38,
+    "IAUnitsSku": "unit_1388:1,unit_1811:1,unit_1832:1,unit_2186:1,unit_2357:1,unit_360:1,unit_413:1,unit_506:1,unit_512:1,unit_650:2,unit_653:2,unit_713:2,unit_722:1,unit_728:1,unit_731:2,unit_740:1,unit_833:1",
+    "IAAttachmentsSku": "attach_211:1,attach_229:1,attach_265:2,attach_286:1,attach_514:1,attach_559:1,attach_775:1,attach_88:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_40",
+    "index": 39,
+    "IAUnitsSku": "unit_1004:1,unit_1295:2,unit_1325:1,unit_1331:2,unit_1397:1,unit_1523:2,unit_1601:2,unit_1607:1,unit_2109:1,unit_2222:2,unit_2306:1,unit_366:1,unit_383:1,unit_545:2",
+    "IAAttachmentsSku": "attach_217:1,attach_232:2,attach_238:1,attach_304:1,attach_643:1,attach_88:1",
+    "IAActionsSku": "action_21:1,action_75:2",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_41",
+    "index": 40,
+    "IAUnitsSku": "unit_1256:1,unit_1259:1,unit_1382:1,unit_1436:1,unit_1538:2,unit_1619:1,unit_1733:1,unit_2384:1,unit_536:1,unit_539:2,unit_542:2,unit_548:2,unit_749:2,unit_764:1",
+    "IAAttachmentsSku": "attach_232:2,attach_238:2,attach_304:2,attach_322:1,attach_520:1,attach_559:1",
+    "IAActionsSku": "action_38:1,action_50:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_42",
+    "index": 41,
+    "IAUnitsSku": "unit_153:1,unit_1589:1,unit_1703:2,unit_1906:1,unit_1950:1,unit_1995:1,unit_2201:1,unit_578:2,unit_677:1,unit_686:1,unit_776:2,unit_788:1,unit_848:1",
+    "IAAttachmentsSku": "attach_241:1,attach_244:2,attach_274:1,attach_322:1,attach_382:1,attach_400:1,attach_559:1",
+    "IAActionsSku": "action_08:1,action_123:1,action_148:1,action_21:1,action_52:1,action_82:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_43",
+    "index": 42,
+    "IAUnitsSku": "unit_1298:1,unit_1313:1,unit_1325:1,unit_1334:1,unit_1340:1,unit_1418:1,unit_1439:1,unit_1499:1,unit_1541:1,unit_1553:1,unit_1706:1,unit_1903:1,unit_1935:1,unit_2055:1,unit_2186:1,unit_2273:1,unit_2324:1,unit_2399:1",
+    "IAAttachmentsSku": "attach_244:1,attach_421:1,attach_463:1,attach_529:2,attach_559:1,attach_694:1,attach_88:1",
+    "IAActionsSku": "action_08:1,action_123:1,action_21:1,action_75:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_44",
+    "index": 43,
+    "IAUnitsSku": "unit_1031:1,unit_1250:1,unit_1415:1,unit_1418:1,unit_1427:1,unit_1559:1,unit_1826:1,unit_1910:1,unit_1929:1,unit_2414:1,unit_434:1,unit_476:1,unit_662:1,unit_725:1,unit_734:1,unit_794:1,unit_827:1,unit_926:1",
+    "IAAttachmentsSku": "attach_322:1,attach_328:1,attach_409:1,attach_514:1,attach_568:1,attach_661:1,attach_730:1",
+    "IAActionsSku": "action_123:1,action_148:1,action_152:1,action_21:1,action_82:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_45",
+    "index": 44,
+    "IAUnitsSku": "unit_1133:1,unit_1136:1,unit_1211:1,unit_1259:1,unit_1457:1,unit_1538:1,unit_1550:1,unit_1598:1,unit_1604:1,unit_1745:1,unit_1748:1,unit_1900:1,unit_1986:1,unit_2007:1,unit_2384:1,unit_665:1,unit_752:1",
+    "IAAttachmentsSku": "attach_232:1,attach_238:1,attach_322:1,attach_385:1,attach_466:1,attach_571:1,attach_673:1",
+    "IAActionsSku": "action_123:1,action_142:1,action_148:1,action_152:1,action_160:1,action_83:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_46",
+    "index": 45,
+    "IAUnitsSku": "unit_1136:1,unit_1211:1,unit_1217:1,unit_1253:1,unit_1259:1,unit_1418:1,unit_1457:1,unit_1550:1,unit_1745:1,unit_1748:1,unit_1894:1,unit_1986:1,unit_2007:1,unit_2115:1,unit_2306:1,unit_2315:1,unit_2342:1,unit_524:1,unit_665:1,unit_749:1,unit_752:1",
+    "IAAttachmentsSku": "attach_232:1,attach_238:1,attach_304:1,attach_322:1,attach_466:1,attach_571:1",
+    "IAActionsSku": "action_123:1,action_142:1,action_83:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_47",
+    "index": 46,
+    "IAUnitsSku": "unit_1175:1,unit_1289:1,unit_1322:1,unit_1343:2,unit_1424:1,unit_1427:1,unit_1514:1,unit_1547:1,unit_1559:1,unit_1670:1,unit_1673:1,unit_1826:1,unit_1835:1,unit_1932:1,unit_1941:1,unit_2366:1,unit_2483:1,unit_728:1,unit_731:1,unit_833:1",
+    "IAAttachmentsSku": "attach_265:1,attach_322:1,attach_409:1,attach_568:1,attach_616:1",
+    "IAActionsSku": "action_103:1,action_123:1,action_21:1,action_74:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_48",
+    "index": 47,
+    "IAUnitsSku": "unit_1136:1,unit_1214:1,unit_1256:1,unit_1259:1,unit_1550:1,unit_1595:1,unit_1604:1,unit_1733:1,unit_1900:1,unit_1965:1,unit_1986:1,unit_2004:1,unit_2007:1,unit_2031:1,unit_2384:1,unit_539:1,unit_671:1,unit_749:1",
+    "IAAttachmentsSku": "attach_238:1,attach_322:1,attach_325:1,attach_385:1,attach_397:1,attach_436:1,attach_499:1,attach_673:1",
+    "IAActionsSku": "action_123:1,action_142:1,action_160:1,action_21:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_49",
+    "index": 48,
+    "IAUnitsSku": "unit_1307:1,unit_1343:1,unit_1418:1,unit_1427:1,unit_1511:1,unit_1547:1,unit_1559:1,unit_1820:1,unit_1935:1,unit_1938:1,unit_2022:1,unit_2363:1,unit_2414:1,unit_662:2,unit_725:2,unit_734:1",
+    "IAAttachmentsSku": "attach_265:1,attach_322:1,attach_364:1,attach_394:1,attach_409:1,attach_421:1,attach_460:1,attach_520:1,attach_559:1",
+    "IAActionsSku": "action_103:1,action_123:1,action_21:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_50",
+    "index": 49,
+    "IAUnitsSku": "unit_1004:1,unit_1025:1,unit_1415:2,unit_1643:1,unit_1784:1,unit_2043:2,unit_303:1,unit_455:1,unit_482:1,unit_611:2,unit_614:2,unit_695:1,unit_794:1,unit_797:2,unit_806:1,unit_896:2",
+    "IAAttachmentsSku": "attach_250:2,attach_271:1,attach_520:1,attach_88:1",
+    "IAActionsSku": "action_123:1,action_21:1,attach_214:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_51",
+    "index": 50,
+    "IAUnitsSku": "unit_1004:1,unit_1025:1,unit_1301:1,unit_1415:1,unit_1418:1,unit_1646:1,unit_1652:1,unit_1655:2,unit_1658:2,unit_1913:1,unit_1916:1,unit_1919:1,unit_1959:2,unit_2285:1,unit_962:1",
+    "IAAttachmentsSku": "attach_250:2,attach_322:1,attach_388:1,attach_505:1,attach_520:1,attach_580:1",
+    "IAActionsSku": "action_123:1,action_21:1,action_28:2,action_74:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_52",
+    "index": 51,
+    "IAUnitsSku": "unit_1298:1,unit_1313:1,unit_1334:1,unit_1358:1,unit_1439:1,unit_1499:1,unit_1553:1,unit_1568:1,unit_1571:1,unit_1903:1,unit_1998:1,unit_2001:1,unit_2118:1,unit_2273:1,unit_2324:1,unit_2327:1,unit_2399:1,unit_959:1",
+    "IAAttachmentsSku": "attach_241:1,attach_244:1,attach_310:1,attach_322:1,attach_382:1,attach_400:1,attach_469:1,attach_529:1",
+    "IAActionsSku": "action_123:1,action_21:1,action_74:1,action_75:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_53",
+    "index": 52,
+    "IAUnitsSku": "unit_1172:1,unit_1304:1,unit_1319:1,unit_1325:1,unit_1340:2,unit_1361:1,unit_1505:1,unit_1517:2,unit_1980:1,unit_2052:1,unit_2183:2,unit_2186:1,unit_2264:1,unit_818:1",
+    "IAAttachmentsSku": "attach_259:1,attach_319:1,attach_37:2,attach_448:1,attach_463:1,attach_535:1,attach_694:1",
+    "IAActionsSku": "action_133:1,action_52:1,action_75:2,action_96:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_190",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_54",
+    "index": 53,
+    "IAUnitsSku": "unit_1472:1,unit_183:1,unit_2222:1,unit_2264:1,unit_2285:1,unit_2426:1,unit_303:1,unit_360:1,unit_383:1,unit_401:1,unit_428:1,unit_446:1,unit_488:1,unit_512:1,unit_806:1,unit_932:1",
+    "IAAttachmentsSku": "attach_211:1,attach_214:1,attach_247:1,attach_28:1,attach_514:2,attach_52:1,attach_64:1",
+    "IAActionsSku": "action_08:1,action_09:2,action_21:1,action_78:1,action_80:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_104",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_55",
+    "index": 54,
+    "IAUnitsSku": "unit_104:1,unit_119:1,unit_1325:1,unit_1400:1,unit_1478:1,unit_1493:1,unit_153:2,unit_1947:1,unit_2183:2,unit_231:1,unit_321:1,unit_446:1,unit_45:2,unit_482:1,unit_503:1,unit_75:1",
+    "IAAttachmentsSku": "attach_157:1,attach_184:1,attach_208:1,attach_25:1,attach_334:1,attach_52:1,attach_697:1,attach_73:2,attach_88:1",
+    "IAActionsSku": "action_09:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_115",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_56",
+    "index": 55,
+    "IAUnitsSku": "unit_1070:1,unit_1082:1,unit_110:1,unit_116:1,unit_2019:1,unit_207:1,unit_2171:2,unit_2426:1,unit_294:1,unit_500:1,unit_515:1,unit_524:1,unit_665:1,unit_75:1,unit_752:1,unit_78:1,unit_785:1",
+    "IAAttachmentsSku": "attach_118:1,attach_208:1,attach_232:1,attach_514:1,attach_67:1,attach_88:1",
+    "IAActionsSku": "action_08:1,action_09:1,action_11:1,action_133:1,action_21:1,action_78:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_108",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_57",
+    "index": 56,
+    "IAUnitsSku": ",unit_110:1,unit_1373:2,unit_1694:1,unit_1739:1,unit_1817:1,unit_1820:2,unit_2067:1,unit_2171:1,unit_401:1,unit_413:1,unit_443:1,unit_45:1,unit_461:2,unit_497:1,unit_524:1,unit_566:1,unit_650:1,unit_818:1",
+    "IAAttachmentsSku": "attach_247:1,attach_259:1,attach_514:1,attach_565:1,attach_67:1,attach_70:1,attach_88:1",
+    "IAActionsSku": "action_147:1,action_78:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_115",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_58",
+    "index": 57,
+    "IAUnitsSku": "unit_1031:1,unit_1325:1,unit_1472:1,unit_153:2,unit_1562:1,unit_1568:1,unit_1820:2,unit_2210:1,unit_2264:1,unit_231:1,unit_2429:1,unit_383:1,unit_401:2,unit_440:1,unit_446:1,unit_506:1,unit_509:1,unit_761:1,unit_806:1,unit_932:1",
+    "IAAttachmentsSku": "attach_247:1,attach_514:1,attach_88:1",
+    "IAActionsSku": "action_09:2,action_21:1,action_78:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_132",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_59",
+    "index": 58,
+    "IAUnitsSku": "unit_1061:1,unit_1562:1,unit_1565:2,unit_1568:1,unit_1571:1,unit_1580:1,unit_2168:1,unit_42:1,unit_551:2,unit_557:1,unit_560:1,unit_563:1,unit_767:1,unit_878:1",
+    "IAAttachmentsSku": "attach_118:1,attach_184:1,attach_208:1,attach_214:1,attach_22:1,attach_31:1,attach_40:1,attach_430:1,attach_514:1,attach_556:1,attach_700:1",
+    "IAActionsSku": "action_06:1,action_13:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_77",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_60",
+    "index": 59,
+    "IAUnitsSku": "unit_1562:1,unit_1565:2,unit_1568:1,unit_1571:1,unit_1580:1,unit_2168:1,unit_42:1,unit_551:2,unit_557:1,unit_560:1,unit_563:1,unit_767:1,unit_878:1",
+    "IAAttachmentsSku": "attach_514:2,attach_529:1,attach_64:1,attach_667:1,attach_85:1",
+    "IAActionsSku": "action_06:1,action_08:1,action_112:1,action_132:2,action_164:1,action_21:1,action_80:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_89",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_61",
+    "index": 60,
+    "IAUnitsSku": "unit_1070:2,unit_1076:2,unit_1325:1,unit_1478:2,unit_1493:1,unit_1862:1,unit_1913:1,unit_1932:1,unit_1998:1,unit_2019:2,unit_2186:1,unit_2222:1,unit_2267:2,unit_2276:1",
+    "IAAttachmentsSku": "attach_244:1,attach_28:1,attach_307:1,attach_334:1,attach_88:1",
+    "IAActionsSku": "action_06:1,action_09:2,action_28:1,action_78:1,action_96:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_84",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_62",
+    "index": 61,
+    "IAUnitsSku": "unit_1622:2,unit_1757:2,unit_1956:1,unit_2177:1,unit_357:1,unit_416:1,unit_515:2,unit_584:2,unit_587:1,unit_590:1,unit_605:1,unit_803:1",
+    "IAAttachmentsSku": "attach_247:1,attach_250:1,attach_34:1,attach_565:2,attach_85:1,attach_88:1",
+    "IAActionsSku": "action_06:1,action_28:2,action_53:1,action_78:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_89",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_63",
+    "index": 62,
+    "IAUnitsSku": "unit_104:2,unit_110:1,unit_1739:1,unit_2171:2,unit_2342:1,unit_476:1,unit_524:2,unit_527:1,unit_530:1,unit_665:1,unit_75:1",
+    "IAAttachmentsSku": "attach_214:1,attach_232:2,attach_25:1,attach_259:1,attach_31:1,attach_412:1,attach_547:1,attach_70:1,attach_73:1,attach_76:1",
+    "IAActionsSku": "action_08:1,action_21:1,action_38:1,action_53:1,action_80:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_91",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_64",
+    "index": 63,
+    "IAUnitsSku": "unit_1061:1,unit_1562:1,unit_1565:1,unit_177:2,unit_2067:1,unit_42:2,unit_500:1,unit_503:1,unit_551:2,unit_554:1,unit_560:1,unit_563:2,unit_767:1",
+    "IAAttachmentsSku": "attach_118:1,attach_199:1,attach_247:1,attach_331:1,attach_514:1,attach_52:1,attach_70:1,attach_85:1,attach_88:1",
+    "IAActionsSku": "action_21:1,action_29:1,action_80:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_116",
+    "IAElo": 1100
+  },
+  {
+    "sku": "pvpBotsDeck_65",
+    "index": 64,
+    "IAUnitsSku": "unit_1148:1,unit_1232:1,unit_1277:1,unit_1403:1,unit_1406:1,unit_1418:1,unit_1622:1,unit_1625:1,unit_1628:1,unit_1640:1,unit_1778:1,unit_1910:1,unit_1953:1,unit_2010:1,unit_2079:1,unit_2405:1,unit_590:1,unit_698:1,unit_800:1",
+    "IAAttachmentsSku": "attach_250:1,attach_322:1,attach_325:1,attach_352:1,attach_373:1,attach_523:1,attach_529:1",
+    "IAActionsSku": "action_123:1,action_171:1,action_74:1,action_83:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 1500
+  },
+  {
+    "sku": "pvpBotsDeck_66",
+    "index": 65,
+    "IAUnitsSku": "unit_1193:1,unit_1298:1,unit_1313:1,unit_1328:1,unit_1334:1,unit_1358:1,unit_1439:1,unit_1502:1,unit_1553:1,unit_1903:1,unit_2001:1,unit_2399:1,unit_2935:1,unit_3130:1,unit_3945:1,unit_4446:1,unit_4464:1,unit_4467:1,unit_4542:1",
+    "IAAttachmentsSku": "attach_1168:1,attach_1228:1,attach_358:1,attach_469:1,attach_538:1,attach_766:1,attach_832:1",
+    "IAActionsSku": "action_116:1,action_153:1,action_250:1,action_254:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_67",
+    "index": 66,
+    "IAUnitsSku": "unit_1133:1,unit_1211:1,unit_1217:1,unit_1253:1,unit_1457:1,unit_1748:1,unit_2342:1,unit_2381:1,unit_3157:1,unit_3661:1,unit_3664:1,unit_3739:1,unit_3813:1,unit_4032:1,unit_4101:1,unit_4209:1,unit_4410:1,unit_4503:1,unit_524:1",
+    "IAAttachmentsSku": "attach_1135:1,attach_385:1,attach_397:1,attach_466:1,attach_517:1,attach_748:1",
+    "IAActionsSku": "action_122:1,action_152:1,action_231:1,action_252:1,action_253:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_68",
+    "index": 67,
+    "IAUnitsSku": "unit_1145:1,unit_1148:1,unit_1232:1,unit_1277:1,unit_1625:1,unit_1953:1,unit_2010:1,unit_2123:1,unit_2351:1,unit_2402:1,unit_3715:1,unit_3786:1,unit_3789:1,unit_3831:1,unit_3951:1,unit_4014:1,unit_4545:1,unit_590:1,unit_899:1",
+    "IAAttachmentsSku": "attach_1210:1,attach_352:1,attach_388:1,attach_403:1,attach_889:1",
+    "IAActionsSku": "action_118:1,action_123:1,action_203:1,action_208:1,action_214:1,action_255:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_69",
+    "index": 68,
+    "IAUnitsSku": "unit_1151:1,unit_1154:1,unit_1241:1,unit_1535:1,unit_1661:1,unit_1923:1,unit_1977:1,unit_2372:1,unit_2450:1,unit_2875:1,unit_2980:1,unit_2998:1,unit_3106:1,unit_3112:1,unit_3798:1,unit_3912:1,unit_4482:1,unit_4569:1,unit_917:1",
+    "IAAttachmentsSku": "attach_1156:1,attach_1234:1,attach_355:1,attach_406:1,attach_535:1,attach_613:1,attach_955:1",
+    "IAActionsSku": "action_178:1,action_234:1,action_248:1,action_256:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_70",
+    "index": 69,
+    "IAUnitsSku": "unit_1136:1,unit_1259:1,unit_1550:1,unit_1742:1,unit_1745:1,unit_1900:1,unit_1986:1,unit_2007:1,unit_2384:1,unit_2486:1,unit_2696:1,unit_2965:1,unit_3688:1,unit_4623:1,unit_548:1,unit_749:1",
+    "IAAttachmentsSku": "attach_1000:1,attach_1066:1,attach_367:1,attach_385:1,attach_397:1,attach_484:1,attach_526:1,attach_673:1,attach_874:1",
+    "IAActionsSku": "action_08:1,action_142:1,action_152:1,action_252:1,action_253:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_71",
+    "index": 70,
+    "IAUnitsSku": "unit_1025:1,unit_1403:1,unit_1406:1,unit_1418:1,unit_1784:1,unit_1910:1,unit_2046:1,unit_2147:1,unit_2405:1,unit_2441:1,unit_3139:1,unit_3685:1,unit_3756:1,unit_3834:1,unit_4557:1,unit_614:1,unit_797:1",
+    "IAAttachmentsSku": "attach_1210:1,attach_403:1,attach_580:1,attach_676:1,attach_727:1,attach_742:1,attach_802:1,attach_889:1",
+    "IAActionsSku": "action_118:1,action_123:1,action_208:1,action_214:1,action_255:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_72",
+    "index": 71,
+    "IAUnitsSku": "unit_1199:1,unit_1304:1,unit_1319:1,unit_1340:1,unit_1445:1,unit_1508:1,unit_1520:1,unit_1980:1,unit_2055:1,unit_2088:1,unit_2699:1,unit_2932:1,unit_2962:1,unit_3694:1,unit_3697:1,unit_3724:1,unit_3768:1,unit_3861:1,unit_3915:1,unit_3933:1,unit_4317:1,unit_4590:1",
+    "IAAttachmentsSku": "attach_406:1,attach_463:1,attach_535:1,attach_736:1,attach_955:1",
+    "IAActionsSku": "action_155:1,action_256:1,action_75:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_73",
+    "index": 72,
+    "IAUnitsSku": "unit_1586:1,unit_1589:1,unit_1592:1,unit_1682:1,unit_1944:1,unit_1947:1,unit_1950:1,unit_1995:1,unit_2201:1,unit_2504:1,unit_2684:1,unit_2705:2,unit_3064:2,unit_4536:1,unit_488:2,unit_578:2,unit_932:1",
+    "IAAttachmentsSku": "attach_1228:1,attach_244:1,attach_28:1,attach_826:1,attach_835:1,attach_88:1",
+    "IAActionsSku": "action_148:1,action_19:1,action_212:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_74",
+    "index": 73,
+    "IAUnitsSku": "unit_1148:1,unit_1196:1,unit_1229:1,unit_1271:1,unit_1316:1,unit_1418:1,unit_1634:1,unit_1652:1,unit_1655:1,unit_1919:1,unit_2082:1,unit_2408:1,unit_2929:1,unit_2971:1,unit_3670:1,unit_3691:1,unit_3718:1,unit_3762:1,unit_4212:1,unit_4638:1",
+    "IAAttachmentsSku": "attach_403:1,attach_520:1,attach_610:1,attach_760:1,attach_889:1,attach_949:1",
+    "IAActionsSku": "action_123:1,action_207:1,action_214:1,action_255:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  },
+  {
+    "sku": "pvpBotsDeck_75",
+    "index": 74,
+    "IAUnitsSku": "unit_1166:1,unit_1298:2,unit_1334:1,unit_1499:1,unit_1592:1,unit_1903:1,unit_2001:1,unit_2324:1,unit_2399:1,unit_2801:1,unit_2810:1,unit_2935:1,unit_3067:1,unit_3130:1,unit_4299:1,unit_4365:1,unit_4539:1",
+    "IAAttachmentsSku": "attach_1003:1,attach_1228:1,attach_322:1,attach_382:1,attach_400:1,attach_469:1,attach_829:1,attach_967:1",
+    "IAActionsSku": "action_116:1,action_153:1,action_212:1,action_254:1",
+    "IAPortraitSku": "portrait_01",
+    "IACurrentLevelSku": "level_198",
+    "IAElo": 3000
+  }
+]

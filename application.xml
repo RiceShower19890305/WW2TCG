@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+    <id>air.com.fs.clashofarmies</id>
+    <versionNumber>1.0.0</versionNumber>
+    <versionLabel>1.0</versionLabel>
+    <filename>WW2TCG</filename>
+    <name>World War II: TCG</name>
+    <description>World War II Trading Card Game by Frozen Shard</description>
+    <copyright>Frozen Shard (frozenshard.com)</copyright>
+
+    <initialWindow>
+        <content>MainGame.swf</content>
+        <title>World War II: TCG</title>
+        <systemChrome>none</systemChrome>
+        <transparent>false</transparent>
+        <visible>true</visible>
+        <fullScreen>true</fullScreen>
+        <aspectRatio>landscape</aspectRatio>
+        <renderMode>direct</renderMode>
+        <depthAndStencil>true</depthAndStencil>
+        <minimizable>true</minimizable>
+        <resizable>false</resizable>
+        <width>1280</width>
+        <height>800</height>
+    </initialWindow>
+
+    <icon>
+        <image32x32>assets/icons/icon32.png</image32x32>
+        <image48x48>assets/icons/icon48.png</image48x48>
+        <image128x128>assets/icons/icon128.png</image128x128>
+    </icon>
+
+    <fileTypes/>
+
+    <!-- Desktop / Steam -->
+    <extensions>
+        <extensionID>com.adobe.air.extensions.steamworks</extensionID>
+    </extensions>
+</application>

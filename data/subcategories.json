@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "scategory_01",
+    "name": "TID_SCATEGORY_NAME_1",
+    "animAura": "mercenary_effect",
+    "nameForAbility": "TID_SCATEGORY_NAME_1",
+    "gameModeName": "TID_SCATEGORY_GAMEMODE_NAME_1",
+    "index": "0"
+  },
+  {
+    "sku": "scategory_02",
+    "name": "TID_SCATEGORY_NAME_2",
+    "animAura": "mercenary_effect",
+    "nameForAbility": "TID_SCATEGORY_NAME_2",
+    "gameModeName": "TID_SCATEGORY_GAMEMODE_NAME_2",
+    "index": "1"
+  },
+  {
+    "sku": "scategory_03",
+    "name": "TID_SCATEGORY_NAME_3",
+    "animAura": "mercenary_effect",
+    "nameForAbility": "TID_SCATEGORY_NAME_3",
+    "gameModeName": "TID_SCATEGORY_GAMEMODE_NAME_3",
+    "index": "2"
+  },
+  {
+    "sku": "scategory_04",
+    "name": "TID_SCATEGORY_NAME_4",
+    "animAura": "mercenary_effect",
+    "nameForAbility": "TID_SCATEGORY_NAME_4",
+    "gameModeName": "TID_SCATEGORY_GAMEMODE_NAME_4",
+    "index": "3"
+  },
+  {
+    "sku": "scategory_05",
+    "name": "TID_SCATEGORY_NAME_5",
+    "animAura": "mercenary_effect",
+    "nameForAbility": "TID_SCATEGORY_NAME_5",
+    "gameModeName": "TID_SCATEGORY_GAMEMODE_NAME_5",
+    "index": "4"
+  }
+]

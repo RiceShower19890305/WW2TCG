@@ -1,0 +1,104 @@
+[
+  {
+    "sku": "gameScore_01",
+    "index": 1,
+    "pointsAmount": 10,
+    "desc": "Play a Unit"
+  },
+  {
+    "sku": "gameScore_02",
+    "index": 2,
+    "pointsAmount": 12,
+    "desc": "Play an Attach"
+  },
+  {
+    "sku": "gameScore_03",
+    "index": 3,
+    "pointsAmount": 15,
+    "desc": "Play an Order (1)"
+  },
+  {
+    "sku": "gameScore_04",
+    "index": 4,
+    "pointsAmount": 30,
+    "desc": "Play an Order (2)"
+  },
+  {
+    "sku": "gameScore_05",
+    "index": 5,
+    "pointsAmount": 50,
+    "desc": "Play an Order (3)"
+  },
+  {
+    "sku": "gameScore_06",
+    "index": 6,
+    "pointsAmount": 12,
+    "desc": "Upgrade a Tier 1 (1)"
+  },
+  {
+    "sku": "gameScore_07",
+    "index": 7,
+    "pointsAmount": 30,
+    "desc": "Upgrade a Tier 1 (2)"
+  },
+  {
+    "sku": "gameScore_08",
+    "index": 8,
+    "pointsAmount": 50,
+    "desc": "Upgrade a Tier 1 (3)"
+  },
+  {
+    "sku": "gameScore_09",
+    "index": 9,
+    "pointsAmount": 15,
+    "desc": "Upgrade a Tier 2 (1)"
+  },
+  {
+    "sku": "gameScore_10",
+    "index": 10,
+    "pointsAmount": 35,
+    "desc": "Upgrade a Tier 2 (2)"
+  },
+  {
+    "sku": "gameScore_11",
+    "index": 11,
+    "pointsAmount": 60,
+    "desc": "Upgrade a Tier 2 (3)"
+  },
+  {
+    "sku": "gameScore_12",
+    "index": 12,
+    "pointsAmount": 12,
+    "desc": "Destroy a Unit T1"
+  },
+  {
+    "sku": "gameScore_13",
+    "index": 13,
+    "pointsAmount": 15,
+    "desc": "Destroy a Unit T1 with Attach"
+  },
+  {
+    "sku": "gameScore_14",
+    "index": 14,
+    "pointsAmount": 20,
+    "desc": "Destroy a Unit T2"
+  },
+  {
+    "sku": "gameScore_15",
+    "index": 15,
+    "pointsAmount": 25,
+    "desc": "Destroy a Unit T2 with Attach"
+  },
+  {
+    "sku": "gameScore_16",
+    "index": 16,
+    "pointsAmount": 40,
+    "desc": "Destroy a Unit T3"
+  },
+  {
+    "sku": "gameScore_17",
+    "index": 17,
+    "pointsAmount": 50,
+    "desc": "Destroy a Unit T3 with Attach"
+  }
+]

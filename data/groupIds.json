@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "group_01",
+    "name": "TID_GROUP_NAME_01",
+    "nameForAbility": "TID_GROUP_NAME_01",
+    "info": "Factory",
+    "desc": "TID_GROUP_DESC_01",
+    "index": 1
+  },
+  {
+    "sku": "group_02",
+    "name": "TID_GROUP_NAME_02",
+    "nameForAbility": "TID_GROUP_NAME_02",
+    "info": "Hangar",
+    "desc": "TID_GROUP_DESC_02",
+    "index": 2
+  },
+  {
+    "sku": "group_03",
+    "name": "TID_GROUP_NAME_03",
+    "nameForAbility": "TID_GROUP_NAME_03",
+    "info": "Shipyard",
+    "desc": "TID_GROUP_DESC_03",
+    "index": 3
+  }
+]

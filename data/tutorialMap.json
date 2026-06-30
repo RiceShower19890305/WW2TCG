@@ -1,0 +1,136 @@
+[
+  {
+    "sku": "tutorial_map_01",
+    "index": "0",
+    "level": "9",
+    "desc": "TID_TUTORIAL_MAP_3",
+    "type": "0",
+    "arrowDirection": "left",
+    "attachedTo": "guilds_button",
+    "clickable": "true",
+    "needsOnline": "1"
+  },
+  {
+    "sku": "tutorial_map_02",
+    "index": "1",
+    "level": "9",
+    "desc": "TID_TUTORIAL_MAP_3",
+    "type": "0",
+    "arrowDirection": "right",
+    "attachedTo": "UI/guildsPanel/guildsManageButton",
+    "clickable": "true",
+    "needsOnline": "1"
+  },
+  {
+    "sku": "tutorial_map_04",
+    "index": "3",
+    "level": "25",
+    "desc": "TID_TUTORIAL_MAP_4",
+    "type": "0",
+    "arrowDirection": "down",
+    "attachedTo": "topMenuBar/dungeons_button",
+    "clickable": "true",
+    "needsOnline": "1"
+  },
+  {
+    "sku": "tutorial_map_06",
+    "index": "5",
+    "level": "50",
+    "desc": "TID_TUTORIAL_MAP_5",
+    "type": "0",
+    "arrowDirection": "down",
+    "attachedTo": "topMenuBar/raids_button",
+    "clickable": "true",
+    "needsOnline": "1"
+  },
+  {
+    "sku": "tutorial_map_07",
+    "index": "6",
+    "level": "4",
+    "desc": "TID_TUTORIAL_REWARD_1",
+    "type": "2",
+    "clickable": "true",
+    "packSku": "pack_39",
+    "tutorialReward": "reward1"
+  },
+  {
+    "sku": "tutorial_map_08",
+    "index": "7",
+    "level": "7",
+    "desc": "TID_TUTORIAL_REWARD_2",
+    "type": "2",
+    "clickable": "true",
+    "packSku": "pack_40",
+    "tutorialReward": "reward2"
+  },
+  {
+    "sku": "tutorial_map_09",
+    "index": "8",
+    "level": "15",
+    "desc": "TID_CONVERSATION_22_1",
+    "type": "1",
+    "arrowDirection": "down-center",
+    "clickable": "true",
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  },
+  {
+    "sku": "tutorial_map_10",
+    "index": "9",
+    "level": "49",
+    "desc": "TID_TUTORIAL_CONVERSATION_15",
+    "type": "1",
+    "arrowDirection": "down-center",
+    "clickable": "true",
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  },
+  {
+    "sku": "tutorial_map_11",
+    "index": "10",
+    "level": "60",
+    "desc": "TID_TUTORIAL_CONVERSATION_16",
+    "type": "1",
+    "arrowDirection": "down-center",
+    "clickable": "true",
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  },
+  {
+    "sku": "tutorial_map_12",
+    "index": "11",
+    "level": "23",
+    "desc": "TID_TUTORIAL_CONVERSATION_17",
+    "type": "1",
+    "arrowDirection": "down-center",
+    "clickable": "true",
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  },
+  {
+    "sku": "tutorial_map_13",
+    "index": "12",
+    "level": "33",
+    "desc": "TID_TUTORIAL_CONVERSATION_18",
+    "type": "1",
+    "arrowDirection": "down-center",
+    "clickable": "true",
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  },
+  {
+    "sku": "tutorial_map_14",
+    "index": "13",
+    "level": "42",
+    "desc": "TID_TUTORIAL_CONVERSATION_19",
+    "type": "1",
+    "arrowDirection": "down-center",
+    "clickable": "true",
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  },
+  {
+    "extraImageBg": "tutorial_soldier",
+    "extraImageDirection": "down-right"
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "sku": "dailyRewards_01",
+    "day": "1",
+    "type": "0",
+    "gold": "25",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_02",
+    "day": "2",
+    "type": "0",
+    "gold": "50",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_03",
+    "day": "3",
+    "type": "3",
+    "bg": "daily_rewards_questcoins",
+    "questCoins": "50"
+  },
+  {
+    "sku": "dailyRewards_04",
+    "day": "4",
+    "type": "1",
+    "packSku": "pack_128",
+    "bg": "daily_rewards_rarity_03"
+  },
+  {
+    "sku": "dailyRewards_05",
+    "day": "5",
+    "type": "0",
+    "gold": "75",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_06",
+    "day": "6",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "50"
+  },
+  {
+    "sku": "dailyRewards_07",
+    "day": "7",
+    "type": "2",
+    "packSku": "pack_03"
+  },
+  {
+    "sku": "dailyRewards_08",
+    "day": "8",
+    "type": "0",
+    "gold": "100",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_09",
+    "day": "9",
+    "type": "3",
+    "bg": "daily_rewards_questcoins",
+    "questCoins": "100"
+  },
+  {
+    "sku": "dailyRewards_10",
+    "day": "10",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "150"
+  },
+  {
+    "sku": "dailyRewards_11",
+    "day": "11",
+    "type": "1",
+    "packSku": "pack_40",
+    "bg": "daily_rewards_rarity_04"
+  },
+  {
+    "sku": "dailyRewards_12",
+    "day": "12",
+    "type": "0",
+    "gold": "150",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_13",
+    "day": "13",
+    "type": "2",
+    "packSku": "pack_29"
+  },
+  {
+    "sku": "dailyRewards_14",
+    "day": "14",
+    "type": "0",
+    "gold": "175",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_15",
+    "day": "15",
+    "type": "1",
+    "packSku": "pack_129",
+    "bg": "daily_rewards_rarity_05"
+  },
+  {
+    "sku": "dailyRewards_16",
+    "day": "16",
+    "type": "3",
+    "bg": "daily_rewards_questcoins",
+    "questCoins": "200"
+  },
+  {
+    "sku": "dailyRewards_17",
+    "day": "17",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "200"
+  },
+  {
+    "sku": "dailyRewards_18",
+    "day": "18",
+    "type": "2",
+    "packSku": "pack_60"
+  },
+  {
+    "sku": "dailyRewards_19",
+    "day": "19",
+    "type": "0",
+    "gold": "250",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_20",
+    "day": "20",
+    "type": "2",
+    "packSku": "pack_04"
+  },
+  {
+    "sku": "dailyRewards_21",
+    "day": "21",
+    "type": "0",
+    "gold": "300",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_22",
+    "day": "22",
+    "type": "2",
+    "packSku": "pack_72"
+  },
+  {
+    "sku": "dailyRewards_23",
+    "day": "23",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "300"
+  },
+  {
+    "sku": "dailyRewards_24",
+    "day": "24",
+    "type": "2",
+    "packSku": "pack_101"
+  },
+  {
+    "sku": "dailyRewards_25",
+    "day": "25",
+    "type": "1",
+    "packSku": "pack_97",
+    "bg": "daily_rewards_rarity_06"
+  },
+  {
+    "sku": "dailyRewards_26",
+    "day": "26",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "400"
+  },
+  {
+    "sku": "dailyRewards_27",
+    "day": "27",
+    "type": "2",
+    "packSku": "pack_107"
+  },
+  {
+    "sku": "dailyRewards_28",
+    "day": "28",
+    "type": "0",
+    "gold": "500",
+    "bg": "daily_rewards_gold"
+  },
+  {
+    "sku": "dailyRewards_29",
+    "day": "29",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "600"
+  },
+  {
+    "sku": "dailyRewards_30",
+    "day": "30",
+    "type": "1",
+    "packSku": "pack_106",
+    "bg": "daily_rewards_rarity_08"
+  },
+  {
+    "sku": "dailyRewards_31",
+    "day": "1",
+    "type": "0",
+    "gold": "1000",
+    "bg": "daily_rewards_gold",
+    "oldPlayerComingBackDef": "1"
+  },
+  {
+    "sku": "dailyRewards_32",
+    "day": "2",
+    "type": "4",
+    "bg": "daily_rewards_raidcoins",
+    "raidPoints": "1000",
+    "oldPlayerComingBackDef": "1"
+  },
+  {
+    "sku": "dailyRewards_33",
+    "day": "3",
+    "type": "1",
+    "packSku": "pack_129",
+    "bg": "daily_rewards_rarity_05",
+    "oldPlayerComingBackDef": "1"
+  }
+]

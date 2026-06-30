@@ -1,0 +1,443 @@
+[
+  {
+    "sku": "AIMovement_01",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_02",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_03",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_04",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_05",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_06",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_07",
+    "AIUnitsBFAmount": 0,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 100,
+    "upgradeChance": 0,
+    "attachmentChance": 0,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_08",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_09",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_10",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_11",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_12",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_13",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_14",
+    "AIUnitsBFAmount": 1,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 80,
+    "upgradeChance": 10,
+    "attachmentChance": 10,
+    "actionChance": 0
+  },
+  {
+    "sku": "AIMovement_15",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_16",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_17",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_18",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_19",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_20",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_21",
+    "AIUnitsBFAmount": 2,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 65,
+    "upgradeChance": 20,
+    "attachmentChance": 10,
+    "actionChance": 5
+  },
+  {
+    "sku": "AIMovement_22",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 25,
+    "upgradeChance": 45,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_23",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 25,
+    "upgradeChance": 45,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_24",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 25,
+    "upgradeChance": 45,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_25",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 25,
+    "upgradeChance": 45,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_26",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 25,
+    "upgradeChance": 45,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_27",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 25,
+    "upgradeChance": 45,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_28",
+    "AIUnitsBFAmount": 3,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 20,
+    "upgradeChance": 45,
+    "attachmentChance": 25,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_29",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 15,
+    "upgradeChance": 55,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_30",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 15,
+    "upgradeChance": 55,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_31",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 15,
+    "upgradeChance": 55,
+    "attachmentChance": 20,
+    "actionChance": 10
+  },
+  {
+    "sku": "AIMovement_32",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 15,
+    "upgradeChance": 50,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_33",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 15,
+    "upgradeChance": 50,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_34",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 15,
+    "upgradeChance": 50,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_35",
+    "AIUnitsBFAmount": 4,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 15,
+    "upgradeChance": 50,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_36",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_37",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_38",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_39",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_40",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_41",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_42",
+    "AIUnitsBFAmount": 5,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_43",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 0,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_44",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 1,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_45",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 2,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_46",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 3,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_47",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 4,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_48",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 5,
+    "unitChance": 0,
+    "upgradeChance": 65,
+    "attachmentChance": 20,
+    "actionChance": 15
+  },
+  {
+    "sku": "AIMovement_49",
+    "AIUnitsBFAmount": 6,
+    "playerUnitsInBFAmount": 6,
+    "unitChance": 0,
+    "upgradeChance": 100,
+    "attachmentChance": 0,
+    "actionChance": 0
+  }
+]

@@ -1,0 +1,33 @@
+package com.gamesparks.api.responses
+{
+   import com.gamesparks.*;
+   import com.gamesparks.api.types.*;
+   
+   public class GetUploadedResponse extends GSResponse
+   {
+      
+      public function GetUploadedResponse(param1:Object)
+      {
+         super(param1);
+      }
+      
+      public function getSize() : Number
+      {
+         if(data.size != null)
+         {
+            return data.size;
+         }
+         return NaN;
+      }
+      
+      public function getUrl() : String
+      {
+         if(data.url != null)
+         {
+            return data.url;
+         }
+         return null;
+      }
+   }
+}
+

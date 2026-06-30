@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "pvpRewards_01",
+    "position": 1,
+    "packSku": "pack_04",
+    "gold": 750
+  },
+  {
+    "sku": "pvpRewards_02",
+    "position": 2,
+    "packSku": "pack_10",
+    "gold": 500
+  },
+  {
+    "sku": "pvpRewards_03",
+    "position": 3,
+    "packSku": "pack_22",
+    "gold": 400
+  },
+  {
+    "sku": "pvpRewards_04",
+    "position": "4,9",
+    "packSku": "pack_03",
+    "gold": 200
+  },
+  {
+    "sku": "pvpRewards_05",
+    "position": "10,15",
+    "packSku": "pack_01",
+    "gold": 100
+  },
+  {
+    "sku": "pvpRewards_06",
+    "position": "16,25",
+    "packSku": "pack_02",
+    "gold": 50
+  }
+]

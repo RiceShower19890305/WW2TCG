@@ -1,0 +1,186 @@
+[
+  {
+    "sku": "map_01",
+    "name": "TID_MAP_NAME_1",
+    "desc": "TID_MAP_DESC_1",
+    "comicThumbnail": "comic_thumbnail_01",
+    "comicName": "TID_COMIC_NAME_1",
+    "index": "1",
+    "levelsAmount": "10",
+    "path": "map_01.swf"
+  },
+  {
+    "sku": "map_02",
+    "name": "TID_MAP_NAME_2",
+    "desc": "TID_MAP_DESC_2",
+    "comicThumbnail": "comic_thumbnail_02",
+    "comicName": "TID_COMIC_NAME_2",
+    "index": "2",
+    "levelsAmount": "10",
+    "path": "map_02.swf"
+  },
+  {
+    "sku": "map_03",
+    "name": "TID_MAP_NAME_3",
+    "desc": "TID_MAP_DESC_3",
+    "comicThumbnail": "comic_thumbnail_03",
+    "comicName": "TID_COMIC_NAME_3",
+    "index": "3",
+    "levelsAmount": "10",
+    "path": "map_03.swf"
+  },
+  {
+    "sku": "map_04",
+    "name": "TID_MAP_NAME_4",
+    "desc": "TID_MAP_DESC_4",
+    "comicThumbnail": "comic_thumbnail_04",
+    "comicName": "TID_COMIC_NAME_4",
+    "index": "4",
+    "levelsAmount": "10",
+    "path": "map_04.swf"
+  },
+  {
+    "sku": "map_05",
+    "name": "TID_MAP_NAME_5",
+    "desc": "TID_MAP_DESC_5",
+    "comicThumbnail": "comic_thumbnail_05",
+    "comicName": "TID_COMIC_NAME_5",
+    "index": "5",
+    "levelsAmount": "10",
+    "path": "map_05.swf"
+  },
+  {
+    "sku": "map_06",
+    "name": "TID_MAP_NAME_6",
+    "desc": "TID_MAP_DESC_6",
+    "comicThumbnail": "comic_thumbnail_06",
+    "comicName": "TID_COMIC_NAME_6",
+    "index": "6",
+    "levelsAmount": "10",
+    "path": "map_06.swf"
+  },
+  {
+    "sku": "map_07",
+    "name": "TID_MAP_NAME_7",
+    "desc": "TID_MAP_DESC_7",
+    "comicThumbnail": "comic_thumbnail_07",
+    "comicName": "TID_COMIC_NAME_7",
+    "index": "7",
+    "levelsAmount": "10",
+    "path": "map_07.swf"
+  },
+  {
+    "sku": "map_08",
+    "name": "TID_MAP_NAME_8",
+    "desc": "TID_MAP_DESC_8",
+    "comicThumbnail": "comic_thumbnail_08",
+    "comicName": "TID_COMIC_NAME_8",
+    "index": "8",
+    "levelsAmount": "10",
+    "path": "map_08.swf"
+  },
+  {
+    "sku": "map_09",
+    "name": "TID_MAP_NAME_9",
+    "desc": "TID_MAP_DESC_9",
+    "comicThumbnail": "comic_thumbnail_09",
+    "comicName": "TID_COMIC_NAME_9",
+    "index": "9",
+    "levelsAmount": "10",
+    "path": "map_09.swf"
+  },
+  {
+    "sku": "map_10",
+    "name": "TID_MAP_NAME_10",
+    "desc": "TID_MAP_DESC_10",
+    "comicThumbnail": "comic_thumbnail_10",
+    "comicName": "TID_COMIC_NAME_10",
+    "index": "10",
+    "levelsAmount": "10",
+    "path": "map_10.swf"
+  },
+  {
+    "sku": "map_11",
+    "name": "TID_MAP_NAME_11",
+    "desc": "TID_MAP_DESC_11",
+    "comicThumbnail": "comic_thumbnail_11",
+    "comicName": "TID_COMIC_NAME_11",
+    "index": "11",
+    "levelsAmount": "10",
+    "path": "map_11.swf"
+  },
+  {
+    "sku": "map_12",
+    "name": "TID_MAP_NAME_12",
+    "desc": "TID_MAP_DESC_12",
+    "comicThumbnail": "comic_thumbnail_12",
+    "comicName": "TID_COMIC_NAME_12",
+    "index": "12",
+    "levelsAmount": "10",
+    "path": "map_12.swf"
+  },
+  {
+    "sku": "map_13",
+    "name": "TID_MAP_NAME_13",
+    "desc": "TID_MAP_DESC_13",
+    "index": "13",
+    "levelsAmount": "10",
+    "path": "map_13.swf"
+  },
+  {
+    "sku": "map_14",
+    "name": "TID_MAP_NAME_14",
+    "desc": "TID_MAP_DESC_14",
+    "index": "14",
+    "levelsAmount": "10",
+    "path": "map_14.swf"
+  },
+  {
+    "sku": "map_15",
+    "name": "TID_MAP_NAME_15",
+    "desc": "TID_MAP_DESC_15",
+    "index": "15",
+    "levelsAmount": "10",
+    "path": "map_15.swf"
+  },
+  {
+    "sku": "map_16",
+    "name": "TID_MAP_NAME_16",
+    "desc": "TID_MAP_DESC_16",
+    "index": "16",
+    "levelsAmount": "10",
+    "path": "map_16.swf"
+  },
+  {
+    "sku": "map_17",
+    "name": "TID_MAP_NAME_17",
+    "desc": "TID_MAP_DESC_17",
+    "index": "17",
+    "levelsAmount": "10",
+    "path": "map_17.swf"
+  },
+  {
+    "sku": "map_18",
+    "name": "TID_MAP_NAME_18",
+    "desc": "TID_MAP_DESC_18",
+    "index": "18",
+    "levelsAmount": "10",
+    "path": "map_18.swf"
+  },
+  {
+    "sku": "map_19",
+    "name": "TID_MAP_NAME_18",
+    "desc": "TID_MAP_DESC_18",
+    "index": "19",
+    "levelsAmount": "10",
+    "path": "map_19.swf"
+  },
+  {
+    "sku": "map_20",
+    "name": "TID_MAP_NAME_18",
+    "desc": "TID_MAP_DESC_18",
+    "index": "20",
+    "levelsAmount": "10",
+    "path": "map_20.swf"
+  }
+]

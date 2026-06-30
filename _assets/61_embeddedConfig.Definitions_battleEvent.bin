@@ -1,0 +1,343 @@
+[
+  {
+    "sku": "eventBattle_01",
+    "name": "TID_EVENTBATTLE_NAME_1",
+    "desc": "TID_EVENTBATTLE_DESC_1",
+    "index": "0",
+    "bg": "eventbattle_icon_01",
+    "triggerEvent": "1",
+    "actionSku": "action_48"
+  },
+  {
+    "sku": "eventBattle_02",
+    "name": "TID_EVENTBATTLE_NAME_2",
+    "desc": "TID_EVENTBATTLE_DESC_2",
+    "index": "1",
+    "bg": "eventbattle_icon_02",
+    "triggerEvent": "0",
+    "actionSku": "action_47"
+  },
+  {
+    "sku": "eventBattle_03",
+    "name": "TID_ABILITIES_NAME_421",
+    "desc": "TID_ABILITIES_DESC_421",
+    "index": "2",
+    "bg": "eventbattle_icon_03",
+    "triggerEvent": "1",
+    "actionSku": "action_56"
+  },
+  {
+    "sku": "eventBattle_04",
+    "name": "TID_ABILITIES_NAME_422",
+    "desc": "TID_ABILITIES_DESC_422",
+    "index": "3",
+    "bg": "eventbattle_icon_03",
+    "triggerEvent": "1",
+    "actionSku": "action_57"
+  },
+  {
+    "sku": "eventBattle_05",
+    "name": "TID_ABILITIES_NAME_423",
+    "desc": "TID_ABILITIES_DESC_423",
+    "index": "4",
+    "bg": "eventbattle_icon_04",
+    "triggerEvent": "0",
+    "actionSku": "action_58"
+  },
+  {
+    "sku": "eventBattle_06",
+    "name": "TID_ABILITIES_NAME_424",
+    "desc": "TID_ABILITIES_DESC_424",
+    "index": "5",
+    "bg": "eventbattle_icon_04",
+    "triggerEvent": "0",
+    "actionSku": "action_59"
+  },
+  {
+    "sku": "eventBattle_07",
+    "name": "TID_ABILITIES_NAME_425",
+    "desc": "TID_ABILITIES_DESC_425",
+    "index": "6",
+    "bg": "eventbattle_icon_04",
+    "triggerEvent": "0",
+    "actionSku": "action_60"
+  },
+  {
+    "sku": "eventBattle_08",
+    "name": "TID_ABILITIES_NAME_426",
+    "desc": "TID_ABILITIES_DESC_426",
+    "index": "7",
+    "bg": "eventbattle_icon_04",
+    "triggerEvent": "0",
+    "actionSku": "action_61"
+  },
+  {
+    "sku": "eventBattle_09",
+    "name": "TID_ABILITIES_NAME_427",
+    "desc": "TID_ABILITIES_DESC_427",
+    "index": "8",
+    "bg": "eventbattle_icon_05",
+    "triggerEvent": "0",
+    "actionSku": "action_62"
+  },
+  {
+    "sku": "eventBattle_10",
+    "name": "TID_ABILITIES_NAME_428",
+    "desc": "TID_ABILITIES_DESC_428",
+    "index": "9",
+    "bg": "eventbattle_icon_05",
+    "triggerEvent": "0",
+    "actionSku": "action_63"
+  },
+  {
+    "sku": "eventBattle_11",
+    "name": "TID_ABILITIES_NAME_429",
+    "desc": "TID_ABILITIES_DESC_429",
+    "index": "10",
+    "bg": "eventbattle_icon_02",
+    "triggerEvent": "0",
+    "actionSku": "action_64"
+  },
+  {
+    "sku": "eventBattle_12",
+    "name": "TID_ABILITIES_NAME_430",
+    "desc": "TID_ABILITIES_DESC_430",
+    "index": "11",
+    "bg": "eventbattle_icon_02",
+    "triggerEvent": "0",
+    "actionSku": "action_65"
+  },
+  {
+    "sku": "eventBattle_13",
+    "name": "TID_ABILITIES_NAME_431",
+    "desc": "TID_ABILITIES_DESC_431",
+    "index": "12",
+    "bg": "eventbattle_icon_06",
+    "triggerEvent": "0",
+    "actionSku": "action_66"
+  },
+  {
+    "sku": "eventBattle_14",
+    "name": "TID_ABILITIES_NAME_432",
+    "desc": "TID_ABILITIES_DESC_432",
+    "index": "13",
+    "bg": "eventbattle_icon_06",
+    "triggerEvent": "0",
+    "actionSku": "action_67"
+  },
+  {
+    "sku": "eventBattle_15",
+    "name": "TID_ABILITIES_NAME_433",
+    "desc": "TID_ABILITIES_DESC_433",
+    "index": "14",
+    "bg": "eventbattle_icon_07",
+    "triggerEvent": "0",
+    "actionSku": "action_68"
+  },
+  {
+    "sku": "eventBattle_16",
+    "name": "TID_ABILITIES_NAME_434",
+    "desc": "TID_ABILITIES_DESC_434",
+    "index": "15",
+    "bg": "eventbattle_icon_07",
+    "triggerEvent": "0",
+    "actionSku": "action_69"
+  },
+  {
+    "sku": "eventBattle_17",
+    "name": "TID_ABILITIES_NAME_435",
+    "desc": "TID_ABILITIES_DESC_435",
+    "index": "16",
+    "bg": "eventbattle_icon_08",
+    "triggerEvent": "0",
+    "actionSku": "action_70"
+  },
+  {
+    "sku": "eventBattle_18",
+    "name": "TID_ABILITIES_NAME_436",
+    "desc": "TID_ABILITIES_DESC_436",
+    "index": "17",
+    "bg": "eventbattle_icon_03",
+    "triggerEvent": "1",
+    "actionSku": "action_71"
+  },
+  {
+    "sku": "eventBattle_19",
+    "name": "TID_ABILITIES_NAME_437",
+    "desc": "TID_ABILITIES_DESC_437",
+    "index": "18",
+    "bg": "eventbattle_icon_03",
+    "triggerEvent": "1",
+    "actionSku": "action_72"
+  },
+  {
+    "sku": "eventBattle_20",
+    "name": "TID_ABILITIES_NAME_726",
+    "desc": "TID_ABILITIES_DESC_726",
+    "index": "19",
+    "bg": "eventbattle_icon_09",
+    "triggerEvent": "0",
+    "actionSku": "action_87"
+  },
+  {
+    "sku": "eventBattle_21",
+    "name": "TID_ABILITIES_NAME_727",
+    "desc": "TID_ABILITIES_DESC_727",
+    "index": "20",
+    "bg": "eventbattle_icon_09",
+    "triggerEvent": "0",
+    "actionSku": "action_88"
+  },
+  {
+    "sku": "eventBattle_22",
+    "name": "TID_ABILITIES_NAME_728",
+    "desc": "TID_ABILITIES_DESC_728",
+    "index": "21",
+    "bg": "eventbattle_icon_10",
+    "triggerEvent": "0",
+    "actionSku": "action_89"
+  },
+  {
+    "sku": "eventBattle_23",
+    "name": "TID_ABILITIES_NAME_729",
+    "desc": "TID_ABILITIES_DESC_729",
+    "index": "22",
+    "bg": "eventbattle_icon_10",
+    "triggerEvent": "0",
+    "actionSku": "action_90"
+  },
+  {
+    "sku": "eventBattle_24",
+    "name": "TID_ABILITIES_NAME_730",
+    "desc": "TID_ABILITIES_DESC_730",
+    "index": "23",
+    "bg": "eventbattle_icon_11",
+    "triggerEvent": "0",
+    "actionSku": "action_91"
+  },
+  {
+    "sku": "eventBattle_25",
+    "name": "TID_ABILITIES_NAME_766",
+    "desc": "TID_ABILITIES_DESC_766",
+    "index": "24",
+    "bg": "eventbattle_icon_12",
+    "triggerEvent": "0",
+    "actionSku": "action_104"
+  },
+  {
+    "sku": "eventBattle_26",
+    "name": "TID_ABILITIES_NAME_767",
+    "desc": "TID_ABILITIES_DESC_767",
+    "index": "25",
+    "bg": "eventbattle_icon_13",
+    "triggerEvent": "0",
+    "actionSku": "action_105"
+  },
+  {
+    "sku": "eventBattle_27",
+    "name": "TID_ABILITIES_NAME_768",
+    "desc": "TID_ABILITIES_DESC_768",
+    "index": "26",
+    "bg": "eventbattle_icon_12",
+    "triggerEvent": "0",
+    "actionSku": "action_106"
+  },
+  {
+    "sku": "eventBattle_28",
+    "name": "TID_ABILITIES_NAME_769",
+    "desc": "TID_ABILITIES_DESC_769",
+    "index": "27",
+    "bg": "eventbattle_icon_13",
+    "triggerEvent": "0",
+    "actionSku": "action_107"
+  },
+  {
+    "sku": "eventBattle_29",
+    "name": "TID_ABILITIES_NAME_997",
+    "index": "28",
+    "bg": "eventbattle_icon_14",
+    "triggerEvent": "0",
+    "actionSku": "action_127"
+  },
+  {
+    "sku": "eventBattle_30",
+    "name": "TID_ABILITIES_NAME_998",
+    "index": "29",
+    "bg": "eventbattle_icon_15",
+    "triggerEvent": "0",
+    "actionSku": "action_128"
+  },
+  {
+    "sku": "eventBattle_31",
+    "name": "TID_ABILITIES_NAME_730",
+    "desc": "TID_ABILITIES_DESC_730",
+    "index": "30",
+    "bg": "eventbattle_icon_11",
+    "triggerEvent": "0",
+    "actionSku": "action_141"
+  },
+  {
+    "sku": "eventBattle_32",
+    "name": "TID_ABILITIES_NAME_1487",
+    "index": "31",
+    "bg": "eventbattle_icon_16",
+    "triggerEvent": "0",
+    "actionSku": "action_180"
+  },
+  {
+    "sku": "eventBattle_33",
+    "name": "TID_ABILITIES_NAME_1487",
+    "index": "32",
+    "bg": "eventbattle_icon_16",
+    "triggerEvent": "0",
+    "actionSku": "action_181"
+  },
+  {
+    "sku": "eventBattle_34",
+    "name": "TID_ABILITIES_NAME_1487",
+    "index": "33",
+    "bg": "eventbattle_icon_16",
+    "triggerEvent": "0",
+    "actionSku": "action_182"
+  },
+  {
+    "sku": "eventBattle_35",
+    "name": "TID_ABILITIES_NAME_1487",
+    "index": "34",
+    "bg": "eventbattle_icon_16",
+    "triggerEvent": "0",
+    "actionSku": "action_183"
+  },
+  {
+    "sku": "eventBattle_36",
+    "name": "TID_ABILITIES_NAME_1651",
+    "index": "35",
+    "bg": "eventbattle_icon_17",
+    "triggerEvent": "0",
+    "actionSku": "action_194"
+  },
+  {
+    "sku": "eventBattle_37",
+    "name": "TID_ABILITIES_NAME_1651",
+    "index": "36",
+    "bg": "eventbattle_icon_17",
+    "triggerEvent": "0",
+    "actionSku": "action_195"
+  },
+  {
+    "sku": "eventBattle_38",
+    "name": "TID_ABILITIES_NAME_2423",
+    "index": "37",
+    "bg": "eventbattle_icon_18",
+    "triggerEvent": "0",
+    "actionSku": "action_268"
+  },
+  {
+    "sku": "eventBattle_39",
+    "name": "TID_ABILITIES_NAME_2424",
+    "index": "38",
+    "bg": "eventbattle_icon_19",
+    "triggerEvent": "0",
+    "actionSku": "action_269"
+  }
+]

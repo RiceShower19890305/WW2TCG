@@ -1,0 +1,73 @@
+[
+  {
+    "sku": "tutorial_01",
+    "index": "0",
+    "levelSku": "level_01",
+    "turn": "1",
+    "desc": "TID_TUTORIAL_CONVERSATION_1",
+    "anim_bg": "tutorial_animation_movement",
+    "animPosX": "13",
+    "animPosY": "51.9",
+    "bg": "tutorial_panel_movement",
+    "character_bg": "tutorial_soldier",
+    "fps": "4"
+  },
+  {
+    "sku": "tutorial_02",
+    "index": "1",
+    "levelSku": "level_01",
+    "turn": "3",
+    "desc": "TID_TUTORIAL_CONVERSATION_2",
+    "anim_bg": "tutorial_animation_combat",
+    "animPosX": "35",
+    "animPosY": "10",
+    "bg": "tutorial_panel_combat",
+    "character_bg": "tutorial_soldier",
+    "fps": "4"
+  },
+  {
+    "sku": "tutorial_03",
+    "index": "2",
+    "levelSku": "level_01",
+    "turn": "2",
+    "desc": "TID_TUTORIAL_CONVERSATION_4",
+    "anim_bg": "tutorial_animation_line",
+    "animPosX": "35",
+    "animPosY": "50",
+    "bg": "tutorial_panel_line",
+    "character_bg": "tutorial_soldier",
+    "fps": "4",
+    "extraText1": "TID_TUTORIAL_CONVERSATION_5",
+    "extraText2": "TID_TUTORIAL_CONVERSATION_6",
+    "extraText3": "TID_TUTORIAL_CONVERSATION_7"
+  },
+  {
+    "sku": "tutorial_04",
+    "index": "3",
+    "levelSku": "level_02",
+    "turn": "1",
+    "desc": "TID_TUTORIAL_CONVERSATION_14",
+    "anim_bg": "tutorial_animation_order",
+    "animPosX": "12",
+    "animPosY": "12",
+    "bg": "tutorial_panel_order",
+    "character_bg": "tutorial_soldier",
+    "fps": "4"
+  },
+  {
+    "sku": "tutorial_05",
+    "index": "4",
+    "levelSku": "level_02",
+    "turn": "2",
+    "desc": "TID_TUTORIAL_CONVERSATION_8",
+    "anim_bg": "tutorial_animation_promote",
+    "animPosX": "50",
+    "animPosY": "10",
+    "bg": "tutorial_panel_promote",
+    "character_bg": "tutorial_soldier",
+    "fps": "4",
+    "extraText1": "TID_TUTORIAL_CONVERSATION_9",
+    "extraText2": "TID_TUTORIAL_CONVERSATION_10",
+    "extraText3": "TID_TUTORIAL_CONVERSATION_11"
+  }
+]

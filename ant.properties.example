@@ -1,0 +1,6 @@
+# Copy this to ant.properties (which is .gitignored) and fill in your paths.
+FLEX_HOME=C:/flex_sdk_4.16
+
+# For ant package-air: path to your PKCS12 signing certificate
+keystore=cert/signing.p12
+storepass=changeme

@@ -1,0 +1,200 @@
+[
+  {
+    "sku": "hero_01",
+    "name": "TID_ENEMYHERO_NAME_1",
+    "rankSku": "rank_02",
+    "isEnemy": 1,
+    "index": 0,
+    "portraitSku": "portrait_01",
+    "bg": "enemy_portrait_1"
+  },
+  {
+    "sku": "hero_02",
+    "name": "TID_ENEMYHERO_NAME_2",
+    "rankSku": "rank_06",
+    "isEnemy": 1,
+    "index": 1,
+    "portraitSku": "portrait_01",
+    "bg": "enemy_portrait_2"
+  },
+  {
+    "sku": "hero_03",
+    "name": "TID_ENEMYHERO_NAME_3",
+    "rankSku": "rank_08",
+    "isEnemy": 1,
+    "index": 2,
+    "portraitSku": "portrait_02",
+    "bg": "enemy_portrait_3"
+  },
+  {
+    "sku": "hero_04",
+    "name": "TID_ENEMYHERO_NAME_4",
+    "rankSku": "rank_11",
+    "isEnemy": 1,
+    "index": 3,
+    "portraitSku": "portrait_04",
+    "bg": "enemy_portrait_4"
+  },
+  {
+    "sku": "hero_05",
+    "name": "TID_ENEMYHERO_NAME_5",
+    "rankSku": "rank_09",
+    "isEnemy": 1,
+    "index": 4,
+    "portraitSku": "portrait_03",
+    "bg": "enemy_portrait_5"
+  },
+  {
+    "sku": "hero_06",
+    "name": "TID_ENEMYHERO_NAME_6",
+    "rankSku": "rank_11",
+    "isEnemy": 1,
+    "index": 5,
+    "portraitSku": "portrait_04",
+    "bg": "enemy_portrait_6"
+  },
+  {
+    "sku": "hero_07",
+    "name": "TID_FRIENDLYHERO_NAME_3",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 6,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_7"
+  },
+  {
+    "sku": "hero_08",
+    "name": "TID_ENEMYHERO_NAME_8",
+    "rankSku": "rank_12",
+    "isEnemy": 1,
+    "index": 7,
+    "portraitSku": "portrait_05",
+    "bg": "enemy_portrait_8"
+  },
+  {
+    "sku": "hero_09",
+    "name": "TID_FRIENDLYHERO_NAME_1",
+    "rankSku": "rank_01",
+    "isEnemy": 0,
+    "index": 8,
+    "portraitSku": "portrait_01",
+    "bg": "friendly_portrait_1"
+  },
+  {
+    "sku": "hero_10",
+    "name": "TID_FRIENDLYHERO_NAME_2",
+    "rankSku": "rank_09",
+    "isEnemy": 0,
+    "index": 9,
+    "portraitSku": "portrait_02",
+    "bg": "friendly_portrait_2"
+  },
+  {
+    "sku": "hero_11",
+    "name": "TID_ENEMYHERO_NAME_7",
+    "rankSku": "rank_14",
+    "isEnemy": 0,
+    "index": 10,
+    "portraitSku": "portrait_05",
+    "bg": "friendly_portrait_3"
+  },
+  {
+    "sku": "hero_12",
+    "name": "TID_FRIENDLYHERO_NAME_4",
+    "rankSku": "rank_08",
+    "isEnemy": 0,
+    "index": 11,
+    "portraitSku": "portrait_03",
+    "bg": "friendly_portrait_4"
+  },
+  {
+    "sku": "hero_13",
+    "name": "TID_FRIENDLYHERO_NAME_5",
+    "rankSku": "rank_13",
+    "isEnemy": 1,
+    "index": 12,
+    "portraitSku": "portrait_05",
+    "bg": "enemy_portrait_10"
+  },
+  {
+    "sku": "hero_14",
+    "name": "TID_ENEMYHERO_NAME_9",
+    "rankSku": "rank_01",
+    "isEnemy": 1,
+    "index": 13,
+    "portraitSku": "portrait_01",
+    "bg": "enemy_portrait_9"
+  },
+  {
+    "sku": "hero_15",
+    "name": "TID_ENEMYHERO_NAME_10",
+    "rankSku": "rank_14",
+    "isEnemy": 1,
+    "index": 14,
+    "portraitSku": "portrait_05",
+    "bg": "enemy_portrait_11"
+  },
+  {
+    "sku": "hero_16",
+    "name": "TID_ENEMYHERO_NAME_11",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 15,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_12"
+  },
+  {
+    "sku": "hero_17",
+    "name": "TID_FRIENDLYHERO_NAME_6",
+    "rankSku": "rank_08",
+    "isEnemy": 0,
+    "index": 16,
+    "portraitSku": "portrait_03",
+    "bg": "friendly_portrait_5"
+  },
+  {
+    "sku": "hero_18",
+    "name": "TID_ENEMYHERO_NAME_12",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 17,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_12"
+  },
+  {
+    "sku": "hero_19",
+    "name": "TID_ENEMYHERO_NAME_13",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 18,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_13"
+  },
+  {
+    "sku": "hero_20",
+    "name": "TID_ENEMYHERO_NAME_14",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 19,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_14"
+  },
+  {
+    "sku": "hero_21",
+    "name": "TID_ENEMYHERO_NAME_15",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 20,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_15"
+  },
+  {
+    "sku": "hero_22",
+    "name": "TID_ENEMYHERO_NAME_16",
+    "rankSku": "rank_15",
+    "isEnemy": 1,
+    "index": 21,
+    "portraitSku": "portrait_06",
+    "bg": "enemy_portrait_16"
+  }
+]

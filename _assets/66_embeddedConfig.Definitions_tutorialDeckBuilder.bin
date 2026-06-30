@@ -1,0 +1,83 @@
+[
+  {
+    "sku": "tutorial_db_01",
+    "index": 0,
+    "desc": "TID_TUTORIAL_DB_1",
+    "arrowDirection": "down",
+    "attachedTo": "tab_unit"
+  },
+  {
+    "sku": "tutorial_db_02",
+    "index": 1,
+    "desc": "TID_TUTORIAL_DB_2",
+    "arrowDirection": "down",
+    "attachedTo": "tab_item"
+  },
+  {
+    "sku": "tutorial_db_03",
+    "index": 2,
+    "desc": "TID_TUTORIAL_DB_3",
+    "arrowDirection": "down",
+    "attachedTo": "tab_order"
+  },
+  {
+    "sku": "tutorial_db_04",
+    "index": 3,
+    "desc": "TID_TUTORIAL_DB_4",
+    "arrowDirection": "up",
+    "attachedTo": "faction_filter_container"
+  },
+  {
+    "sku": "tutorial_db_05",
+    "index": 4,
+    "desc": "TID_TUTORIAL_DB_5",
+    "arrowDirection": "up",
+    "attachedTo": "down_arrow"
+  },
+  {
+    "sku": "tutorial_db_06",
+    "index": 5,
+    "desc": "TID_TUTORIAL_DB_6",
+    "arrowDirection": "left",
+    "attachedTo": "recycle_button"
+  },
+  {
+    "sku": "tutorial_db_07",
+    "index": 6,
+    "desc": "TID_TUTORIAL_DB_8",
+    "arrowDirection": "up",
+    "attachedTo": "view_all_craftable_cards"
+  },
+  {
+    "sku": "tutorial_db_08",
+    "index": 7,
+    "desc": "TID_TUTORIAL_DB_9",
+    "arrowDirection": "left",
+    "attachedTo": "deck_selector",
+    "clickable": true
+  },
+  {
+    "sku": "tutorial_db_09",
+    "index": 8,
+    "desc": "TID_TUTORIAL_DB_10",
+    "arrowDirection": "left",
+    "attachedTo": "deck_panel/suggest_button",
+    "clickable": true
+  },
+  {
+    "sku": "tutorial_db_10",
+    "index": 9,
+    "desc": "TID_TUTORIAL_DB_11",
+    "arrowDirection": "up",
+    "attachedTo": "deck_panel/foreground_container/save_button",
+    "clickable": true
+  },
+  {
+    "sku": "tutorial_db_11",
+    "index": 10,
+    "desc": "TID_TUTORIAL_DB_12",
+    "arrowDirection": "down-left",
+    "attachedTo": "back_button",
+    "clickable": true
+  }
+]

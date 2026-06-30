@@ -1,0 +1,93 @@
+[
+  {
+    "sku": "raidShop_01",
+    "index": "0",
+    "isPack": "0",
+    "cardSku": "action_42",
+    "cost": "400"
+  },
+  {
+    "sku": "raidShop_02",
+    "index": "1",
+    "isPack": "0",
+    "cardSku": "action_97",
+    "cost": "400"
+  },
+  {
+    "sku": "raidShop_03",
+    "index": "2",
+    "isPack": "0",
+    "cardSku": "action_114",
+    "cost": "400"
+  },
+  {
+    "sku": "raidShop_04",
+    "index": "3",
+    "isPack": "0",
+    "cardSku": "action_36",
+    "cost": "7500"
+  },
+  {
+    "sku": "raidShop_05",
+    "index": "4",
+    "isPack": "0",
+    "cardSku": "action_96",
+    "cost": "7500"
+  },
+  {
+    "sku": "raidShop_06",
+    "index": "5",
+    "isPack": "0",
+    "cardSku": "action_81",
+    "cost": "7500"
+  },
+  {
+    "sku": "raidShop_07",
+    "index": "6",
+    "isPack": "0",
+    "cardSku": "unit_1328",
+    "cost": "22000"
+  },
+  {
+    "sku": "raidShop_08",
+    "index": "7",
+    "isPack": "0",
+    "cardSku": "action_179",
+    "cost": "600"
+  },
+  {
+    "sku": "raidShop_09",
+    "index": "8",
+    "isPack": "0",
+    "cardSku": "unit_2483",
+    "cost": "22000"
+  },
+  {
+    "sku": "raidShop_10",
+    "index": "9",
+    "isPack": "0",
+    "cardSku": "action_187",
+    "cost": "600"
+  },
+  {
+    "sku": "raidShop_11",
+    "index": "10",
+    "isPack": "0",
+    "cardSku": "unit_2627",
+    "cost": "22000"
+  },
+  {
+    "sku": "raidShop_12",
+    "index": "11",
+    "isPack": "0",
+    "cardSku": "action_220",
+    "cost": "600"
+  },
+  {
+    "sku": "raidShop_13",
+    "index": "12",
+    "isPack": "0",
+    "cardSku": "unit_4873",
+    "cost": "2000"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "sku": "edition_01",
+    "visible": "0",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_1",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01"
+  },
+  {
+    "sku": "edition_02",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_2",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_2",
+    "bg": "edition_02_icon"
+  },
+  {
+    "sku": "edition_03",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_3",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_3",
+    "bg": "edition_03_icon"
+  },
+  {
+    "sku": "edition_04",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_4",
+    "bg": "edition_04_icon"
+  },
+  {
+    "sku": "edition_05",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_5",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_5",
+    "bg": "edition_05_icon"
+  },
+  {
+    "sku": "edition_06",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_6",
+    "bg": "edition_06_icon"
+  },
+  {
+    "sku": "edition_07",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_7",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_7",
+    "bg": "edition_07_icon"
+  },
+  {
+    "sku": "edition_08",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_8",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_8",
+    "bg": "edition_08_icon"
+  },
+  {
+    "sku": "edition_09",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_2",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_9",
+    "bg": "edition_09_icon"
+  },
+  {
+    "sku": "edition_10",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_1",
+    "name": "TID_EDITION_NAME_10",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_01",
+    "desc": "TID_EDITION_DESC_10",
+    "bg": "edition_10_icon"
+  },
+  {
+    "sku": "edition_11",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_11",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_11",
+    "bg": "edition_11_icon"
+  },
+  {
+    "sku": "edition_12",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_12",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_12",
+    "bg": "edition_12_icon"
+  },
+  {
+    "sku": "edition_13",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_13",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_13",
+    "bg": "edition_13_icon"
+  },
+  {
+    "sku": "edition_14",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_14",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_14",
+    "bg": "edition_14_icon"
+  },
+  {
+    "sku": "edition_15",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_15",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_15",
+    "bg": "edition_15_icon"
+  },
+  {
+    "sku": "edition_16",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_16",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_16",
+    "bg": "edition_16_icon"
+  },
+  {
+    "sku": "edition_17",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_6",
+    "bg": "edition_06_icon"
+  },
+  {
+    "sku": "edition_18",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_7",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_7",
+    "bg": "edition_07_icon"
+  },
+  {
+    "sku": "edition_19",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_2",
+    "name": "TID_EDITION_NAME_10",
+    "gameIndex": "1",
+    "gameBG": "db_filter_icon_edition_02",
+    "desc": "TID_EDITION_DESC_10",
+    "bg": "edition_10_icon"
+  },
+  {
+    "sku": "edition_20",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_3",
+    "name": "TID_EDITION_NAME_3",
+    "gameIndex": "2",
+    "gameBG": "db_filter_icon_edition_03",
+    "desc": "TID_EDITION_DESC_20",
+    "bg": "edition_20_icon"
+  },
+  {
+    "sku": "edition_21",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_3",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "2",
+    "gameBG": "db_filter_icon_edition_03",
+    "desc": "TID_EDITION_DESC_6",
+    "bg": "edition_06_icon"
+  },
+  {
+    "sku": "edition_22",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_3",
+    "name": "TID_EDITION_NAME_7",
+    "gameIndex": "2",
+    "gameBG": "db_filter_icon_edition_03",
+    "desc": "TID_EDITION_DESC_7",
+    "bg": "edition_07_icon"
+  },
+  {
+    "sku": "edition_23",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_3",
+    "name": "TID_EDITION_NAME_10",
+    "gameIndex": "2",
+    "gameBG": "db_filter_icon_edition_03",
+    "desc": "TID_EDITION_DESC_10",
+    "bg": "edition_10_icon"
+  },
+  {
+    "sku": "edition_24",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_3",
+    "name": "TID_EDITION_DESC_3",
+    "gameIndex": "2",
+    "gameBG": "db_filter_icon_edition_03",
+    "desc": "TID_EDITION_DESC_3",
+    "bg": "edition_03_icon"
+  },
+  {
+    "sku": "edition_25",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_25",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_26",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_26",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_27",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_27",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_28",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_28",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_29",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_29",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_30",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_4",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_30",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_31",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_5",
+    "name": "TID_EDITION_NAME_5",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_31",
+    "bg": "edition_31_icon"
+  },
+  {
+    "sku": "edition_32",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_5",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_6",
+    "bg": "edition_06_icon"
+  },
+  {
+    "sku": "edition_33",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_5",
+    "name": "TID_EDITION_NAME_7",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_7",
+    "bg": "edition_07_icon"
+  },
+  {
+    "sku": "edition_34",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_5",
+    "name": "TID_EDITION_NAME_10",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_10",
+    "bg": "edition_10_icon"
+  },
+  {
+    "sku": "edition_35",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_5",
+    "name": "TID_EDITION_NAME_35",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_35",
+    "bg": "edition_35_icon"
+  },
+  {
+    "sku": "edition_36",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_36",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_3",
+    "bg": "edition_03_icon"
+  },
+  {
+    "sku": "edition_37",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_37",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_37",
+    "bg": "edition_37_icon"
+  },
+  {
+    "sku": "edition_38",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_38",
+    "gameIndex": "4",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_38",
+    "bg": "edition_38_icon"
+  },
+  {
+    "sku": "edition_39",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_39",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_39",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_40",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_40",
+    "gameIndex": "3",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_40",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_41",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_6",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_41",
+    "bg": "edition_41_icon"
+  },
+  {
+    "sku": "edition_42",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_6",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_6",
+    "bg": "edition_06_icon"
+  },
+  {
+    "sku": "edition_43",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_6",
+    "name": "TID_EDITION_NAME_7",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_7",
+    "bg": "edition_07_icon"
+  },
+  {
+    "sku": "edition_44",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_6",
+    "name": "TID_EDITION_NAME_10",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_10",
+    "bg": "edition_10_icon"
+  },
+  {
+    "sku": "edition_45",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_36",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_3",
+    "bg": "edition_03_icon"
+  },
+  {
+    "sku": "edition_46",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_46",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_5",
+    "bg": "edition_05_icon"
+  },
+  {
+    "sku": "edition_47",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_47",
+    "gameIndex": "5",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_47",
+    "bg": "edition_47_icon"
+  },
+  {
+    "sku": "edition_48",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_48",
+    "gameIndex": "0",
+    "gameBG": "db_filter_icon_edition_04",
+    "desc": "TID_EDITION_DESC_48",
+    "bg": "edition_25_icon"
+  },
+  {
+    "sku": "edition_49",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_7",
+    "name": "TID_EDITION_NAME_49",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_49",
+    "bg": "edition_49_icon"
+  },
+  {
+    "sku": "edition_50",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_7",
+    "name": "TID_EDITION_NAME_6",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_6",
+    "bg": "edition_06_icon"
+  },
+  {
+    "sku": "edition_51",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_7",
+    "name": "TID_EDITION_NAME_7",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_7",
+    "bg": "edition_07_icon"
+  },
+  {
+    "sku": "edition_52",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_7",
+    "name": "TID_EDITION_NAME_10",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_10",
+    "bg": "edition_10_icon"
+  },
+  {
+    "sku": "edition_53",
+    "visible": "1",
+    "gameNameLarge": "TID_EDITION_NAME_LARGE_8",
+    "name": "TID_EDITION_NAME_53",
+    "gameIndex": "7",
+    "gameBG": "db_filter_icon_edition_06",
+    "desc": "TID_EDITION_DESC_53",
+    "bg": "edition_53_icon"
+  },
+  {
+    "sku": "edition_54",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_36",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_3",
+    "bg": "edition_03_icon"
+  },
+  {
+    "sku": "edition_55",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_55",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_3",
+    "bg": "edition_03_icon"
+  },
+  {
+    "sku": "edition_56",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_56",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_5",
+    "bg": "edition_05_icon"
+  },
+  {
+    "sku": "edition_57",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_57",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_57",
+    "bg": "edition_57_icon"
+  },
+  {
+    "sku": "edition_58",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_58",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_58",
+    "bg": "edition_58_icon"
+  },
+  {
+    "sku": "edition_59",
+    "visible": "1",
+    "name": "TID_EDITION_NAME_59",
+    "gameIndex": "6",
+    "gameBG": "db_filter_icon_edition_05",
+    "desc": "TID_EDITION_DESC_59",
+    "bg": "edition_59_icon"
+  }
+]

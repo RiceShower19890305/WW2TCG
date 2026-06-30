@@ -1,0 +1,62 @@
+[
+  {
+    "sku": "faction_01",
+    "index": 0,
+    "name": "TID_FACTION_NAME_1",
+    "nameForAbility": "TID_FACTION_NAME_1",
+    "bg": "frame_faction_01",
+    "bgBack": "back_faction_01",
+    "bgBackXL": "back_zoom_faction_01",
+    "color": "0x496b55",
+    "bgXL": "frame_faction_01_XL",
+    "iconBGName": "tab_german"
+  },
+  {
+    "sku": "faction_02",
+    "index": 1,
+    "name": "TID_FACTION_NAME_2",
+    "nameForAbility": "TID_FACTION_NAME_2",
+    "bg": "frame_faction_02",
+    "bgBack": "back_faction_02",
+    "bgBackXL": "back_zoom_faction_02",
+    "color": "0xfddc00",
+    "bgXL": "frame_faction_02_XL",
+    "iconBGName": "tab_american"
+  },
+  {
+    "sku": "faction_03",
+    "index": 2,
+    "name": "TID_FACTION_NAME_3",
+    "nameForAbility": "TID_FACTION_NAME_3",
+    "bg": "frame_faction_03",
+    "bgBack": "back_faction_03",
+    "bgBackXL": "back_zoom_faction_03",
+    "color": "0xff0000",
+    "bgXL": "frame_faction_03_XL",
+    "iconBGName": "tab_russian"
+  },
+  {
+    "sku": "faction_04",
+    "index": 3,
+    "name": "TID_FACTION_NAME_4",
+    "nameForAbility": "TID_FACTION_NAME_4",
+    "bg": "frame_faction_04",
+    "bgBack": "back_faction_04",
+    "bgBackXL": "back_zoom_faction_04",
+    "color": "0xffffff",
+    "bgXL": "frame_faction_04_XL",
+    "iconBGName": "tab_japanese"
+  },
+  {
+    "sku": "faction_05",
+    "index": 4,
+    "name": "TID_FACTION_NAME_5",
+    "nameForAbility": "TID_FACTION_NAME_5",
+    "bg": "frame_faction_05",
+    "bgBack": "back_faction_05",
+    "bgBackXL": "back_zoom_faction_05",
+    "color": "0x0095fd",
+    "bgXL": "frame_faction_05_XL",
+    "iconBGName": "tab_british"
+  }
+]

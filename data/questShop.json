@@ -1,0 +1,107 @@
+[
+  {
+    "sku": "questShop_01",
+    "index": "0",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_482",
+    "cost": "2000"
+  },
+  {
+    "sku": "questShop_02",
+    "index": "1",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_485",
+    "cost": "500"
+  },
+  {
+    "sku": "questShop_03",
+    "index": "2",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_491",
+    "cost": "100"
+  },
+  {
+    "sku": "questShop_04",
+    "index": "3",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "action_35",
+    "cost": "100"
+  },
+  {
+    "sku": "questShop_05",
+    "index": "4",
+    "isPack": "1",
+    "type": "1",
+    "packSku": "pack_22",
+    "cost": "2000",
+    "name": "TID_SHOP_PACK_NAME_22"
+  },
+  {
+    "sku": "questShop_06",
+    "index": "5",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "attach_208",
+    "cost": "500"
+  },
+  {
+    "sku": "questShop_07",
+    "index": "6",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_1394",
+    "cost": "2000"
+  },
+  {
+    "sku": "questShop_08",
+    "index": "7",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_1884",
+    "cost": "2000"
+  },
+  {
+    "sku": "questShop_09",
+    "index": "8",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "action_184",
+    "cost": "2000"
+  },
+  {
+    "sku": "questShop_10",
+    "index": "9",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_2839",
+    "cost": "2000"
+  },
+  {
+    "sku": "questShop_11",
+    "index": "10",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_4134",
+    "cost": "500"
+  },
+  {
+    "sku": "questShop_12",
+    "index": "11",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_4924",
+    "cost": "2000"
+  },
+  {
+    "sku": "questShop_13",
+    "index": "12",
+    "isPack": "0",
+    "type": "0",
+    "cardSku": "unit_4888",
+    "cost": "100"
+  }
+]

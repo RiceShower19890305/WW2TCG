@@ -1,0 +1,33 @@
+[
+  {
+    "sku": "restriction_01",
+    "subCategoryAllowedSku": "scategory_01,scategory_02,scategory_03,scategory_04,scategory_05",
+    "upgradeAllowed": 1
+  },
+  {
+    "sku": "restriction_02",
+    "subCategoryAllowedSku": "scategory_01,scategory_02,scategory_03,scategory_04,scategory_05",
+    "upgradeAllowed": 0
+  },
+  {
+    "sku": "restriction_03",
+    "subCategoryAllowedSku": "scategory_01"
+  },
+  {
+    "sku": "restriction_04",
+    "subCategoryAllowedSku": "scategory_01,scategory_02,scategory_03,scategory_04,scategory_05",
+    "upgradeAllowed": 1
+  },
+  {
+    "sku": "restriction_05",
+    "subCategoryAllowedSku": "scategory_02"
+  },
+  {
+    "sku": "restriction_06",
+    "subCategoryAllowedSku": "scategory_03"
+  },
+  {
+    "sku": "restriction_07",
+    "subCategoryAllowedSku": "scategory_04"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "sku": "rank_01",
+    "index": 0,
+    "name": "TID_RANK_NAME_1",
+    "bg": "rank_insignia_01",
+    "bgXL": "rank_insignia_01_XL"
+  },
+  {
+    "sku": "rank_02",
+    "index": 1,
+    "name": "TID_RANK_NAME_2",
+    "bg": "rank_insignia_02",
+    "bgXL": "rank_insignia_02_XL",
+    "gainedOnLevel": 5
+  },
+  {
+    "sku": "rank_03",
+    "index": 2,
+    "name": "TID_RANK_NAME_3",
+    "bg": "rank_insignia_03",
+    "bgXL": "rank_insignia_03_XL",
+    "gainedOnLevel": 11
+  },
+  {
+    "sku": "rank_04",
+    "index": 3,
+    "name": "TID_RANK_NAME_4",
+    "bg": "rank_insignia_04",
+    "bgXL": "rank_insignia_04_XL",
+    "gainedOnLevel": 21
+  },
+  {
+    "sku": "rank_05",
+    "index": 4,
+    "name": "TID_RANK_NAME_5",
+    "bg": "rank_insignia_05",
+    "bgXL": "rank_insignia_05_XL",
+    "gainedOnLevel": 31
+  },
+  {
+    "sku": "rank_06",
+    "index": 5,
+    "name": "TID_RANK_NAME_6",
+    "bg": "rank_insignia_06",
+    "bgXL": "rank_insignia_06_XL",
+    "gainedOnLevel": 41
+  },
+  {
+    "sku": "rank_07",
+    "index": 6,
+    "name": "TID_RANK_NAME_7",
+    "bg": "rank_insignia_07",
+    "bgXL": "rank_insignia_07_XL",
+    "gainedOnLevel": 61
+  },
+  {
+    "sku": "rank_08",
+    "index": 7,
+    "name": "TID_RANK_NAME_8",
+    "bg": "rank_insignia_08",
+    "bgXL": "rank_insignia_08_XL",
+    "gainedOnLevel": 81
+  },
+  {
+    "sku": "rank_09",
+    "index": 8,
+    "name": "TID_RANK_NAME_9",
+    "bg": "rank_insignia_09",
+    "bgXL": "rank_insignia_09_XL",
+    "gainedOnLevel": 101
+  },
+  {
+    "sku": "rank_10",
+    "index": 9,
+    "name": "TID_RANK_NAME_10",
+    "bg": "rank_insignia_10",
+    "bgXL": "rank_insignia_10_XL",
+    "gainedOnLevel": 121
+  },
+  {
+    "sku": "rank_11",
+    "index": 10,
+    "name": "TID_RANK_NAME_11",
+    "bg": "rank_insignia_11",
+    "bgXL": "rank_insignia_11_XL",
+    "gainedOnLevel": 141
+  },
+  {
+    "sku": "rank_12",
+    "index": 11,
+    "name": "TID_RANK_NAME_12",
+    "bg": "rank_insignia_12",
+    "bgXL": "rank_insignia_12_XL",
+    "gainedOnLevel": 161
+  },
+  {
+    "sku": "rank_13",
+    "index": 12,
+    "name": "TID_RANK_NAME_13",
+    "bg": "rank_insignia_13",
+    "bgXL": "rank_insignia_13_XL",
+    "gainedOnLevel": 181
+  },
+  {
+    "sku": "rank_14",
+    "index": 13,
+    "name": "TID_RANK_NAME_14",
+    "bg": "rank_insignia_14",
+    "bgXL": "rank_insignia_14_XL",
+    "gainedOnLevel": 201
+  },
+  {
+    "sku": "rank_15",
+    "index": 14,
+    "name": "TID_RANK_NAME_15",
+    "bg": "rank_insignia_15",
+    "bgXL": "rank_insignia_15_XL",
+    "gainedOnLevel": 221
+  },
+  {
+    "sku": "rank_16",
+    "index": 15,
+    "name": "TID_RANK_NAME_16",
+    "bg": "rank_insignia_16",
+    "bgXL": "rank_insignia_16_XL",
+    "gainedOnLevel": 241
+  }
+]

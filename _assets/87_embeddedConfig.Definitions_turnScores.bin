@@ -1,0 +1,182 @@
+[
+  {
+    "sku": "turnScore_01",
+    "turnsLeft": 1,
+    "pointsAmountGameMode0": 300,
+    "pointsAmountGameMode3": 500,
+    "pointsAmountGameMode2": 300,
+    "pointsAmountGameMode1": 300,
+    "pointsAmountGameMode4": 400
+  },
+  {
+    "sku": "turnScore_02",
+    "turnsLeft": 2,
+    "pointsAmountGameMode0": 600,
+    "pointsAmountGameMode3": 1000,
+    "pointsAmountGameMode2": 600,
+    "pointsAmountGameMode1": 600,
+    "pointsAmountGameMode4": 800
+  },
+  {
+    "sku": "turnScore_03",
+    "turnsLeft": 3,
+    "pointsAmountGameMode0": 900,
+    "pointsAmountGameMode3": 1750,
+    "pointsAmountGameMode2": 900,
+    "pointsAmountGameMode1": 900,
+    "pointsAmountGameMode4": 1200
+  },
+  {
+    "sku": "turnScore_04",
+    "turnsLeft": 4,
+    "pointsAmountGameMode0": 1200,
+    "pointsAmountGameMode3": 2750,
+    "pointsAmountGameMode2": 1200,
+    "pointsAmountGameMode1": 1200,
+    "pointsAmountGameMode4": 1600
+  },
+  {
+    "sku": "turnScore_05",
+    "turnsLeft": 5,
+    "pointsAmountGameMode0": 1500,
+    "pointsAmountGameMode3": 4000,
+    "pointsAmountGameMode2": 1500,
+    "pointsAmountGameMode1": 1500,
+    "pointsAmountGameMode4": 2000
+  },
+  {
+    "sku": "turnScore_06",
+    "turnsLeft": 6,
+    "pointsAmountGameMode0": 1800,
+    "pointsAmountGameMode3": 5500,
+    "pointsAmountGameMode2": 1800,
+    "pointsAmountGameMode1": 1800,
+    "pointsAmountGameMode4": 2400
+  },
+  {
+    "sku": "turnScore_07",
+    "turnsLeft": 7,
+    "pointsAmountGameMode0": 2100,
+    "pointsAmountGameMode3": 7250,
+    "pointsAmountGameMode2": 2100,
+    "pointsAmountGameMode1": 2100,
+    "pointsAmountGameMode4": 2800
+  },
+  {
+    "sku": "turnScore_08",
+    "turnsLeft": 8,
+    "pointsAmountGameMode0": 2400,
+    "pointsAmountGameMode3": 9250,
+    "pointsAmountGameMode2": 2400,
+    "pointsAmountGameMode1": 2400,
+    "pointsAmountGameMode4": 3200
+  },
+  {
+    "sku": "turnScore_09",
+    "turnsLeft": 9,
+    "pointsAmountGameMode0": 2700,
+    "pointsAmountGameMode3": 11500,
+    "pointsAmountGameMode2": 2700,
+    "pointsAmountGameMode1": 2700,
+    "pointsAmountGameMode4": 3600
+  },
+  {
+    "sku": "turnScore_10",
+    "turnsLeft": 10,
+    "pointsAmountGameMode0": 3000,
+    "pointsAmountGameMode3": 14000,
+    "pointsAmountGameMode2": 3000,
+    "pointsAmountGameMode1": 3000,
+    "pointsAmountGameMode4": 4000
+  },
+  {
+    "sku": "turnScore_11",
+    "turnsLeft": 11,
+    "pointsAmountGameMode0": 3300,
+    "pointsAmountGameMode3": 15000,
+    "pointsAmountGameMode2": 3300,
+    "pointsAmountGameMode1": 3300,
+    "pointsAmountGameMode4": 4400
+  },
+  {
+    "sku": "turnScore_12",
+    "turnsLeft": 12,
+    "pointsAmountGameMode0": 3600,
+    "pointsAmountGameMode3": 16000,
+    "pointsAmountGameMode2": 3600,
+    "pointsAmountGameMode1": 3600,
+    "pointsAmountGameMode4": 4800
+  },
+  {
+    "sku": "turnScore_13",
+    "turnsLeft": 13,
+    "pointsAmountGameMode0": 3900,
+    "pointsAmountGameMode3": 16500,
+    "pointsAmountGameMode2": 3900,
+    "pointsAmountGameMode1": 3900,
+    "pointsAmountGameMode4": 5200
+  },
+  {
+    "sku": "turnScore_14",
+    "turnsLeft": 14,
+    "pointsAmountGameMode0": 4200,
+    "pointsAmountGameMode3": 17000,
+    "pointsAmountGameMode2": 4200,
+    "pointsAmountGameMode1": 4200,
+    "pointsAmountGameMode4": 5600
+  },
+  {
+    "sku": "turnScore_15",
+    "turnsLeft": 15,
+    "pointsAmountGameMode0": 4500,
+    "pointsAmountGameMode3": 17500,
+    "pointsAmountGameMode2": 4500,
+    "pointsAmountGameMode1": 4500,
+    "pointsAmountGameMode4": 6000
+  },
+  {
+    "sku": "turnScore_16",
+    "turnsLeft": 16,
+    "pointsAmountGameMode0": 4800,
+    "pointsAmountGameMode3": 18000,
+    "pointsAmountGameMode2": 4800,
+    "pointsAmountGameMode1": 4800,
+    "pointsAmountGameMode4": 6300
+  },
+  {
+    "sku": "turnScore_17",
+    "turnsLeft": 17,
+    "pointsAmountGameMode0": 5100,
+    "pointsAmountGameMode3": 18500,
+    "pointsAmountGameMode2": 5100,
+    "pointsAmountGameMode1": 5100,
+    "pointsAmountGameMode4": 6900
+  },
+  {
+    "sku": "turnScore_18",
+    "turnsLeft": 18,
+    "pointsAmountGameMode0": 5400,
+    "pointsAmountGameMode3": 19000,
+    "pointsAmountGameMode2": 5400,
+    "pointsAmountGameMode1": 5400,
+    "pointsAmountGameMode4": 7100
+  },
+  {
+    "sku": "turnScore_19",
+    "turnsLeft": 19,
+    "pointsAmountGameMode0": 5700,
+    "pointsAmountGameMode3": 19500,
+    "pointsAmountGameMode2": 5700,
+    "pointsAmountGameMode1": 5700,
+    "pointsAmountGameMode4": 7300
+  },
+  {
+    "sku": "turnScore_20",
+    "turnsLeft": 20,
+    "pointsAmountGameMode0": 6000,
+    "pointsAmountGameMode3": 20000,
+    "pointsAmountGameMode2": 6000,
+    "pointsAmountGameMode1": 6000,
+    "pointsAmountGameMode4": 7500
+  }
+]

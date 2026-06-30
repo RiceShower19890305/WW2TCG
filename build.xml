@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="WW2TCG" default="compile" basedir=".">
+
+    <!--
+        World War II: TCG — Apache Ant build script
+        Requires: Apache Flex SDK 4.x or Apache Royale, and Adobe AIR SDK 32+
+
+        Usage:
+          ant compile         → build MainGame.swf (debug)
+          ant compile-release → build MainGame.swf (release/optimized)
+          ant package-air     → package AIR installer (requires code signing cert)
+          ant clean           → remove build artifacts
+    -->
+
+    <!-- ── SDK paths — override via -D or ant.properties ──────────────── -->
+    <property name="FLEX_HOME"    value="C:/flex_sdk_4.16"/>
+    <property name="AIR_HOME"     value="${FLEX_HOME}"/>
+    <property name="MXMLC"        value="${FLEX_HOME}/bin/mxmlc.bat"/>
+    <property name="ADT"          value="${AIR_HOME}/bin/adt.bat"/>
+
+    <!-- ── Project layout ──────────────────────────────────────────────── -->
+    <property name="src.dir"      value="${basedir}/src"/>
+    <property name="assets.dir"   value="${basedir}/assets"/>
+    <property name="assets.embed" value="${basedir}/_assets"/>
+    <property name="out.swf"      value="${basedir}/MainGame.swf"/>
+
+    <!-- ── Compile (debug) ──────────────────────────────────────────────── -->
+    <target name="compile" description="Compile MainGame.swf (debug)">
+        <exec executable="${MXMLC}" failonerror="true">
+            <arg value="-source-path=${basedir}"/>
+            <arg value="-source-path+=${src.dir}"/>
+            <arg value="-library-path+=${FLEX_HOME}/frameworks/libs/air"/>
+            <arg value="-library-path+=${FLEX_HOME}/frameworks/libs"/>
+            <arg value="-target-player=32.0"/>
+            <arg value="+configname=air"/>
+            <arg value="-debug=true"/>
+            <arg value="-optimize=false"/>
+            <arg value="-omit-trace-statements=false"/>
+            <arg value="-output=${out.swf}"/>
+            <arg value="${src.dir}/MainGame.as"/>
+        </exec>
+        <echo>Built ${out.swf} (debug)</echo>
+    </target>
+
+    <!-- ── Compile (release) ────────────────────────────────────────────── -->
+    <target name="compile-release" description="Compile MainGame.swf (release)">
+        <exec executable="${MXMLC}" failonerror="true">
+            <arg value="-source-path=${basedir}"/>
+            <arg value="-source-path+=${src.dir}"/>
+            <arg value="-library-path+=${FLEX_HOME}/frameworks/libs/air"/>
+            <arg value="-library-path+=${FLEX_HOME}/frameworks/libs"/>
+            <arg value="-target-player=32.0"/>
+            <arg value="+configname=air"/>
+            <arg value="-debug=false"/>
+            <arg value="-optimize=true"/>
+            <arg value="-omit-trace-statements=true"/>
+            <arg value="-output=${out.swf}"/>
+            <arg value="${src.dir}/MainGame.as"/>
+        </exec>
+        <echo>Built ${out.swf} (release)</echo>
+    </target>
+
+    <!-- ── Package AIR installer ────────────────────────────────────────── -->
+    <target name="package-air" depends="compile-release"
+            description="Package WW2TCG.air (requires signing cert)">
+        <!--
+            Set these properties in ant.properties or override on command line:
+              -Dkeystore=my-cert.p12 -Dstorepass=secret
+        -->
+        <property name="keystore"   value="${basedir}/cert/signing.p12"/>
+        <property name="storepass"  value="changeme"/>
+        <exec executable="${ADT}" failonerror="true">
+            <arg value="-package"/>
+            <arg value="-storetype"/> <arg value="pkcs12"/>
+            <arg value="-keystore"/>  <arg value="${keystore}"/>
+            <arg value="-storepass"/> <arg value="${storepass}"/>
+            <arg value="WW2TCG.air"/>
+            <arg value="application.xml"/>
+            <arg value="${out.swf}"/>
+            <arg value="-C"/> <arg value="${assets.dir}"/> <arg value="."/>
+        </exec>
+        <echo>Created WW2TCG.air</echo>
+    </target>
+
+    <!-- ── Clean ────────────────────────────────────────────────────────── -->
+    <target name="clean" description="Remove build artifacts">
+        <delete file="${out.swf}"/>
+        <delete file="WW2TCG.air"/>
+        <echo>Cleaned</echo>
+    </target>
+
+</project>

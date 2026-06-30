@@ -1,0 +1,88 @@
+[
+  {
+    "sku": "gold_01",
+    "name": "TID_SHOP_GOLD_NAME_1",
+    "desc": "TID_SHOP_GOLD_DESC_1",
+    "index": 0,
+    "gold": 750,
+    "showInShop": 1,
+    "bg": "pack_gold_01_XL",
+    "bgXL": "pack_gold_01_XL",
+    "vGood_ShortCode": "GOLD_BAG_01",
+    "prodId": "gold.GOLD_BAG_01"
+  },
+  {
+    "sku": "gold_02",
+    "name": "TID_SHOP_GOLD_NAME_2",
+    "desc": "TID_SHOP_GOLD_DESC_2",
+    "index": 1,
+    "gold": 1600,
+    "showInShop": 1,
+    "bg": "pack_gold_02_XL",
+    "bgXL": "pack_gold_02_XL",
+    "vGood_ShortCode": "GOLD_BAG_02",
+    "prodId": "gold.GOLD_BAG_02"
+  },
+  {
+    "sku": "gold_03",
+    "name": "TID_SHOP_GOLD_NAME_3",
+    "desc": "TID_SHOP_GOLD_DESC_3",
+    "index": 2,
+    "gold": 3600,
+    "showInShop": 1,
+    "bg": "pack_gold_03_XL",
+    "bgXL": "pack_gold_03_XL",
+    "vGood_ShortCode": "GOLD_BAG_03",
+    "prodId": "gold.GOLD_BAG_03"
+  },
+  {
+    "sku": "gold_04",
+    "name": "TID_SHOP_GOLD_NAME_4",
+    "desc": "TID_SHOP_GOLD_DESC_4",
+    "index": 3,
+    "gold": 5625,
+    "showInShop": 1,
+    "bg": "pack_gold_04_XL",
+    "bgXL": "pack_gold_04_XL",
+    "vGood_ShortCode": "GOLD_BAG_04",
+    "prodId": "gold.GOLD_BAG_04",
+    "shopDisplayOnlyToPayingUsers": 1
+  },
+  {
+    "sku": "gold_05",
+    "name": "TID_SHOP_GOLD_NAME_5",
+    "desc": "TID_SHOP_GOLD_DESC_5",
+    "index": 4,
+    "gold": 9750,
+    "showInShop": 1,
+    "bg": "pack_gold_05_XL",
+    "bgXL": "pack_gold_05_XL",
+    "vGood_ShortCode": "GOLD_BAG_05",
+    "prodId": "gold.GOLD_BAG_05",
+    "shopDisplayOnlyToPayingUsers": 1
+  },
+  {
+    "sku": "gold_06",
+    "name": "TID_SHOP_GOLD_NAME_6",
+    "desc": "TID_SHOP_GOLD_DESC_6",
+    "index": 5,
+    "gold": 22500,
+    "showInShop": 1,
+    "bg": "pack_gold_06_XL",
+    "bgXL": "pack_gold_06_XL",
+    "vGood_ShortCode": "GOLD_BAG_06",
+    "prodId": "gold.GOLD_BAG_06",
+    "shopDisplayOnlyToPayingUsers": 1
+  },
+  {
+    "sku": "gold_custom",
+    "name": "TID_SHOP_GOLD_NAME_1",
+    "desc": "TID_SHOP_GOLD_DESC_1",
+    "index": 6,
+    "gold": 0,
+    "showInShop": 0,
+    "bg": "pack_gold_gift",
+    "bgXL": "pack_gold_gift",
+    "vGood_ShortCode": "GOLD_CUSTOM"
+  }
+]

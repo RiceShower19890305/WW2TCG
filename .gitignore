@@ -1,0 +1,21 @@
+# Build artifacts
+*.air
+*.swf
+!MainGame.swf
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
+
+# Flex compiler output
+bin-debug/
+bin-release/
+
+# Cert / secrets (never commit)
+cert/
+*.p12
+*.pfx
+ant.properties

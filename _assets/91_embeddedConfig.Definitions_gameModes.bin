@@ -1,0 +1,37 @@
+[
+  {
+    "sku": "mode_01",
+    "index": 0,
+    "desc": "TID_GAMEMODE_DESC_1",
+    "bgLevel": "destroy",
+    "color": "0x00FF00"
+  },
+  {
+    "sku": "mode_02",
+    "index": 1,
+    "desc": "TID_GAMEMODE_DESC_1",
+    "bgLevel": "capture",
+    "color": "0xFFFF0"
+  },
+  {
+    "sku": "mode_03",
+    "index": 2,
+    "desc": "TID_GAMEMODE_DESC_1",
+    "bgLevel": "sabotage",
+    "color": "0xFF0000"
+  },
+  {
+    "sku": "mode_04",
+    "index": 3,
+    "desc": "TID_GAMEMODE_DESC_1",
+    "bgLevel": "survive",
+    "color": "0xFFF00"
+  },
+  {
+    "sku": "mode_05",
+    "index": 4,
+    "desc": "TID_GAMEMODE_DESC_1",
+    "bgLevel": "supremacy",
+    "color": "0xFFF00"
+  }
+]

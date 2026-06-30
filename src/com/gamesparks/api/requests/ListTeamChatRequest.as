@@ -1,0 +1,70 @@
+package com.gamesparks.api.requests
+{
+   import com.gamesparks.*;
+   import com.gamesparks.api.responses.*;
+   
+   public class ListTeamChatRequest extends GSRequest
+   {
+      
+      public function ListTeamChatRequest(param1:GS)
+      {
+         super(param1);
+         data["@class"] = ".ListTeamChatRequest";
+      }
+      
+      public function setTimeoutSeconds(param1:int = 10) : ListTeamChatRequest
+      {
+         this.timeoutSeconds = param1;
+         return this;
+      }
+      
+      override public function send(param1:Function) : String
+      {
+         var callback:Function = param1;
+         return super.send(function(param1:Object):void
+         {
+            if(callback != null)
+            {
+               callback(new ListTeamChatResponse(param1));
+            }
+         });
+      }
+      
+      public function setScriptData(param1:Object) : ListTeamChatRequest
+      {
+         data["scriptData"] = param1;
+         return this;
+      }
+      
+      public function setEntryCount(param1:Number) : ListTeamChatRequest
+      {
+         this.data["entryCount"] = param1;
+         return this;
+      }
+      
+      public function setOffset(param1:Number) : ListTeamChatRequest
+      {
+         this.data["offset"] = param1;
+         return this;
+      }
+      
+      public function setOwnerId(param1:String) : ListTeamChatRequest
+      {
+         this.data["ownerId"] = param1;
+         return this;
+      }
+      
+      public function setTeamId(param1:String) : ListTeamChatRequest
+      {
+         this.data["teamId"] = param1;
+         return this;
+      }
+      
+      public function setTeamType(param1:String) : ListTeamChatRequest
+      {
+         this.data["teamType"] = param1;
+         return this;
+      }
+   }
+}
+

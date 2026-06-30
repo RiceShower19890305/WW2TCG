@@ -1,0 +1,94 @@
+package feathers.data
+{
+   import flash.errors.IllegalOperationError;
+   
+   public class XMLListListCollectionDataDescriptor implements IListCollectionDataDescriptor
+   {
+      
+      public function XMLListListCollectionDataDescriptor()
+      {
+         super();
+      }
+      
+      public function getLength(param1:Object) : int
+      {
+         this.checkForCorrectDataType(param1);
+         return (param1 as XMLList).length();
+      }
+      
+      public function getItemAt(param1:Object, param2:int) : Object
+      {
+         this.checkForCorrectDataType(param1);
+         return param1[param2];
+      }
+      
+      public function setItemAt(param1:Object, param2:Object, param3:int) : void
+      {
+         this.checkForCorrectDataType(param1);
+         param1[param3] = XML(param2);
+      }
+      
+      public function addItemAt(param1:Object, param2:Object, param3:int) : void
+      {
+         this.checkForCorrectDataType(param1);
+         var _loc4_:XMLList = (param1 as XMLList).copy();
+         param1[param3] = param2;
+         var _loc5_:int = _loc4_.length();
+         var _loc6_:int = param3;
+         while(_loc6_ < _loc5_)
+         {
+            param1[_loc6_ + 1] = _loc4_[_loc6_];
+            _loc6_++;
+         }
+      }
+      
+      public function removeItemAt(param1:Object, param2:int) : Object
+      {
+         this.checkForCorrectDataType(param1);
+         var _loc3_:XML = param1[param2];
+         delete param1[param2];
+         return _loc3_;
+      }
+      
+      public function removeAll(param1:Object) : void
+      {
+         this.checkForCorrectDataType(param1);
+         var _loc2_:XMLList = param1 as XMLList;
+         var _loc3_:int = _loc2_.length();
+         var _loc4_:int = 0;
+         while(_loc4_ < _loc3_)
+         {
+            delete param1[0];
+            _loc4_++;
+         }
+      }
+      
+      public function getItemIndex(param1:Object, param2:Object) : int
+      {
+         var _loc6_:XML = null;
+         this.checkForCorrectDataType(param1);
+         var _loc3_:XMLList = param1 as XMLList;
+         var _loc4_:int = _loc3_.length();
+         var _loc5_:int = 0;
+         while(_loc5_ < _loc4_)
+         {
+            _loc6_ = _loc3_[_loc5_];
+            if(_loc6_ == param2)
+            {
+               return _loc5_;
+            }
+            _loc5_++;
+         }
+         return -1;
+      }
+      
+      protected function checkForCorrectDataType(param1:Object) : void
+      {
+         if(!(param1 is XMLList))
+         {
+            throw new IllegalOperationError("Expected XMLList. Received " + Object(param1).constructor + " instead.");
+         }
+      }
+   }
+}
+

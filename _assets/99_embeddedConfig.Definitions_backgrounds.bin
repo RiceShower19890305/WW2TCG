@@ -1,0 +1,82 @@
+[
+  {
+    "sku": "background_01",
+    "bg": "background_01_old",
+    "isOld": "1"
+  },
+  {
+    "sku": "background_02",
+    "bg": "background_02_old",
+    "isOld": "1"
+  },
+  {
+    "sku": "background_03",
+    "bg": "background_03_old",
+    "isOld": "1"
+  },
+  {
+    "sku": "background_04",
+    "bg": "background_04_old",
+    "isOld": "1"
+  },
+  {
+    "sku": "background_05",
+    "bg": "background_05_old",
+    "isOld": "1"
+  },
+  {
+    "sku": "background_06",
+    "bg": "background_06_old",
+    "isOld": "1"
+  },
+  {
+    "sku": "background_07",
+    "bg": "background_01",
+    "isTutorial": "1"
+  },
+  {
+    "sku": "background_08",
+    "bg": "background_02"
+  },
+  {
+    "sku": "background_09",
+    "bg": "background_03",
+    "isTutorial": "1"
+  },
+  {
+    "sku": "background_10",
+    "bg": "background_04"
+  },
+  {
+    "sku": "background_11",
+    "bg": "background_05",
+    "isTutorial": "1"
+  },
+  {
+    "sku": "background_12",
+    "bg": "background_06"
+  },
+  {
+    "sku": "background_13",
+    "bg": "background_07",
+    "isTutorial": "1"
+  },
+  {
+    "sku": "background_14",
+    "bg": "background_08"
+  },
+  {
+    "sku": "background_15",
+    "bg": "background_09",
+    "isTutorial": "1"
+  },
+  {
+    "sku": "background_16",
+    "bg": "background_10"
+  },
+  {
+    "sku": "background_17",
+    "bg": "background_11",
+    "isTutorial": "1"
+  }
+]

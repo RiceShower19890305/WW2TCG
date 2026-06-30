@@ -1,0 +1,102 @@
+[
+  {
+    "sku": "deckSlot_00",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 0,
+    "vGood_ShortCode": "DECK_SLOT_01",
+    "prodId": "misc.DECK_SLOT_01",
+    "purchasable": 0,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_01",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 1,
+    "vGood_ShortCode": "DECK_SLOT_02",
+    "prodId": "misc.DECK_SLOT_02",
+    "purchasable": 0,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_02",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 2,
+    "vGood_ShortCode": "DECK_SLOT_03",
+    "prodId": "misc.DECK_SLOT_03",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_03",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 3,
+    "vGood_ShortCode": "DECK_SLOT_04",
+    "prodId": "misc.DECK_SLOT_04",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_04",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 4,
+    "vGood_ShortCode": "DECK_SLOT_05",
+    "prodId": "misc.DECK_SLOT_05",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_05",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 5,
+    "vGood_ShortCode": "DECK_SLOT_06",
+    "prodId": "misc.DECK_SLOT_06",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_06",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 6,
+    "vGood_ShortCode": "DECK_SLOT_07",
+    "prodId": "misc.DECK_SLOT_07",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_07",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 7,
+    "vGood_ShortCode": "DECK_SLOT_08",
+    "prodId": "misc.DECK_SLOT_08",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_08",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 8,
+    "vGood_ShortCode": "DECK_SLOT_09",
+    "prodId": "misc.DECK_SLOT_09",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  },
+  {
+    "sku": "deckSlot_09",
+    "name": "TID_DECKSLOT_NAME",
+    "desc": "TID_DECKSLOT_DESC",
+    "index": 9,
+    "vGood_ShortCode": "DECK_SLOT_10",
+    "prodId": "misc.DECK_SLOT_10",
+    "purchasable": 1,
+    "bg": "deck_buy"
+  }
+]

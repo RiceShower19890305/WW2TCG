@@ -1,0 +1,20 @@
+[
+  {
+    "sku": "category_01",
+    "index": 0,
+    "name": "TID_CATEGORY_NAME_1",
+    "nameForAbility": "TID_CATEGORY_NAME_1"
+  },
+  {
+    "sku": "category_02",
+    "index": 1,
+    "name": "TID_CATEGORY_NAME_2",
+    "nameForAbility": "TID_CATEGORY_NAME_2"
+  },
+  {
+    "sku": "category_03",
+    "index": 2,
+    "name": "TID_CATEGORY_NAME_3",
+    "nameForAbility": "TID_CATEGORY_NAME_3"
+  }
+]

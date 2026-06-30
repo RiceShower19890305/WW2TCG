@@ -1,0 +1,135 @@
+[
+  {
+    "sku": "starRewards_01",
+    "index": 0,
+    "starAmount": 10,
+    "difficulty": 0,
+    "packSku": "pack_02"
+  },
+  {
+    "sku": "starRewards_02",
+    "index": 1,
+    "starAmount": 25,
+    "difficulty": 0,
+    "packSku": "pack_01"
+  },
+  {
+    "sku": "starRewards_03",
+    "index": 2,
+    "starAmount": 50,
+    "difficulty": 0,
+    "packSku": "pack_03"
+  },
+  {
+    "sku": "starRewards_04",
+    "index": 3,
+    "starAmount": 75,
+    "difficulty": 0,
+    "packSku": "pack_21"
+  },
+  {
+    "sku": "starRewards_05",
+    "index": 4,
+    "starAmount": 100,
+    "difficulty": 0,
+    "packSku": "pack_04"
+  },
+  {
+    "sku": "starRewards_06",
+    "index": 5,
+    "starAmount": 150,
+    "difficulty": 0,
+    "packSku": "pack_12"
+  },
+  {
+    "sku": "starRewards_07",
+    "index": 6,
+    "starAmount": 200,
+    "difficulty": 0,
+    "packSku": "pack_11"
+  },
+  {
+    "sku": "starRewards_08",
+    "index": 7,
+    "starAmount": 25,
+    "difficulty": 1,
+    "packSku": "pack_05"
+  },
+  {
+    "sku": "starRewards_09",
+    "index": 8,
+    "starAmount": 50,
+    "difficulty": 1,
+    "packSku": "pack_06"
+  },
+  {
+    "sku": "starRewards_10",
+    "index": 9,
+    "starAmount": 75,
+    "difficulty": 1,
+    "packSku": "pack_07"
+  },
+  {
+    "sku": "starRewards_11",
+    "index": 10,
+    "starAmount": 100,
+    "difficulty": 1,
+    "packSku": "pack_04"
+  },
+  {
+    "sku": "starRewards_12",
+    "index": 11,
+    "starAmount": 150,
+    "difficulty": 1,
+    "packSku": "pack_11"
+  },
+  {
+    "sku": "starRewards_13",
+    "index": 12,
+    "starAmount": 200,
+    "difficulty": 1,
+    "packSku": "pack_12"
+  },
+  {
+    "sku": "starRewards_14",
+    "index": 13,
+    "starAmount": 25,
+    "difficulty": 2,
+    "packSku": "pack_08"
+  },
+  {
+    "sku": "starRewards_15",
+    "index": 14,
+    "starAmount": 50,
+    "difficulty": 2,
+    "packSku": "pack_26"
+  },
+  {
+    "sku": "starRewards_16",
+    "index": 15,
+    "starAmount": 75,
+    "difficulty": 2,
+    "packSku": "pack_04"
+  },
+  {
+    "sku": "starRewards_17",
+    "index": 16,
+    "starAmount": 100,
+    "difficulty": 2,
+    "packSku": "pack_11"
+  },
+  {
+    "sku": "starRewards_18",
+    "index": 17,
+    "starAmount": 150,
+    "difficulty": 2,
+    "packSku": "pack_12"
+  },
+  {
+    "sku": "starRewards_19",
+    "index": 18,
+    "starAmount": 200,
+    "difficulty": 2,
+    "packSku": "pack_13"
+  }
+]

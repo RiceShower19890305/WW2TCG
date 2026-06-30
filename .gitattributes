@@ -1,0 +1,27 @@
+# Treat all binary game assets as binary: no line-ending normalization, no diff.
+# Important before bulk-importing the textures_on_demand asset tree.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.mp3   binary
+*.wav   binary
+*.swf   binary
+*.fnt   binary
+*.ttf   binary
+*.otf   binary
+*.cff   binary
+*.ane   binary
+*.dll   binary
+*.exe   binary
+*.lib   binary
+*.dylib binary
+*.icns  binary
+*.ico   binary
+*.vch   binary
+
+# Source stays text.
+*.as    text
+*.xml   text
+*.json  text
+*.md    text

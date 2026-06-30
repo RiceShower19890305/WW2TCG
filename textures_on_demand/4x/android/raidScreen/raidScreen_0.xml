@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:34d412df22ca7c68d413399620db6641:5bd1f26b3efe99362b147bfb37b42993:04ff80ae1057dd8af409418f2fdc05f2$ -->
+<TextureAtlas imagePath="raidScreen_0.png" width="2048" height="2048">
+    <SubTexture name="american_british_vs" x="664" y="350" width="113" height="113"/>
+    <SubTexture name="american_vs" x="664" y="467" width="113" height="113"/>
+    <SubTexture name="amount_raid_currency" x="511" y="2" width="281" height="86"/>
+    <SubTexture name="british_vs" x="664" y="584" width="113" height="113"/>
+    <SubTexture name="buy_raid_button" x="161" y="1936" width="309" height="109" frameX="-12" frameY="-5" frameWidth="334" frameHeight="117"/>
+    <SubTexture name="dungeon_base_button" x="998" y="1898" width="420" height="145" frameX="-4" frameY="-5" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="dungeon_info_button" x="669" y="92" width="121" height="124" frameX="0" frameY="-1" frameWidth="121" frameHeight="125"/>
+    <SubTexture name="dungeon_info_panel" x="2021" y="2" width="3" height="3" frameX="0" frameY="0" frameWidth="1145" frameHeight="1251"/>
+    <SubTexture name="dungeon_pack_01" x="511" y="744" width="144" height="100" frameX="-7" frameY="-17" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_pack_02" x="511" y="642" width="145" height="98" frameX="-7" frameY="-19" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_pack_stronghold" x="1880" y="1748" width="156" height="105" frameX="-3" frameY="-12" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_play_button" x="1422" y="1898" width="398" height="144" frameX="0" frameY="-4" frameWidth="400" frameHeight="148"/>
+    <SubTexture name="dungeon_pointer" x="1431" y="1189" width="59" height="65"/>
+    <SubTexture name="dungeon_portrait" x="1880" y="1857" width="155" height="123" frameX="-2" frameY="-2" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_random_card" x="664" y="220" width="131" height="126" frameX="-17" frameY="0" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_right_panel_center" x="89" y="2" width="2" height="1301" frameX="0" frameY="0" frameWidth="2" frameHeight="1307"/>
+    <SubTexture name="dungeon_right_panel_left" x="2" y="2" width="83" height="1301" frameX="-3" frameY="0" frameWidth="86" frameHeight="1307"/>
+    <SubTexture name="dungeon_small_gold" x="2" y="1936" width="155" height="110" frameX="0" frameY="-10" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="german_vs" x="660" y="701" width="113" height="113"/>
+    <SubTexture name="raid_button_02" x="1600" y="1468" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_02_lock" x="1600" y="1608" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_04" x="1158" y="909" width="414" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_04_lock" x="1158" y="1049" width="414" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_06" x="95" y="2" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_06_lock" x="95" y="142" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_08" x="95" y="282" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_08_lock" x="95" y="422" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_10" x="95" y="562" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_10_lock" x="95" y="702" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_14" x="95" y="282" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_14_lock" x="95" y="422" width="412" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_16" x="1600" y="909" width="414" height="139" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_16_lock" x="1600" y="1052" width="414" height="136" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_18" x="1600" y="1192" width="414" height="134" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_button_18_lock" x="1600" y="1330" width="414" height="134" frameX="0" frameY="0" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_currency_button_icon" x="1600" y="1748" width="123" height="142" frameX="0" frameY="-3" frameWidth="127" frameHeight="145"/>
+    <SubTexture name="raid_diff_mp_icon" x="1494" y="1189" width="63" height="56" frameX="-1" frameY="0" frameWidth="65" frameHeight="56"/>
+    <SubTexture name="raid_info_switch_button" x="843" y="1898" width="151" height="146" frameX="0" frameY="-5" frameWidth="151" frameHeight="151"/>
+    <SubTexture name="raid_pack_reward" x="511" y="92" width="154" height="120" frameX="-2" frameY="-6" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="raid_panel_07_XL" x="2" y="1307" width="795" height="625" frameX="0" frameY="-1" frameWidth="795" frameHeight="626"/>
+    <SubTexture name="raid_panel_08_XL" x="801" y="1269" width="795" height="625" frameX="0" frameY="-1" frameWidth="795" frameHeight="626"/>
+    <SubTexture name="raid_ranking_1" x="1727" y="1748" width="149" height="138" frameX="-4" frameY="-9" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="raid_ranking_2" x="511" y="216" width="149" height="138" frameX="-4" frameY="-9" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="raid_ranking_3" x="511" y="358" width="149" height="138" frameX="-4" frameY="-9" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="raid_ranking_4" x="511" y="500" width="149" height="138" frameX="-4" frameY="-9" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="raid_ticket_mp_counter" x="474" y="1936" width="365" height="105" frameX="0" frameY="0" frameWidth="366" frameHeight="105"/>
+    <SubTexture name="raid_timer_layer" x="1158" y="1189" width="269" height="66" frameX="-31" frameY="-9" frameWidth="300" frameHeight="84"/>
+    <SubTexture name="raid_timer_tickets" x="659" y="818" width="113" height="83" frameX="0" frameY="-1" frameWidth="113" frameHeight="84"/>
+    <SubTexture name="raid_tutorial_image" x="801" y="2" width="1216" height="903" frameX="-82" frameY="-57" frameWidth="1380" frameHeight="1015"/>
+    <SubTexture name="raids_description_panel" x="95" y="909" width="1059" height="356"/>
+</TextureAtlas>

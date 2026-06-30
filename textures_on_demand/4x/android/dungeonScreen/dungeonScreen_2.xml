@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:0925d4ab2a0bb61afb424639699dfcab:1a96f9b8c6e2b9459f731feea12f6722:283f7f289420b3373220f4d0fcd3c5b9$ -->
+<TextureAtlas imagePath="dungeonScreen_2.png" width="2048" height="1024">
+    <SubTexture name="american_british_vs" x="932" y="122" width="113" height="113"/>
+    <SubTexture name="american_vs" x="1048" y="2" width="113" height="113"/>
+    <SubTexture name="british_vs" x="1046" y="239" width="113" height="113"/>
+    <SubTexture name="dungeon_card_df" x="797" y="2" width="131" height="126" frameX="-17" frameY="0" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_card_outbreak" x="922" y="262" width="120" height="120" frameX="-18" frameY="-3" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_card_warmachine" x="921" y="390" width="120" height="121" frameX="-18" frameY="-3" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_description_panel" x="2" y="628" width="1050" height="343" frameX="-4" frameY="-6" frameWidth="1059" frameHeight="355"/>
+    <SubTexture name="dungeon_diff_locked" x="932" y="2" width="112" height="116" frameX="-26" frameY="-8" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_info_button" x="797" y="262" width="121" height="124" frameX="0" frameY="-1" frameWidth="121" frameHeight="125"/>
+    <SubTexture name="dungeon_large_image_9" x="2" y="2" width="791" height="622" frameX="0" frameY="-3" frameWidth="795" frameHeight="626"/>
+    <SubTexture name="dungeon_pack_03_08" x="1045" y="386" width="158" height="118" frameX="0" frameY="-7" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_pack_33" x="797" y="390" width="120" height="123" frameX="-18" frameY="-3" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_pack_df" x="953" y="515" width="152" height="103" frameX="-3" frameY="-13" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_pack_raid_07" x="797" y="517" width="152" height="104" frameX="0" frameY="-20" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_random_card" x="797" y="132" width="131" height="126" frameX="-17" frameY="0" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="dungeon_small_gold" x="1166" y="119" width="155" height="110" frameX="-2" frameY="-10" frameWidth="159" frameHeight="126"/>
+    <SubTexture name="german_vs" x="1049" y="119" width="113" height="113"/>
+    <SubTexture name="japanese_vs" x="1165" y="2" width="113" height="113"/>
+    <SubTexture name="russian_vs" x="1163" y="236" width="113" height="113"/>
+</TextureAtlas>

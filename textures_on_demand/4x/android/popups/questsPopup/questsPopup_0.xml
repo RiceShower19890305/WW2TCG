@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:8b871a66d4edd98c2f2369fdc0f53fe9:b194d50550b4ab39d25f771b446a0efe:369f768c4e63972ca3733fb92245b85d$ -->
+<TextureAtlas imagePath="questsPopup_0.png" width="2048" height="2048">
+    <SubTexture name="amount_quest_currency" x="1616" y="432" width="281" height="86"/>
+    <SubTexture name="battlepass_animation" x="1099" y="2" width="515" height="517" frameX="-33" frameY="0" frameWidth="586" frameHeight="618"/>
+    <SubTexture name="battlepass_button_options_challenges" x="938" y="716" width="118" height="120" frameX="-13" frameY="-15" frameWidth="147" frameHeight="149"/>
+    <SubTexture name="battlepass_button_options_down" x="2" y="223" width="471" height="149"/>
+    <SubTexture name="battlepass_button_options_info" x="1899" y="364" width="136" height="136" frameX="-6" frameY="-6" frameWidth="147" frameHeight="149"/>
+    <SubTexture name="battlepass_button_options_rewards" x="941" y="612" width="122" height="102" frameX="-12" frameY="-23" frameWidth="147" frameHeight="149"/>
+    <SubTexture name="battlepass_button_options_up" x="475" y="223" width="471" height="149"/>
+    <SubTexture name="battlepass_chain_icon" x="932" y="838" width="114" height="114"/>
+    <SubTexture name="battlepass_challenge_id" x="1856" y="640" width="188" height="207"/>
+    <SubTexture name="battlepass_challenge_timer" x="1616" y="223" width="281" height="207"/>
+    <SubTexture name="battlepass_icon_basic" x="1899" y="502" width="136" height="136" frameX="-14" frameY="-7" frameWidth="169" frameHeight="150"/>
+    <SubTexture name="battlepass_icon_upgraded" x="948" y="223" width="136" height="136" frameX="-14" frameY="-7" frameWidth="169" frameHeight="150"/>
+    <SubTexture name="battlepass_info_icon_01" x="1616" y="520" width="238" height="238" frameX="-21" frameY="-20" frameWidth="281" frameHeight="281"/>
+    <SubTexture name="battlepass_info_icon_02" x="1616" y="2" width="281" height="219" frameX="0" frameY="-35" frameWidth="281" frameHeight="281"/>
+    <SubTexture name="battlepass_info_icon_03" x="2" y="374" width="236" height="220" frameX="-30" frameY="-33" frameWidth="281" frameHeight="281"/>
+    <SubTexture name="battlepass_info_icon_04" x="240" y="374" width="225" height="225" frameX="-28" frameY="-32" frameWidth="281" frameHeight="281"/>
+    <SubTexture name="battlepass_info_mini_icon" x="1737" y="826" width="58" height="58"/>
+    <SubTexture name="battlepass_reward_icon_claimed" x="1737" y="886" width="58" height="58"/>
+    <SubTexture name="battlepass_reward_icon_locked" x="1965" y="849" width="58" height="58"/>
+    <SubTexture name="battlepass_reward_layer" x="467" y="374" width="178" height="394"/>
+    <SubTexture name="bp_quest_image_01" x="212" y="601" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_02" x="2" y="659" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_03" x="170" y="769" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_04" x="2" y="827" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_05" x="647" y="374" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_06" x="647" y="542" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_07" x="1075" y="521" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_08" x="647" y="710" width="166" height="166"/>
+    <SubTexture name="bp_quest_image_09" x="457" y="770" width="166" height="166"/>
+    <SubTexture name="buy_quest_button" x="338" y="1031" width="104" height="110" frameX="-2" frameY="-1" frameWidth="107" frameHeight="111"/>
+    <SubTexture name="daily_quest_banner" x="2" y="596" width="208" height="61"/>
+    <SubTexture name="daily_quest_image_01" x="170" y="937" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_02" x="2" y="995" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_03" x="1243" y="521" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_04" x="1411" y="521" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_05" x="1065" y="689" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_06" x="625" y="878" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_07" x="456" y="938" width="166" height="166"/>
+    <SubTexture name="daily_quest_image_08" x="170" y="1105" width="166" height="166"/>
+    <SubTexture name="daily_quest_layer" x="380" y="601" width="75" height="114"/>
+    <SubTexture name="job_effect_1" x="948" y="361" width="135" height="135"/>
+    <SubTexture name="quest_completed_panel" x="2" y="2" width="1095" height="219" frameX="-5" frameY="-6" frameWidth="1103" frameHeight="225"/>
+    <SubTexture name="quest_currency_button_icon" x="338" y="928" width="116" height="101" frameX="-4" frameY="-26" frameWidth="127" frameHeight="145"/>
+    <SubTexture name="quest_currency_icon" x="815" y="374" width="129" height="113" frameX="-4" frameY="-17" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="quest_image_01" x="2" y="1163" width="166" height="166"/>
+    <SubTexture name="quest_image_07" x="1233" y="689" width="166" height="166"/>
+    <SubTexture name="quest_image_08" x="1401" y="689" width="166" height="166"/>
+    <SubTexture name="quest_image_15" x="1384" y="857" width="166" height="166"/>
+    <SubTexture name="quest_image_18" x="2" y="1667" width="166" height="166"/>
+    <SubTexture name="quest_image_22" x="2" y="1835" width="166" height="166"/>
+    <SubTexture name="quest_image_23" x="961" y="1025" width="166" height="166"/>
+    <SubTexture name="quest_image_24" x="792" y="1156" width="166" height="166"/>
+    <SubTexture name="quest_image_27" x="612" y="1214" width="166" height="166"/>
+    <SubTexture name="quest_image_28" x="338" y="1274" width="166" height="166"/>
+    <SubTexture name="quest_image_29" x="170" y="1441" width="166" height="166"/>
+    <SubTexture name="quest_image_30" x="1129" y="1025" width="166" height="166"/>
+    <SubTexture name="quest_image_31" x="1297" y="1025" width="166" height="166"/>
+    <SubTexture name="quest_image_55" x="1465" y="1096" width="166" height="166"/>
+    <SubTexture name="quest_image_57" x="1633" y="1185" width="166" height="166"/>
+    <SubTexture name="quest_image_63" x="1801" y="1185" width="166" height="166"/>
+    <SubTexture name="quest_image_73" x="170" y="1609" width="166" height="166"/>
+    <SubTexture name="quest_image_77" x="170" y="1777" width="166" height="166"/>
+    <SubTexture name="quest_image_81" x="960" y="1193" width="166" height="166"/>
+    <SubTexture name="quest_image_85" x="780" y="1324" width="166" height="166"/>
+    <SubTexture name="quest_image_89" x="506" y="1382" width="166" height="166"/>
+    <SubTexture name="quest_image_108" x="1569" y="760" width="166" height="166"/>
+    <SubTexture name="quest_image_123" x="1797" y="849" width="166" height="166"/>
+    <SubTexture name="quest_image_131" x="1048" y="857" width="166" height="166"/>
+    <SubTexture name="quest_image_139" x="793" y="988" width="166" height="166"/>
+    <SubTexture name="quest_image_145" x="624" y="1046" width="166" height="166"/>
+    <SubTexture name="quest_image_146" x="444" y="1106" width="166" height="166"/>
+    <SubTexture name="quest_image_147" x="170" y="1273" width="166" height="166"/>
+    <SubTexture name="quest_image_148" x="2" y="1331" width="166" height="166"/>
+    <SubTexture name="quest_image_149" x="1216" y="857" width="166" height="166"/>
+    <SubTexture name="quest_image_150" x="1552" y="928" width="166" height="166"/>
+    <SubTexture name="quest_image_151" x="1720" y="1017" width="166" height="166"/>
+    <SubTexture name="quest_image_152" x="2" y="1499" width="166" height="166"/>
+    <SubTexture name="quest_info_button" x="815" y="623" width="121" height="123" frameX="0" frameY="-2" frameWidth="121" frameHeight="125"/>
+    <SubTexture name="quest_journal_button_icon" x="815" y="489" width="124" height="132" frameX="-21" frameY="0" frameWidth="169" frameHeight="132"/>
+    <SubTexture name="quest_layer" x="380" y="717" width="75" height="114"/>
+    <SubTexture name="quest_reset_button_icon" x="1737" y="760" width="65" height="64" frameX="-23" frameY="-24" frameWidth="103" frameHeight="111"/>
+    <SubTexture name="rewards_battle_pass_icon" x="338" y="1442" width="166" height="166"/>
+    <SubTexture name="rewards_cards_icon" x="1899" y="2" width="141" height="141"/>
+    <SubTexture name="rewards_craft_unlocked_icon" x="941" y="498" width="132" height="112" frameX="-5" frameY="-14" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="rewards_dungeons_icon" x="1128" y="1193" width="166" height="166"/>
+    <SubTexture name="rewards_fb_login_icon" x="1296" y="1193" width="166" height="166"/>
+    <SubTexture name="rewards_gift_icon" x="1464" y="1264" width="166" height="166"/>
+    <SubTexture name="rewards_gold_icon" x="1899" y="145" width="141" height="102" frameX="0" frameY="-20" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="rewards_guilds_icon" x="1632" y="1353" width="166" height="166"/>
+    <SubTexture name="rewards_packs_icon" x="1899" y="249" width="138" height="113" frameX="-2" frameY="-14" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="rewards_portraits_icon" x="338" y="833" width="117" height="93" frameX="-12" frameY="-24" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="rewards_pvp_icon" x="1800" y="1353" width="166" height="166"/>
+    <SubTexture name="rewards_raid_points_icon" x="815" y="865" width="104" height="121" frameX="-16" frameY="-13" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="rewards_raids_mp_icon" x="338" y="1610" width="166" height="166"/>
+    <SubTexture name="rewards_raids_sp_icon" x="338" y="1778" width="166" height="166"/>
+    <SubTexture name="victory_animation" x="815" y="748" width="115" height="115"/>
+</TextureAtlas>

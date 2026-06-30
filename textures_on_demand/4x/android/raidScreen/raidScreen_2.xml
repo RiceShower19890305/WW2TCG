@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:34d412df22ca7c68d413399620db6641:5bd1f26b3efe99362b147bfb37b42993:04ff80ae1057dd8af409418f2fdc05f2$ -->
+<TextureAtlas imagePath="raidScreen_2.png" width="1024" height="1024">
+    <SubTexture name="dungeon_right_name" x="2" y="751" width="396" height="98" frameX="0" frameY="-1" frameWidth="396" frameHeight="100"/>
+    <SubTexture name="raid_button_17" x="2" y="631" width="400" height="116" frameX="-14" frameY="-18" frameWidth="426" frameHeight="150"/>
+    <SubTexture name="raid_panel_06_XL" x="2" y="2" width="794" height="625" frameX="0" frameY="0" frameWidth="795" frameHeight="626"/>
+</TextureAtlas>

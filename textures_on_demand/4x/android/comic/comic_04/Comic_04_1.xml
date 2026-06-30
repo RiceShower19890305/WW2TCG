@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:10028628f8bf8fbe05889f3915b1660f:b6c72e16327b8546a46661c0e0c4365b:d7c5233d2dc5b994eefb85a3808a8024$ -->
+<TextureAtlas imagePath="Comic_04_1.png">
+    <SubTexture name="strip_04" x="0" y="0" width="522" height="844"/>
+</TextureAtlas>

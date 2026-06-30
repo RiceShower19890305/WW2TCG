@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:227a08cc02970c9e2376608223a8548d:1eb7edf0b489af52a81b11c9951f5df9:9e7769ed4029fd8551589f54f3b981d1$ -->
+<TextureAtlas imagePath="dailyPopup.png" width="512" height="1024">
+    <SubTexture name="daily_reward_character" x="2" y="2" width="436" height="628" frameX="-7" frameY="0" frameWidth="443" frameHeight="628"/>
+    <SubTexture name="daily_reward_slot_15_center" x="492" y="2" width="2" height="248"/>
+    <SubTexture name="daily_reward_slot_15_left" x="491" y="254" width="19" height="248"/>
+    <SubTexture name="daily_reward_slot_30_center" x="498" y="2" width="2" height="248"/>
+    <SubTexture name="daily_reward_slot_30_left" x="442" y="2" width="21" height="248"/>
+    <SubTexture name="daily_reward_slot_center" x="504" y="2" width="2" height="248"/>
+    <SubTexture name="daily_reward_slot_claim_center" x="467" y="504" width="2" height="248"/>
+    <SubTexture name="daily_reward_slot_claim_left" x="467" y="2" width="21" height="248"/>
+    <SubTexture name="daily_reward_slot_claimed_center" x="473" y="504" width="2" height="246" frameX="0" frameY="-1" frameWidth="2" frameHeight="248"/>
+    <SubTexture name="daily_reward_slot_claimed_left" x="467" y="254" width="20" height="246" frameX="-1" frameY="-1" frameWidth="21" frameHeight="248"/>
+    <SubTexture name="daily_reward_slot_left" x="442" y="254" width="21" height="248"/>
+    <SubTexture name="daily_rewards_gold" x="2" y="634" width="163" height="116" frameX="-28" frameY="-15" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_questcoins" x="2" y="893" width="144" height="123" frameX="-30" frameY="-14" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_raidcoins" x="2" y="756" width="115" height="133" frameX="-46" frameY="-5" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_rarity_03" x="121" y="756" width="84" height="120" frameX="-62" frameY="-11" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_rarity_04" x="150" y="880" width="84" height="120" frameX="-62" frameY="-11" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_rarity_05" x="209" y="756" width="84" height="120" frameX="-62" frameY="-11" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_rarity_06" x="238" y="880" width="84" height="120" frameX="-62" frameY="-11" frameWidth="209" frameHeight="143"/>
+    <SubTexture name="daily_rewards_rarity_08" x="297" y="756" width="84" height="120" frameX="-62" frameY="-11" frameWidth="209" frameHeight="143"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5c1779c0c3f9dd002fa8bc34992bc334:c4401cede0bb4a81b6207be2411ed766:85c25477685fbe1741a5947285026acd$ -->
+<TextureAtlas imagePath="pvpScreen2.png">
+    <SubTexture name="medal_ranking_1" x="887" y="1108" width="126" height="156" frameX="-15" frameY="0" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="medal_ranking_2" x="861" y="628" width="126" height="156" frameX="-15" frameY="0" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="medal_ranking_3" x="861" y="470" width="126" height="156" frameX="-15" frameY="0" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="medal_ranking_4" x="861" y="312" width="126" height="156" frameX="-15" frameY="0" frameWidth="156" frameHeight="156"/>
+    <SubTexture name="pvp_league_icon_1" x="676" y="925" width="229" height="181" frameX="-12" frameY="-5" frameWidth="257" frameHeight="191"/>
+    <SubTexture name="pvp_league_icon_1_disabled" x="445" y="925" width="229" height="183" frameX="-12" frameY="-4" frameWidth="257" frameHeight="191"/>
+    <SubTexture name="pvp_league_icon_2" x="2" y="1211" width="193" height="175" frameX="-30" frameY="-8" frameWidth="257" frameHeight="191"/>
+    <SubTexture name="pvp_league_icon_2_disabled" x="656" y="1295" width="193" height="175" frameX="-30" frameY="-8" frameWidth="257" frameHeight="191"/>
+    <SubTexture name="pvp_league_icon_3" x="445" y="1110" width="209" height="185" frameX="-24" frameY="-3" frameWidth="257" frameHeight="191"/>
+    <SubTexture name="pvp_league_icon_3_disabled" x="676" y="1108" width="209" height="185" frameX="-24" frameY="-3" frameWidth="257" frameHeight="191"/>
+    <SubTexture name="pvp_left_button_off" x="499" y="786" width="495" height="137"/>
+    <SubTexture name="pvp_left_button_on" x="2" y="656" width="495" height="137"/>
+    <SubTexture name="pvp_offline_image" x="2" y="795" width="441" height="414" frameX="-247" frameY="-122" frameWidth="919" frameHeight="674"/>
+    <SubTexture name="pvp_reward_socket_1_center" x="1015" y="312" width="2" height="308"/>
+    <SubTexture name="pvp_reward_socket_1_left" x="1001" y="2" width="11" height="308"/>
+    <SubTexture name="pvp_reward_socket_2_center" x="1011" y="312" width="2" height="308"/>
+    <SubTexture name="pvp_reward_socket_2_left" x="1000" y="312" width="9" height="308"/>
+    <SubTexture name="pvp_reward_socket_3_center" x="1018" y="2" width="2" height="308"/>
+    <SubTexture name="pvp_reward_socket_3_left" x="989" y="312" width="9" height="308"/>
+    <SubTexture name="pvp_reward_socket_highlight_center" x="1014" y="2" width="2" height="308"/>
+    <SubTexture name="pvp_reward_socket_highlight_left" x="988" y="2" width="11" height="308"/>
+    <SubTexture name="pvp_rewards_separator" x="2" y="2" width="907" height="52" frameX="0" frameY="-22" frameWidth="907" frameHeight="96"/>
+    <SubTexture name="pvp_splitscreen_image" x="2" y="56" width="857" height="598" frameX="-51" frameY="-61" frameWidth="919" frameHeight="674"/>
+    <SubTexture name="pvp_text_icon_demotion" x="911" y="2" width="75" height="67" frameX="0" frameY="-3" frameWidth="75" frameHeight="75"/>
+    <SubTexture name="pvp_text_icon_promotion" x="861" y="71" width="71" height="71" frameX="-1" frameY="-3" frameWidth="75" frameHeight="75"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:2624482b2c675240bf2bec855b5f5f65:ffbfbd0d8e59d03b9f0c0a8e2a34ddf6:f4d4d272daad9a793e81c062e4080d5e$ -->
+<TextureAtlas imagePath="achievementsPopup.png" width="2048" height="1024">
+    <SubTexture name="3stars_icon" x="1876" y="2" width="128" height="113"/>
+    <SubTexture name="3stars_icon_diff_02" x="1876" y="117" width="128" height="113"/>
+    <SubTexture name="3stars_icon_diff_03" x="1876" y="232" width="128" height="113"/>
+    <SubTexture name="3stars_reward" x="2" y="448" width="267" height="283" frameX="-1" frameY="-3" frameWidth="268" frameHeight="286"/>
+    <SubTexture name="3stars_reward_name" x="2" y="733" width="268" height="90"/>
+    <SubTexture name="3stars_socket" x="1284" y="2" width="590" height="209" frameX="-1" frameY="-1" frameWidth="591" frameHeight="210"/>
+    <SubTexture name="3stars_socket_total" x="1284" y="213" width="590" height="129" frameX="-1" frameY="-2" frameWidth="591" frameHeight="131"/>
+    <SubTexture name="achievement_art" x="2" y="2" width="1280" height="444"/>
+</TextureAtlas>

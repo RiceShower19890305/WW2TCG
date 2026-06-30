@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:18c87b25e9dd07c0e781450b0db34a47:279f227bf309b3d6c7d7e30358440ae6:6a2c3c98e40fefbc8abf0671c287d1ee$ -->
+<TextureAtlas imagePath="Comic_12_0.png">
+    <SubTexture name="strip_02" x="1005" y="0" width="987" height="818"/>
+    <SubTexture name="strip_03" x="0" y="0" width="1003" height="320"/>
+    <SubTexture name="strip_05" x="0" y="322" width="803" height="986"/>
+</TextureAtlas>

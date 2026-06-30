@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:58ffd560ce0a8b8e877c40f5a7ab7157:3590c5cf88171a63579b4ebb9b97f32d:b74bac0b55dbf8bb554f6d43fb8ea53a$ -->
+<TextureAtlas imagePath="tutorialLine_1.png" width="2048" height="2048">
+    <SubTexture name="tutorial_animation_line_01" x="788" y="518" width="784" height="512" frameX="0" frameY="0" frameWidth="784" frameHeight="515"/>
+    <SubTexture name="tutorial_animation_line_04" x="2" y="519" width="784" height="512" frameX="0" frameY="0" frameWidth="784" frameHeight="515"/>
+    <SubTexture name="tutorial_animation_line_05" x="788" y="1032" width="784" height="512" frameX="0" frameY="0" frameWidth="784" frameHeight="515"/>
+    <SubTexture name="tutorial_animation_line_06" x="788" y="2" width="784" height="514" frameX="0" frameY="0" frameWidth="784" frameHeight="515"/>
+    <SubTexture name="tutorial_animation_line_07" x="2" y="2" width="784" height="515"/>
+    <SubTexture name="tutorial_animation_line_08" x="2" y="2" width="784" height="515"/>
+</TextureAtlas>

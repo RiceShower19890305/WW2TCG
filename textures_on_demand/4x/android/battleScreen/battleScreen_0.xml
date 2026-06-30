@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:1755f72445dbf859a283f8d0e6db36b9:61dc16083ef6d99c4d54db7afb471b6c:e6d60403dc4c26326d5fc1d8f63afcbd$ -->
+<TextureAtlas imagePath="battleScreen_0.png" width="2048" height="2048">
+    <SubTexture name="ability_point_off" x="302" y="1013" width="63" height="65"/>
+    <SubTexture name="ability_point_on" x="369" y="1013" width="63" height="65"/>
+    <SubTexture name="ability_socket_center" x="2039" y="9" width="2" height="287"/>
+    <SubTexture name="ability_socket_icon" x="994" y="1144" width="131" height="131"/>
+    <SubTexture name="ability_socket_left" x="2016" y="2" width="19" height="287"/>
+    <SubTexture name="action_points_layer" x="627" y="313" width="188" height="79"/>
+    <SubTexture name="ap_crate_bf" x="2" y="1363" width="86" height="91" frameX="0" frameY="-6" frameWidth="86" frameHeight="98"/>
+    <SubTexture name="ap_value_panel" x="523" y="707" width="91" height="52" frameX="-3" frameY="-6" frameWidth="94" frameHeight="58"/>
+    <SubTexture name="attach_anim_horizontal_00000" x="2039" y="2" width="3" height="3" frameX="0" frameY="0" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00001" x="1198" y="1314" width="99" height="44" frameX="-28" frameY="-26" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00002" x="994" y="1384" width="109" height="45" frameX="-21" frameY="-25" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00003" x="994" y="1332" width="113" height="48" frameX="-17" frameY="-22" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00004" x="994" y="1279" width="116" height="49" frameX="-15" frameY="-21" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00005" x="882" y="1977" width="117" height="50" frameX="-14" frameY="-20" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00006" x="500" y="766" width="119" height="50" frameX="-13" frameY="-20" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00007" x="491" y="1305" width="122" height="51" frameX="-11" frameY="-19" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00008" x="491" y="1250" width="125" height="51" frameX="-9" frameY="-19" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00009" x="391" y="707" width="128" height="55" frameX="-7" frameY="-15" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00010" x="258" y="707" width="129" height="55" frameX="-6" frameY="-15" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00011" x="122" y="707" width="132" height="55" frameX="-4" frameY="-15" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00012" x="1908" y="1129" width="135" height="56" frameX="-2" frameY="-14" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00013" x="1152" y="905" width="139" height="57" frameX="0" frameY="-13" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00014" x="1152" y="843" width="140" height="58" frameX="0" frameY="-12" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00015" x="1152" y="780" width="142" height="59" frameX="0" frameY="-11" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00016" x="1152" y="716" width="144" height="60" frameX="0" frameY="-10" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00017" x="1152" y="650" width="145" height="62" frameX="0" frameY="-8" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00018" x="1480" y="604" width="148" height="64" frameX="0" frameY="-6" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00019" x="1480" y="393" width="149" height="65" frameX="0" frameY="-5" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00020" x="1480" y="323" width="150" height="66" frameX="0" frameY="-4" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00021" x="1152" y="580" width="147" height="66" frameX="-4" frameY="-4" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00022" x="1480" y="462" width="148" height="67" frameX="-3" frameY="-3" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00023" x="1480" y="533" width="148" height="67" frameX="-3" frameY="-3" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00024" x="1298" y="788" width="152" height="68" frameX="0" frameY="-2" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00025" x="1465" y="746" width="152" height="69" frameX="0" frameY="-1" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_horizontal_00026" x="1465" y="672" width="153" height="70" frameX="0" frameY="0" frameWidth="164" frameHeight="70"/>
+    <SubTexture name="attach_anim_vertical_00000" x="2039" y="2" width="3" height="3" frameX="0" frameY="0" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00001" x="2013" y="635" width="31" height="157" frameX="-39" frameY="-38" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00002" x="722" y="1465" width="40" height="160" frameX="-30" frameY="-37" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00003" x="860" y="1440" width="43" height="172" frameX="-27" frameY="-36" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00004" x="217" y="1631" width="46" height="176" frameX="-24" frameY="-34" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00005" x="217" y="1446" width="48" height="181" frameX="-22" frameY="-32" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00006" x="766" y="1440" width="49" height="184" frameX="-21" frameY="-31" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00007" x="826" y="1839" width="52" height="188" frameX="-18" frameY="-30" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00008" x="768" y="1839" width="54" height="191" frameX="-16" frameY="-29" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00009" x="708" y="1841" width="56" height="194" frameX="-14" frameY="-28" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00010" x="217" y="1845" width="58" height="199" frameX="-12" frameY="-26" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00011" x="436" y="995" width="60" height="202" frameX="-10" frameY="-25" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00012" x="642" y="1841" width="62" height="204" frameX="-8" frameY="-24" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00013" x="1129" y="1151" width="65" height="209" frameX="-5" frameY="-22" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00014" x="1034" y="1582" width="66" height="212" frameX="-4" frameY="-20" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00015" x="963" y="1614" width="67" height="215" frameX="-3" frameY="-19" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00016" x="407" y="1423" width="68" height="216" frameX="-2" frameY="-18" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00017" x="418" y="1201" width="69" height="218" frameX="-1" frameY="-16" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00018" x="426" y="772" width="70" height="219" frameX="0" frameY="-15" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00019" x="352" y="772" width="70" height="220" frameX="0" frameY="-14" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00020" x="278" y="772" width="70" height="221" frameX="0" frameY="-13" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00021" x="207" y="772" width="67" height="223" frameX="-3" frameY="-11" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00022" x="139" y="1099" width="62" height="224" frameX="-8" frameY="-10" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00023" x="73" y="1099" width="62" height="225" frameX="-8" frameY="-9" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00024" x="72" y="772" width="64" height="227" frameX="-6" frameY="-7" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00025" x="2" y="772" width="66" height="228" frameX="-4" frameY="-6" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00026" x="2" y="1099" width="67" height="229" frameX="-3" frameY="-5" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attach_anim_vertical_00027" x="140" y="772" width="63" height="224" frameX="-7" frameY="-4" frameWidth="70" frameHeight="234"/>
+    <SubTexture name="attack_button_2" x="759" y="1006" width="231" height="213" frameX="0" frameY="-3" frameWidth="231" frameHeight="242"/>
+    <SubTexture name="attack_button_3" x="759" y="1223" width="231" height="213" frameX="0" frameY="-3" frameWidth="231" frameHeight="242"/>
+    <SubTexture name="attack_button_alert" x="792" y="580" width="356" height="422" frameX="0" frameY="-22" frameWidth="469" frameHeight="469"/>
+    <SubTexture name="battle_star_icon" x="2" y="1013" width="80" height="79" frameX="-2" frameY="-4" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="battle_star_icon_empty" x="92" y="1363" width="80" height="81" frameX="-2" frameY="-1" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="battle_start_player_1" x="2" y="313" width="621" height="193" frameX="-2" frameY="-7" frameWidth="625" frameHeight="210"/>
+    <SubTexture name="battle_start_player_2" x="2" y="510" width="617" height="193" frameX="0" frameY="-8" frameWidth="625" frameHeight="210"/>
+    <SubTexture name="bf_deck" x="205" y="1082" width="209" height="271" frameX="-1" frameY="0" frameWidth="211" frameHeight="277"/>
+    <SubTexture name="bf_objective_info" x="2" y="707" width="56" height="56"/>
+    <SubTexture name="bf_objective_layer" x="800" y="454" width="503" height="122"/>
+    <SubTexture name="bullet_hole" x="176" y="1363" width="89" height="79" frameX="-1" frameY="0" frameWidth="90" frameHeight="79"/>
+    <SubTexture name="card_shadow" x="974" y="1465" width="113" height="113"/>
+    <SubTexture name="character_frame" x="2039" y="2" width="3" height="3" frameX="0" frameY="0" frameWidth="338" frameHeight="193"/>
+    <SubTexture name="character_panel_bg" x="617" y="1324" width="131" height="131"/>
+    <SubTexture name="character_panel_inner" x="269" y="1495" width="131" height="131"/>
+    <SubTexture name="defeat_level_bg" x="1604" y="1064" width="300" height="295" frameX="-23" frameY="-89" frameWidth="346" frameHeight="459"/>
+    <SubTexture name="defeat_level_panel" x="2" y="2" width="813" height="307" frameX="-81" frameY="0" frameWidth="975" frameHeight="366"/>
+    <SubTexture name="disabled_icon" x="86" y="1013" width="74" height="74" frameX="0" frameY="-1" frameWidth="75" frameHeight="75"/>
+    <SubTexture name="lose_anim_char" x="1634" y="383" width="375" height="375" frameX="-40" frameY="-52" frameWidth="440" frameHeight="466"/>
+    <SubTexture name="muzzle_flash_1" x="907" y="1465" width="63" height="145" frameX="-28" frameY="-17" frameWidth="118" frameHeight="163"/>
+    <SubTexture name="muzzle_flash_2" x="882" y="1838" width="59" height="135" frameX="-30" frameY="-26" frameWidth="118" frameHeight="163"/>
+    <SubTexture name="muzzle_flash_3" x="612" y="1465" width="106" height="162" frameX="-9" frameY="0" frameWidth="118" frameHeight="163"/>
+    <SubTexture name="objective_completed" x="62" y="707" width="56" height="56"/>
+    <SubTexture name="objective_defeat" x="1908" y="1189" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_kill_category_01" x="1908" y="1327" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_kill_scategory_01" x="623" y="772" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_kill_scategory_02" x="621" y="910" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_kill_scategory_03" x="269" y="1357" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_play_scategory_01" x="621" y="1048" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_play_scategory_02" x="621" y="1186" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_play_scategory_03" x="994" y="1006" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="objective_survive" x="1132" y="1013" width="134" height="134" frameX="-4" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="pvp_offline_match_icon" x="1545" y="1465" width="110" height="107" frameX="-3" frameY="-6" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="rank_layer" x="1480" y="240" width="150" height="79"/>
+    <SubTexture name="reward_arrow" x="479" y="1575" width="41" height="53"/>
+    <SubTexture name="score_frame" x="1152" y="966" width="139" height="43"/>
+    <SubTexture name="shield" x="1091" y="1465" width="113" height="113"/>
+    <SubTexture name="shuffle_button" x="623" y="569" width="165" height="199"/>
+    <SubTexture name="socket_action_deck" x="2" y="1465" width="211" height="277"/>
+    <SubTexture name="socket_white" x="2" y="1746" width="211" height="276" frameX="0" frameY="0" frameWidth="211" frameHeight="277"/>
+    <SubTexture name="std_ammo" x="2016" y="293" width="17" height="182"/>
+    <SubTexture name="tank_ammo" x="1060" y="1798" width="57" height="212" frameX="-2" frameY="-4" frameWidth="66" frameHeight="216"/>
+    <SubTexture name="tank_bullet_hole" x="945" y="1838" width="111" height="114" frameX="-27" frameY="-21" frameWidth="158" frameHeight="157"/>
+    <SubTexture name="target_inner" x="164" y="1013" width="65" height="65" frameX="-52" frameY="-52" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="target_inner_highlight" x="233" y="1013" width="65" height="65" frameX="-52" frameY="-52" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="target_outer" x="627" y="396" width="169" height="169"/>
+    <SubTexture name="target_outer_highlight" x="1307" y="454" width="169" height="169"/>
+    <SubTexture name="torpedo_ammo" x="1545" y="1099" width="43" height="211" frameX="-8" frameY="-5" frameWidth="66" frameHeight="216"/>
+    <SubTexture name="torpedo_bullet_hole" x="1303" y="627" width="158" height="157"/>
+    <SubTexture name="turn_panel" x="819" y="240" width="657" height="210"/>
+    <SubTexture name="turns_panel_bg" x="819" y="1465" width="37" height="156"/>
+    <SubTexture name="turns_panel_inner" x="2013" y="479" width="33" height="152" frameX="-2" frameY="-2" frameWidth="37" frameHeight="156"/>
+    <SubTexture name="victory_animation" x="1931" y="796" width="115" height="114" frameX="0" frameY="0" frameWidth="115" frameHeight="115"/>
+    <SubTexture name="victory_level_bg" x="1621" y="762" width="306" height="298" frameX="-21" frameY="-88" frameWidth="346" frameHeight="459"/>
+    <SubTexture name="victory_level_panel" x="819" y="2" width="811" height="234" frameX="-81" frameY="-73" frameWidth="975" frameHeight="366"/>
+    <SubTexture name="victory_sparkle_effect_00000" x="1931" y="914" width="113" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00001" x="1104" y="1582" width="112" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00002" x="1208" y="1363" width="112" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00003" x="1333" y="1578" width="106" height="211" frameX="-5" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00004" x="1220" y="1578" width="109" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00005" x="625" y="1631" width="109" height="206" frameX="0" frameY="-5" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00006" x="851" y="1625" width="108" height="209" frameX="0" frameY="-2" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00007" x="1121" y="1797" width="111" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00008" x="1324" y="1363" width="108" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00009" x="1236" y="1793" width="108" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00010" x="500" y="820" width="117" height="211"/>
+    <SubTexture name="victory_sparkle_effect_00011" x="1436" y="1363" width="105" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00012" x="1270" y="1099" width="104" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00013" x="1348" y="1793" width="103" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00014" x="1443" y="1578" width="101" height="211" frameX="0" frameY="0" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00015" x="500" y="1035" width="117" height="211"/>
+    <SubTexture name="victory_sparkle_effect_00016" x="390" y="1643" width="117" height="197" frameX="0" frameY="-14" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00017" x="400" y="1844" width="117" height="197" frameX="0" frameY="-14" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00018" x="279" y="1845" width="117" height="198" frameX="0" frameY="-13" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00019" x="738" y="1629" width="109" height="206" frameX="0" frameY="-5" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00020" x="521" y="1842" width="117" height="204" frameX="0" frameY="-7" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00021" x="511" y="1632" width="110" height="206" frameX="0" frameY="-5" frameWidth="117" frameHeight="211"/>
+    <SubTexture name="victory_sparkle_effect_00022" x="491" y="1360" width="117" height="211"/>
+    <SubTexture name="victory_sparkle_effect_00023" x="269" y="1630" width="117" height="211"/>
+    <SubTexture name="vs_icon" x="1296" y="860" width="304" height="235" frameX="-9" frameY="-60" frameWidth="321" frameHeight="335"/>
+    <SubTexture name="win_anim_char" x="1634" y="2" width="378" height="377" frameX="-39" frameY="-52" frameWidth="440" frameHeight="466"/>
+</TextureAtlas>

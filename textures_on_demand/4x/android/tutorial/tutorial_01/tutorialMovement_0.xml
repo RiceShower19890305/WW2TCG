@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:535802251a98b7a8fe8100c6b33f8f93:006092eb7a65572701564df95ff1ad96:253b204fdffad797a94971ae59d2bb48$ -->
+<TextureAtlas imagePath="tutorialMovement_0.png" width="2048" height="2048">
+    <SubTexture name="tutorial_animation_movement_02" x="1072" y="1494" width="754" height="343" frameX="0" frameY="-52" frameWidth="1068" frameHeight="484"/>
+    <SubTexture name="tutorial_animation_movement_03" x="1072" y="1108" width="944" height="384" frameX="0" frameY="-11" frameWidth="1068" frameHeight="484"/>
+    <SubTexture name="tutorial_animation_movement_05" x="2" y="1108" width="1068" height="439" frameX="0" frameY="-45" frameWidth="1068" frameHeight="484"/>
+    <SubTexture name="tutorial_animation_movement_06" x="2" y="1549" width="1068" height="439" frameX="0" frameY="-45" frameWidth="1068" frameHeight="484"/>
+    <SubTexture name="tutorial_animation_movement_08" x="2" y="1549" width="1068" height="439" frameX="0" frameY="-45" frameWidth="1068" frameHeight="484"/>
+    <SubTexture name="tutorial_animation_movement_10" x="2" y="1549" width="1068" height="439" frameX="0" frameY="-45" frameWidth="1068" frameHeight="484"/>
+    <SubTexture name="tutorial_panel_movement" x="2" y="2" width="1464" height="1104"/>
+</TextureAtlas>

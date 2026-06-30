@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:6423bbac59d946987971739822dcce66:4645582753795a014da00a10e957b495:bf63c25736c788096fab5354d091d36a$ -->
+<TextureAtlas imagePath="miscellaneous_1.png" width="2048" height="2048">
+    <SubTexture name="ability_45mm" x="335" y="833" width="70" height="70"/>
+    <SubTexture name="ability_ace" x="147" y="1574" width="64" height="69" frameX="-3" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_admiralhat2" x="314" y="624" width="70" height="57" frameX="0" frameY="-13" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_airshetler" x="757" y="964" width="68" height="69" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_airsweep2" x="977" y="1023" width="68" height="68" frameX="-2" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_among_upgrade" x="498" y="1259" width="67" height="65" frameX="-3" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_ap1" x="1968" y="1374" width="68" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_apadd1" x="1968" y="1374" width="68" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_apadd2" x="75" y="1574" width="68" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_apadd3" x="786" y="1185" width="68" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_artillery" x="498" y="1328" width="68" height="62" frameX="0" frameY="-8" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_aviationhelmet" x="498" y="1190" width="65" height="65" frameX="-3" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_aviationhelmet2" x="76" y="1219" width="67" height="68" frameX="-3" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_backtobase" x="363" y="261" width="70" height="68" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_bestammo" x="740" y="501" width="57" height="70" frameX="-7" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_better" x="513" y="975" width="54" height="63" frameX="-8" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_blitzkreigger" x="757" y="816" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_blitzkreigship" x="757" y="890" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_bomber" x="498" y="1394" width="68" height="65" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_bomber2" x="2" y="1574" width="69" height="69" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_brutalitydeploy" x="1118" y="865" width="59" height="70" frameX="-6" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_brutalityfly" x="737" y="648" width="60" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_brutalsub" x="147" y="923" width="69" height="68" frameX="-1" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_brutr3" x="1305" y="856" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_brutr4" x="1437" y="858" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_brutr6" x="1571" y="859" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_buffair" x="826" y="875" width="68" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_buffship" x="898" y="875" width="68" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_bufftank2" x="893" y="812" width="70" height="59" frameX="0" frameY="-11" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_burst" x="970" y="875" width="70" height="70"/>
+    <SubTexture name="ability_burst2" x="1041" y="791" width="70" height="70"/>
+    <SubTexture name="ability_bushido" x="1044" y="865" width="70" height="70"/>
+    <SubTexture name="ability_bushido_upgrade" x="1181" y="853" width="70" height="70"/>
+    <SubTexture name="ability_captured" x="147" y="995" width="69" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_capturedevo" x="1645" y="859" width="70" height="70"/>
+    <SubTexture name="ability_capturedfront" x="1793" y="859" width="69" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_catapult" x="1940" y="863" width="70" height="68" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_catapultlaunch" x="1719" y="859" width="70" height="70"/>
+    <SubTexture name="ability_cleaningfront" x="786" y="1258" width="68" height="69" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_clear" x="1866" y="857" width="70" height="70"/>
+    <SubTexture name="ability_clear2" x="829" y="949" width="70" height="70"/>
+    <SubTexture name="ability_codeinterception" x="977" y="949" width="68" height="70" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_com" x="826" y="801" width="63" height="70" frameX="-4" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_combatfighter2" x="1271" y="929" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_cometoaid" x="967" y="812" width="70" height="59" frameX="0" frameY="-11" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_command2" x="1511" y="858" width="56" height="70" frameX="-14" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_command3" x="903" y="949" width="70" height="70"/>
+    <SubTexture name="ability_command4" x="1049" y="939" width="70" height="70"/>
+    <SubTexture name="ability_commandoassault" x="147" y="1068" width="69" height="69" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_compass" x="1123" y="939" width="70" height="70"/>
+    <SubTexture name="ability_compass2" x="1197" y="927" width="70" height="70"/>
+    <SubTexture name="ability_compost" x="1345" y="930" width="70" height="70"/>
+    <SubTexture name="ability_compostger" x="1419" y="931" width="70" height="70"/>
+    <SubTexture name="ability_compostger2" x="1493" y="932" width="70" height="70"/>
+    <SubTexture name="ability_comspeech" x="641" y="1090" width="67" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_concetrateair" x="1567" y="932" width="70" height="70"/>
+    <SubTexture name="ability_concetrateair2" x="1641" y="933" width="70" height="70"/>
+    <SubTexture name="ability_conddiscipline" x="147" y="1141" width="69" height="59" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_conddisciplineall" x="829" y="1023" width="70" height="59" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_condsurv" x="903" y="1023" width="70" height="59" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_construct" x="1345" y="1004" width="70" height="68" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_construct_upgrade" x="1715" y="933" width="70" height="70"/>
+    <SubTexture name="ability_contattack_upgrade" x="786" y="1111" width="68" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_contbomb2" x="786" y="1331" width="68" height="69" frameX="-2" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_contfront_upgrade" x="1115" y="791" width="52" height="70" frameX="-18" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_contsupport" x="1968" y="1300" width="66" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_contsupport_upgrade" x="2" y="1352" width="68" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_convoyhunter" x="147" y="1204" width="69" height="69" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_convoyhunter2" x="1968" y="1447" width="69" height="69" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_cost3" x="786" y="1404" width="68" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_costorderame" x="1789" y="933" width="70" height="70"/>
+    <SubTexture name="ability_costorderbrit" x="1049" y="1013" width="70" height="70"/>
+    <SubTexture name="ability_costorderger" x="1123" y="1013" width="70" height="70"/>
+    <SubTexture name="ability_costorderjap" x="1197" y="1001" width="70" height="70"/>
+    <SubTexture name="ability_costorderjapstart" x="1271" y="1002" width="70" height="70"/>
+    <SubTexture name="ability_costorderrus" x="1419" y="1005" width="70" height="70"/>
+    <SubTexture name="ability_costsecondequip" x="1493" y="1006" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_counter2" x="1197" y="1075" width="70" height="65" frameX="0" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_coverfire" x="330" y="685" width="54" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_coverfire_upgrade" x="74" y="1352" width="62" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_coveringflames" x="1567" y="1006" width="70" height="70"/>
+    <SubTexture name="ability_covership" x="74" y="1426" width="62" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_cutall5" x="1641" y="1007" width="70" height="70"/>
+    <SubTexture name="ability_cutdmg2" x="368" y="1223" width="65" height="69" frameX="-5" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_cuthp" x="1715" y="1007" width="70" height="70"/>
+    <SubTexture name="ability_cuthp2" x="1789" y="1007" width="70" height="70"/>
+    <SubTexture name="ability_cuthp3" x="1789" y="1007" width="70" height="70"/>
+    <SubTexture name="ability_cuthp5" x="1271" y="1076" width="70" height="70"/>
+    <SubTexture name="ability_deathflames" x="75" y="1500" width="65" height="70" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_defendposition" x="740" y="575" width="57" height="69" frameX="-7" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_defensedestroyer" x="368" y="1075" width="62" height="70" frameX="-4" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_defensefire2" x="368" y="1149" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_deploy" x="1419" y="1079" width="70" height="68" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_deploy2" x="1493" y="1079" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desert" x="1049" y="1087" width="70" height="67" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertcapture" x="1567" y="1080" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertfast" x="1197" y="1144" width="70" height="62" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertfast2" x="1641" y="1081" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertfastall2" x="1345" y="1076" width="70" height="70"/>
+    <SubTexture name="ability_desertfight" x="1271" y="1150" width="70" height="59" frameX="0" frameY="-6" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertgear" x="1052" y="1748" width="68" height="67" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertgear2" x="1715" y="1081" width="70" height="70"/>
+    <SubTexture name="ability_deserthero" x="2" y="1426" width="68" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_deserthero2" x="1789" y="1081" width="70" height="70"/>
+    <SubTexture name="ability_desertor" x="2" y="1500" width="69" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_desertor_upgrade" x="1123" y="1087" width="70" height="70"/>
+    <SubTexture name="ability_desertpro" x="1345" y="1150" width="70" height="61" frameX="0" frameY="-4" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_deserttrap" x="437" y="1143" width="57" height="70" frameX="-7" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_destruction" x="1419" y="1151" width="70" height="67" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_destruction2" x="1493" y="1152" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_discipline" x="1567" y="1153" width="70" height="70"/>
+    <SubTexture name="ability_discipline2" x="1641" y="1153" width="70" height="70"/>
+    <SubTexture name="ability_discipliner1" x="1715" y="1155" width="70" height="70"/>
+    <SubTexture name="ability_discipliner2" x="1789" y="1155" width="70" height="70"/>
+    <SubTexture name="ability_discipliner3" x="419" y="995" width="70" height="70"/>
+    <SubTexture name="ability_disciplinesup" x="493" y="1042" width="70" height="70"/>
+    <SubTexture name="ability_double" x="786" y="1477" width="68" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_duelwinner" x="427" y="1739" width="68" height="68" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_easykill" x="567" y="1090" width="70" height="70"/>
+    <SubTexture name="ability_easykill2" x="713" y="1037" width="70" height="70"/>
+    <SubTexture name="ability_easytarget" x="427" y="1811" width="68" height="68" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_easytarget2" x="1968" y="1520" width="69" height="69" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_easytargetall" x="712" y="1111" width="70" height="70"/>
+    <SubTexture name="ability_effectiveness" x="427" y="1883" width="68" height="68" frameX="-1" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_endpromote" x="140" y="1352" width="62" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_enemyfound" x="513" y="901" width="54" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_enemyfound_upgrade" x="140" y="1426" width="62" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_enrage" x="1866" y="931" width="70" height="70"/>
+    <SubTexture name="ability_enrage2" x="1863" y="1005" width="70" height="70"/>
+    <SubTexture name="ability_escort" x="1863" y="1079" width="70" height="70"/>
+    <SubTexture name="ability_evasionplaneship" x="144" y="1500" width="62" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_evasionship" x="499" y="1515" width="60" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_evocuthp" x="1863" y="1153" width="70" height="70"/>
+    <SubTexture name="ability_exercise" x="1940" y="935" width="70" height="67" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_exercise2" x="1937" y="1154" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_expeditionary" x="644" y="1312" width="64" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_experience" x="1863" y="1227" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_expertcomando" x="215" y="1573" width="63" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_expertshot2" x="210" y="1499" width="68" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_explosivec4" x="499" y="1589" width="62" height="70" frameX="-4" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_explosiveschoose" x="641" y="1164" width="67" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_explosiveschoose2" x="1937" y="1006" width="70" height="70"/>
+    <SubTexture name="ability_explosivesevo" x="428" y="1517" width="67" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_explosivesgrand2" x="368" y="1296" width="65" height="69" frameX="-5" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_explosivesunit2" x="428" y="1591" width="67" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fakedoc" x="988" y="1604" width="58" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fakedoc2" x="498" y="1116" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fakedoc3" x="498" y="1116" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fast" x="858" y="1160" width="70" height="67" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fastdeploy" x="1937" y="1080" width="70" height="70"/>
+    <SubTexture name="ability_fastfly" x="1937" y="1227" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fastwork" x="932" y="1169" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fear2" x="858" y="1086" width="70" height="70"/>
+    <SubTexture name="ability_fingerfour" x="1080" y="1161" width="70" height="68" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fingerfour_upgrade" x="932" y="1095" width="70" height="70"/>
+    <SubTexture name="ability_fireatwill" x="987" y="1678" width="61" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fireatwill2" x="643" y="1238" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_firefront" x="565" y="1589" width="48" height="70" frameX="-10" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_firsttobattle2" x="1006" y="1158" width="70" height="70"/>
+    <SubTexture name="ability_fixed" x="1968" y="1593" width="69" height="70" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_flag" x="282" y="1499" width="68" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_flag2" x="1006" y="1232" width="70" height="70"/>
+    <SubTexture name="ability_flagairall" x="1080" y="1233" width="70" height="70"/>
+    <SubTexture name="ability_flagameinf" x="282" y="1573" width="68" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_flagdamaged2" x="1228" y="1213" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_flagevo" x="1154" y="1210" width="70" height="70"/>
+    <SubTexture name="ability_flaginfame" x="1302" y="1215" width="70" height="70"/>
+    <SubTexture name="ability_flame" x="1979" y="1958" width="61" height="70" frameX="-4" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_flameswar" x="1379" y="856" width="54" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_focusfire" x="757" y="890" width="65" height="70" frameX="-5" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fog_upgrade" x="1154" y="1284" width="70" height="64" frameX="0" frameY="-6" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_foodrations" x="1228" y="1286" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_foodrations2" x="1302" y="1289" width="70" height="70"/>
+    <SubTexture name="ability_forceheal" x="1376" y="1296" width="70" height="64" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_forceheal2" x="1376" y="1222" width="70" height="70"/>
+    <SubTexture name="ability_forcehit" x="1450" y="1225" width="70" height="70"/>
+    <SubTexture name="ability_forcehit2" x="1450" y="1299" width="70" height="70"/>
+    <SubTexture name="ability_forcestrike" x="1524" y="1227" width="70" height="70"/>
+    <SubTexture name="ability_forcestrike2" x="1598" y="1227" width="70" height="70"/>
+    <SubTexture name="ability_fortification" x="1820" y="1374" width="70" height="60" frameX="0" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fragmentation" x="2003" y="388" width="43" height="70" frameX="-13" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fragmentation_upgrade" x="1524" y="1301" width="70" height="70"/>
+    <SubTexture name="ability_frog" x="220" y="994" width="70" height="57" frameX="0" frameY="-9" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_frombelow" x="1598" y="1301" width="70" height="70"/>
+    <SubTexture name="ability_frombelow2" x="1672" y="1229" width="70" height="70"/>
+    <SubTexture name="ability_frombelow3" x="1746" y="1229" width="70" height="70"/>
+    <SubTexture name="ability_frombelowa" x="1672" y="1303" width="70" height="70"/>
+    <SubTexture name="ability_frontdestroy" x="1746" y="1303" width="70" height="70"/>
+    <SubTexture name="ability_frontflag" x="1894" y="1374" width="70" height="67" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_fullfire" x="1820" y="1300" width="70" height="70"/>
+    <SubTexture name="ability_fullfire2" x="1894" y="1300" width="70" height="70"/>
+    <SubTexture name="ability_fullresources" x="298" y="1943" width="48" height="70" frameX="-11" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_gates2" x="644" y="1386" width="64" height="70" frameX="-6" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_german" x="294" y="1001" width="70" height="70"/>
+    <SubTexture name="ability_germanleader" x="220" y="1055" width="70" height="70"/>
+    <SubTexture name="ability_germedical" x="294" y="1075" width="70" height="70"/>
+    <SubTexture name="ability_ghost" x="220" y="1129" width="70" height="70"/>
+    <SubTexture name="ability_ghost2" x="294" y="1149" width="70" height="70"/>
+    <SubTexture name="ability_gothrough" x="567" y="1164" width="70" height="70"/>
+    <SubTexture name="ability_grandbomber" x="712" y="1185" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_greatergood" x="858" y="1231" width="70" height="70"/>
+    <SubTexture name="ability_grenade" x="932" y="1242" width="70" height="70"/>
+    <SubTexture name="ability_grenade2" x="569" y="1238" width="70" height="70"/>
+    <SubTexture name="ability_grenade_end" x="712" y="1258" width="70" height="68" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_guided" x="858" y="1305" width="70" height="70"/>
+    <SubTexture name="ability_guided2" x="932" y="1316" width="70" height="70"/>
+    <SubTexture name="ability_handradio" x="1255" y="853" width="46" height="70" frameX="-12" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_heartsnow" x="1154" y="1352" width="70" height="66" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_heartsnow2" x="1228" y="1359" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_heavyb" x="1006" y="1306" width="70" height="70"/>
+    <SubTexture name="ability_heavyb2" x="1080" y="1307" width="70" height="70"/>
+    <SubTexture name="ability_heavyfiresupport" x="1302" y="1363" width="70" height="70"/>
+    <SubTexture name="ability_heavyfiresupport2" x="1376" y="1364" width="70" height="70"/>
+    <SubTexture name="ability_helpweak" x="224" y="1277" width="66" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_henrage" x="1450" y="1373" width="70" height="70"/>
+    <SubTexture name="ability_henrage2" x="1524" y="1375" width="70" height="70"/>
+    <SubTexture name="ability_highattackkill" x="1598" y="1375" width="70" height="70"/>
+    <SubTexture name="ability_highattackkillfree" x="1672" y="1377" width="70" height="70"/>
+    <SubTexture name="ability_highdefensekill" x="1746" y="1377" width="70" height="70"/>
+    <SubTexture name="ability_highdefensekillfree" x="220" y="1203" width="70" height="70"/>
+    <SubTexture name="ability_highdepth" x="1052" y="1674" width="68" height="70" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_highmorale" x="294" y="1223" width="70" height="64" frameX="0" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_highmorale2" x="712" y="1330" width="70" height="67" frameX="0" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_hospital" x="858" y="1379" width="70" height="59" frameX="0" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_hospital_upgrade" x="932" y="1390" width="70" height="62" frameX="0" frameY="-8" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_hunting" x="570" y="1312" width="70" height="70"/>
+    <SubTexture name="ability_incap_upgrade" x="1006" y="1380" width="70" height="70"/>
+    <SubTexture name="ability_incendiary" x="1080" y="1381" width="70" height="70"/>
+    <SubTexture name="ability_incendiary2" x="1154" y="1422" width="70" height="70"/>
+    <SubTexture name="ability_indestructible" x="1228" y="1431" width="70" height="70"/>
+    <SubTexture name="ability_indetectable" x="1302" y="1437" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_indiscriminate1" x="428" y="1369" width="66" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_infantryslayer" x="1968" y="1667" width="69" height="70" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_infermery" x="1450" y="1447" width="70" height="65" frameX="0" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_itemallbuffame" x="1376" y="1438" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffame2" x="1524" y="1449" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffbrit" x="1598" y="1449" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffbrit2" x="1672" y="1451" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffger" x="1746" y="1451" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffger2" x="1820" y="1438" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffjap" x="1894" y="1445" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffjap2" x="1820" y="1512" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffrus" x="1894" y="1519" width="70" height="70"/>
+    <SubTexture name="ability_itemallbuffrus2" x="570" y="1386" width="70" height="70"/>
+    <SubTexture name="ability_itembonus" x="712" y="1401" width="70" height="70"/>
+    <SubTexture name="ability_itembuff" x="858" y="1442" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalame" x="932" y="1456" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalame2" x="1006" y="1454" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalbrit" x="1080" y="1455" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalbrit2" x="1154" y="1496" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalger" x="1228" y="1505" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalger2" x="1302" y="1510" width="70" height="70"/>
+    <SubTexture name="ability_itemglobaljap" x="1376" y="1512" width="70" height="70"/>
+    <SubTexture name="ability_itemglobaljap2" x="1450" y="1516" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalrus" x="1524" y="1523" width="70" height="70"/>
+    <SubTexture name="ability_itemglobalrus2" x="1598" y="1523" width="70" height="70"/>
+    <SubTexture name="ability_itemheal" x="1672" y="1525" width="70" height="70"/>
+    <SubTexture name="ability_itemheal2" x="1746" y="1525" width="70" height="70"/>
+    <SubTexture name="ability_itemhealame" x="1820" y="1586" width="70" height="70"/>
+    <SubTexture name="ability_itemhealbrit" x="1894" y="1593" width="70" height="70"/>
+    <SubTexture name="ability_itemhealger" x="150" y="1277" width="70" height="70"/>
+    <SubTexture name="ability_itemhealjap" x="294" y="1291" width="70" height="70"/>
+    <SubTexture name="ability_itemhealrus" x="206" y="1351" width="70" height="70"/>
+    <SubTexture name="ability_jacktrade" x="206" y="1425" width="70" height="70"/>
+    <SubTexture name="ability_jacktrade2" x="280" y="1365" width="70" height="70"/>
+    <SubTexture name="ability_japammo" x="354" y="1369" width="70" height="70"/>
+    <SubTexture name="ability_japbuff" x="354" y="1443" width="70" height="70"/>
+    <SubTexture name="ability_japstrike" x="354" y="1517" width="70" height="70"/>
+    <SubTexture name="ability_japstrike2" x="354" y="1591" width="70" height="70"/>
+    <SubTexture name="ability_jungleassault" x="1006" y="1528" width="70" height="66" frameX="0" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_jungleassault_upgrade" x="1080" y="1529" width="70" height="67" frameX="0" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_junglerain" x="1154" y="1570" width="70" height="63" frameX="0" frameY="-4" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_junglerain2" x="1228" y="1579" width="70" height="66" frameX="0" frameY="-4" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_kamikaze" x="1302" y="1584" width="70" height="70"/>
+    <SubTexture name="ability_kamikazedeploy" x="1080" y="1381" width="70" height="70"/>
+    <SubTexture name="ability_kill41" x="1376" y="1586" width="70" height="70"/>
+    <SubTexture name="ability_killconfirmed" x="428" y="1443" width="66" height="70" frameX="-2" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_killequip" x="1450" y="1590" width="70" height="70"/>
+    <SubTexture name="ability_killequipall" x="1524" y="1597" width="70" height="70"/>
+    <SubTexture name="ability_killequipfree" x="1598" y="1597" width="70" height="70"/>
+    <SubTexture name="ability_killequipfree2" x="1672" y="1599" width="70" height="70"/>
+    <SubTexture name="ability_killleader" x="1746" y="1599" width="70" height="70"/>
+    <SubTexture name="ability_lastbreath" x="434" y="1069" width="54" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_lastline" x="1820" y="1660" width="70" height="70"/>
+    <SubTexture name="ability_lastline2" x="1894" y="1667" width="70" height="70"/>
+    <SubTexture name="ability_laststandjap" x="570" y="1460" width="70" height="70"/>
+    <SubTexture name="ability_lateassembly2" x="712" y="1475" width="70" height="70"/>
+    <SubTexture name="ability_lead" x="858" y="1516" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_leadercard" x="932" y="1530" width="70" height="70"/>
+    <SubTexture name="ability_leaderf1" x="618" y="1534" width="70" height="70"/>
+    <SubTexture name="ability_leaderf2" x="617" y="1608" width="70" height="70"/>
+    <SubTexture name="ability_leaderf3" x="692" y="1549" width="70" height="70"/>
+    <SubTexture name="ability_leaderf4" x="691" y="1623" width="70" height="70"/>
+    <SubTexture name="ability_leaderf5" x="766" y="1550" width="70" height="70"/>
+    <SubTexture name="ability_leaderkamikaze" x="765" y="1624" width="70" height="70"/>
+    <SubTexture name="ability_leading" x="840" y="1589" width="70" height="70"/>
+    <SubTexture name="ability_leading2" x="914" y="1604" width="70" height="70"/>
+    <SubTexture name="ability_leadingend" x="335" y="759" width="49" height="70" frameX="-14" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_leadingstart" x="368" y="1001" width="44" height="70" frameX="-8" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_liberator" x="839" y="1663" width="70" height="70"/>
+    <SubTexture name="ability_liberator2" x="913" y="1678" width="70" height="70"/>
+    <SubTexture name="ability_lowerhealthpromoteame" x="1050" y="1600" width="70" height="70"/>
+    <SubTexture name="ability_lowerhealthpromotebrit" x="1124" y="1637" width="70" height="70"/>
+    <SubTexture name="ability_lowerhealthpromoteger" x="1124" y="1711" width="70" height="70"/>
+    <SubTexture name="ability_lowerhealthpromotejap" x="1198" y="1649" width="70" height="70"/>
+    <SubTexture name="ability_lowerhealthpromoterus" x="1198" y="1723" width="70" height="70"/>
+    <SubTexture name="ability_loyalty" x="1272" y="1732" width="70" height="62" frameX="0" frameY="-6" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_loyalty_upgrade" x="1272" y="1658" width="70" height="70"/>
+    <SubTexture name="ability_machinebuff" x="1346" y="1660" width="70" height="70"/>
+    <SubTexture name="ability_machinebuff2" x="1346" y="1734" width="70" height="70"/>
+    <SubTexture name="ability_machinegun" x="1420" y="1664" width="70" height="70"/>
+    <SubTexture name="ability_machinegun4" x="1420" y="1738" width="70" height="70"/>
+    <SubTexture name="ability_machinegun_upgrade" x="1494" y="1671" width="70" height="70"/>
+    <SubTexture name="ability_machinegunair" x="1568" y="1671" width="70" height="70"/>
+    <SubTexture name="ability_machinegunair2" x="1494" y="1745" width="70" height="70"/>
+    <SubTexture name="ability_machinegunair3" x="1568" y="1745" width="70" height="70"/>
+    <SubTexture name="ability_maritimescout" x="1642" y="1673" width="70" height="70"/>
+    <SubTexture name="ability_master" x="1642" y="1747" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_maxquality" x="1716" y="1673" width="70" height="70"/>
+    <SubTexture name="ability_medalame" x="1716" y="1747" width="70" height="70"/>
+    <SubTexture name="ability_medalbrit" x="1790" y="1734" width="70" height="70"/>
+    <SubTexture name="ability_medalger" x="1124" y="1785" width="70" height="70"/>
+    <SubTexture name="ability_medaljap" x="1198" y="1797" width="70" height="70"/>
+    <SubTexture name="ability_medalrus" x="1272" y="1798" width="70" height="70"/>
+    <SubTexture name="ability_medic" x="1346" y="1808" width="70" height="70"/>
+    <SubTexture name="ability_medic2" x="1420" y="1812" width="70" height="70"/>
+    <SubTexture name="ability_medicalcity" x="1494" y="1819" width="70" height="70"/>
+    <SubTexture name="ability_medicalcity2" x="1568" y="1819" width="70" height="70"/>
+    <SubTexture name="ability_medicequip2" x="644" y="1460" width="64" height="70" frameX="-6" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_medicine_ame" x="1642" y="1820" width="70" height="70"/>
+    <SubTexture name="ability_medicine_rus" x="1716" y="1821" width="70" height="70"/>
+    <SubTexture name="ability_mercenary" x="1790" y="1882" width="70" height="62" frameX="0" frameY="-7" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_mercenary2" x="1864" y="1815" width="70" height="63" frameX="0" frameY="-7" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_messagecoded" x="1790" y="1808" width="70" height="70"/>
+    <SubTexture name="ability_militarhonor" x="499" y="1663" width="70" height="60" frameX="0" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_militarhonor_upgrade" x="1938" y="1815" width="70" height="65" frameX="0" frameY="-5" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_mine" x="1864" y="1741" width="70" height="70"/>
+    <SubTexture name="ability_mine2" x="1938" y="1741" width="70" height="70"/>
+    <SubTexture name="ability_mine_field" x="1864" y="1882" width="70" height="70"/>
+    <SubTexture name="ability_missile" x="1938" y="1884" width="70" height="70"/>
+    <SubTexture name="ability_mod_order_1" x="573" y="1682" width="70" height="70"/>
+    <SubTexture name="ability_mod_order_2" x="647" y="1697" width="70" height="70"/>
+    <SubTexture name="ability_mod_order_rus_0" x="721" y="1698" width="70" height="70"/>
+    <SubTexture name="ability_morale" x="2" y="916" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_mountain" x="2" y="1291" width="70" height="57" frameX="0" frameY="-7" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_navalairpromote" x="2" y="989" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_nocostpromotion" x="132" y="624" width="70" height="58" frameX="0" frameY="-7" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_oasis" x="2" y="1062" width="70" height="65" frameX="0" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_oasis2" x="2" y="1131" width="70" height="67" frameX="0" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_onthedepths" x="498" y="1463" width="60" height="48" frameX="-5" frameY="-11" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_outstanding" x="437" y="1217" width="57" height="70" frameX="-6" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_perfectalloy2" x="2" y="1202" width="70" height="70"/>
+    <SubTexture name="ability_perfectoptic" x="2" y="1647" width="70" height="68" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_perfectratio" x="76" y="1647" width="70" height="70"/>
+    <SubTexture name="ability_perfectratio2" x="150" y="1647" width="70" height="70"/>
+    <SubTexture name="ability_perfectsniper" x="224" y="1647" width="70" height="70"/>
+    <SubTexture name="ability_pinpoint2" x="76" y="923" width="67" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_pistolfree" x="76" y="997" width="67" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_planeameflag" x="354" y="1665" width="70" height="70"/>
+    <SubTexture name="ability_planeamepromote" x="499" y="1727" width="70" height="70"/>
+    <SubTexture name="ability_planeamepromote2" x="573" y="1756" width="70" height="70"/>
+    <SubTexture name="ability_planeamerestore" x="647" y="1771" width="70" height="70"/>
+    <SubTexture name="ability_planeshipdestroy" x="721" y="1772" width="70" height="70"/>
+    <SubTexture name="ability_planeshipdmg2" x="795" y="1811" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_plasticdmg" x="76" y="1291" width="70" height="57" frameX="0" frameY="-6" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_plasticdmg2" x="869" y="1826" width="70" height="64" frameX="0" frameY="-6" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_playball" x="795" y="1737" width="70" height="70"/>
+    <SubTexture name="ability_playball_upgrade" x="869" y="1752" width="70" height="70"/>
+    <SubTexture name="ability_playfaction01" x="943" y="1752" width="70" height="70"/>
+    <SubTexture name="ability_playfaction02" x="943" y="1826" width="70" height="70"/>
+    <SubTexture name="ability_playfaction03" x="1017" y="1819" width="70" height="70"/>
+    <SubTexture name="ability_playfaction04" x="1017" y="1893" width="70" height="70"/>
+    <SubTexture name="ability_playfaction05" x="1091" y="1859" width="70" height="70"/>
+    <SubTexture name="ability_pointblank" x="1091" y="1933" width="70" height="70"/>
+    <SubTexture name="ability_pointblank2" x="1165" y="1871" width="70" height="70"/>
+    <SubTexture name="ability_politicalbrit" x="1165" y="1945" width="70" height="70"/>
+    <SubTexture name="ability_politicalbritend" x="1239" y="1872" width="70" height="70"/>
+    <SubTexture name="ability_politicalbritstart" x="1239" y="1946" width="70" height="70"/>
+    <SubTexture name="ability_post" x="1313" y="1882" width="70" height="70"/>
+    <SubTexture name="ability_post2" x="1313" y="1956" width="70" height="70"/>
+    <SubTexture name="ability_pow2" x="437" y="1291" width="57" height="68" frameX="-13" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_power_ame" x="1387" y="1886" width="70" height="70"/>
+    <SubTexture name="ability_power_brit" x="1387" y="1960" width="70" height="70"/>
+    <SubTexture name="ability_power_ger" x="1461" y="1893" width="70" height="70"/>
+    <SubTexture name="ability_power_jap" x="1535" y="1893" width="70" height="70"/>
+    <SubTexture name="ability_power_rus" x="1461" y="1967" width="70" height="70"/>
+    <SubTexture name="ability_power_rus" x="1535" y="1967" width="70" height="70"/>
+    <SubTexture name="ability_pph" x="1609" y="1894" width="70" height="70"/>
+    <SubTexture name="ability_pph2" x="1609" y="1968" width="70" height="70"/>
+    <SubTexture name="ability_prodall" x="1683" y="1895" width="70" height="70"/>
+    <SubTexture name="ability_prodfreeger" x="1683" y="1969" width="70" height="70"/>
+    <SubTexture name="ability_prodplane" x="1757" y="1948" width="70" height="70"/>
+    <SubTexture name="ability_prodship" x="1831" y="1956" width="70" height="70"/>
+    <SubTexture name="ability_prodtank" x="1905" y="1958" width="70" height="70"/>
+    <SubTexture name="ability_promoteequip" x="2" y="1719" width="70" height="70"/>
+    <SubTexture name="ability_propeller" x="353" y="1739" width="70" height="64" frameX="0" frameY="-6" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_propellernavy" x="76" y="1721" width="70" height="70"/>
+    <SubTexture name="ability_quicklanding" x="150" y="1721" width="70" height="70"/>
+    <SubTexture name="ability_radar" x="224" y="1721" width="70" height="70"/>
+    <SubTexture name="ability_radarexp" x="499" y="1801" width="70" height="70"/>
+    <SubTexture name="ability_radarexp2" x="573" y="1830" width="70" height="70"/>
+    <SubTexture name="ability_radarexpend" x="647" y="1845" width="70" height="70"/>
+    <SubTexture name="ability_radioactive" x="721" y="1846" width="70" height="70"/>
+    <SubTexture name="ability_radioactive2" x="795" y="1884" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_radioactive2_upgrade" x="795" y="1884" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_radioactive_upgrade" x="869" y="1894" width="70" height="70"/>
+    <SubTexture name="ability_railways" x="943" y="1900" width="70" height="68" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_rainbombs2" x="1017" y="1967" width="70" height="70"/>
+    <SubTexture name="ability_receiveorder2" x="280" y="1439" width="70" height="56" frameX="0" frameY="-14" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_recoveryvehicle_upgrade" x="76" y="1071" width="67" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_recruitrus" x="2" y="1793" width="70" height="70"/>
+    <SubTexture name="ability_reformunit" x="76" y="1795" width="70" height="70"/>
+    <SubTexture name="ability_reinforcedalldeploy" x="353" y="1807" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_reinforcement" x="150" y="1795" width="70" height="70"/>
+    <SubTexture name="ability_reinforcement2" x="224" y="1795" width="70" height="70"/>
+    <SubTexture name="ability_reinforcement3" x="224" y="1795" width="70" height="70"/>
+    <SubTexture name="ability_repair" x="499" y="1875" width="70" height="70"/>
+    <SubTexture name="ability_repairfix" x="573" y="1904" width="70" height="70"/>
+    <SubTexture name="ability_resting" x="647" y="1919" width="70" height="67" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_retributionfire" x="721" y="1920" width="70" height="70"/>
+    <SubTexture name="ability_returnall" x="795" y="1956" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_returnall2" x="869" y="1968" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_returnbase" x="943" y="1972" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_returnbase2" x="2" y="1867" width="70" height="69" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_rus_cost0" x="76" y="1869" width="70" height="70"/>
+    <SubTexture name="ability_rus_cost0part" x="150" y="1869" width="70" height="70"/>
+    <SubTexture name="ability_russcoutdivision" x="353" y="1880" width="70" height="68" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_russian" x="499" y="1949" width="70" height="69" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_russianbond" x="573" y="1978" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_russianbond2" x="2" y="1940" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_russiantank" x="224" y="1869" width="70" height="70"/>
+    <SubTexture name="ability_ruthless" x="76" y="1943" width="70" height="70"/>
+    <SubTexture name="ability_salvage" x="150" y="1943" width="70" height="70"/>
+    <SubTexture name="ability_sapper" x="224" y="1943" width="70" height="70"/>
+    <SubTexture name="ability_sapper2" x="350" y="1952" width="70" height="70"/>
+    <SubTexture name="ability_scoutdivision" x="424" y="1955" width="70" height="68" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_stratbomb" x="1177" y="505" width="30" height="70" frameX="-20" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_submarinecrew" x="647" y="1990" width="70" height="56" frameX="0" frameY="-14" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_tauntpen" x="76" y="1145" width="67" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_theace2" x="428" y="1665" width="67" height="70" frameX="-3" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ability_towerdefense" x="298" y="1647" width="52" height="70" frameX="-9" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="accept_button_xl_down" x="801" y="488" width="88" height="107"/>
+    <SubTexture name="accept_button_xl_up" x="801" y="599" width="88" height="107"/>
+    <SubTexture name="active_deck" x="658" y="353" width="3" height="3" frameX="0" frameY="0" frameWidth="355" frameHeight="98"/>
+    <SubTexture name="ap_crate" x="1959" y="684" width="83" height="85"/>
+    <SubTexture name="arrow_button_right" x="2" y="2" width="83" height="319"/>
+    <SubTexture name="boost_2" x="1446" y="583" width="130" height="137" frameX="-11" frameY="0" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="boost_3" x="1580" y="583" width="130" height="137" frameX="-11" frameY="0" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="boost_6" x="1714" y="583" width="130" height="137" frameX="-11" frameY="0" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="boost_9" x="2" y="801" width="108" height="111" frameX="-3" frameY="0" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="boost_11" x="2" y="686" width="108" height="111" frameX="-3" frameY="0" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="boost_13" x="1312" y="583" width="130" height="137" frameX="-11" frameY="0" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="button_green_large" x="2" y="475" width="127" height="127"/>
+    <SubTexture name="buy_button" x="114" y="809" width="102" height="110" frameX="0" frameY="-1" frameWidth="102" frameHeight="111"/>
+    <SubTexture name="buy_button_XS" x="133" y="475" width="86" height="110" frameX="0" frameY="-15" frameWidth="86" frameHeight="145"/>
+    <SubTexture name="card_loading_000" x="330" y="907" width="85" height="90" frameX="-8" frameY="-5" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="card_loading_003" x="1955" y="773" width="88" height="86" frameX="-9" frameY="-7" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="card_loading_009" x="571" y="1000" width="88" height="86" frameX="-6" frameY="-10" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="card_loading_012" x="330" y="907" width="85" height="90" frameX="-8" frameY="-5" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="chat_icon" x="215" y="685" width="111" height="107" frameX="-6" frameY="-8" frameWidth="120" frameHeight="120"/>
+    <SubTexture name="chat_icon_muted" x="220" y="796" width="111" height="106" frameX="-6" frameY="-7" frameWidth="120" frameHeight="120"/>
+    <SubTexture name="chat_icon_silenced" x="220" y="906" width="106" height="84" frameX="-7" frameY="-22" frameWidth="120" frameHeight="120"/>
+    <SubTexture name="db_promote_cost_1" x="563" y="1534" width="51" height="51"/>
+    <SubTexture name="db_promote_cost_2" x="721" y="1994" width="51" height="51"/>
+    <SubTexture name="defaultAvatar_icon_on" x="896" y="260" width="158" height="158"/>
+    <SubTexture name="deny_button" x="1037" y="505" width="136" height="137" frameX="-2" frameY="-2" frameWidth="139" frameHeight="139"/>
+    <SubTexture name="discord_icon" x="1058" y="259" width="158" height="158"/>
+    <SubTexture name="edition_07_icon" x="206" y="594" width="104" height="87" frameX="-13" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_12_icon" x="801" y="710" width="88" height="87" frameX="-21" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_13_icon" x="665" y="816" width="88" height="87" frameX="-21" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_15_icon" x="665" y="907" width="88" height="87" frameX="-21" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_20_icon" x="585" y="627" width="94" height="87" frameX="-21" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_47_icon" x="482" y="625" width="99" height="84" frameX="-16" frameY="-2" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_49_icon" x="683" y="627" width="50" height="74" frameX="-41" frameY="-7" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_57_icon" x="388" y="624" width="90" height="87" frameX="-17" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="edition_58_icon" x="388" y="715" width="90" height="87" frameX="-17" frameY="0" frameWidth="130" frameHeight="87"/>
+    <SubTexture name="english_icon" x="1172" y="718" width="129" height="131"/>
+    <SubTexture name="eventbattle_icon_01" x="355" y="494" width="126" height="126" frameX="-9" frameY="-8" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_02" x="485" y="495" width="125" height="126" frameX="-8" frameY="-9" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_03" x="893" y="692" width="119" height="116" frameX="-15" frameY="-16" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_05" x="1305" y="724" width="129" height="128" frameX="-7" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_07" x="2" y="606" width="126" height="76" frameX="-8" frameY="-34" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_08" x="801" y="360" width="88" height="124" frameX="-27" frameY="-9" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_09" x="1868" y="259" width="104" height="139" frameX="-18" frameY="-2" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_11" x="1036" y="646" width="132" height="141" frameX="-6" frameY="0" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_12" x="1438" y="724" width="129" height="130" frameX="-9" frameY="-9" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_13" x="1177" y="583" width="131" height="131" frameX="-9" frameY="-9" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_14" x="371" y="353" width="140" height="137" frameX="0" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_15" x="81" y="333" width="141" height="138" frameX="0" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_16" x="1837" y="724" width="114" height="129" frameX="-13" frameY="-4" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="eventbattle_icon_17" x="226" y="333" width="141" height="141"/>
+    <SubTexture name="eventbattle_icon_18" x="1848" y="583" width="107" height="135" frameX="-17" frameY="-6" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="exit_icon" x="1220" y="259" width="158" height="158"/>
+    <SubTexture name="facebook_icon_small" x="1976" y="272" width="60" height="112" frameX="-42" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="faction_05_slot" x="673" y="260" width="219" height="96" frameX="-155" frameY="-14" frameWidth="384" frameHeight="123"/>
+    <SubTexture name="fanpage_icon" x="1382" y="259" width="158" height="158"/>
+    <SubTexture name="fb_sample" x="614" y="501" width="122" height="122"/>
+    <SubTexture name="forums_icon" x="1544" y="259" width="158" height="158"/>
+    <SubTexture name="frame_summon_icon" x="658" y="353" width="3" height="3" frameX="0" frameY="0" frameWidth="94" frameHeight="94"/>
+    <SubTexture name="french_icon" x="1571" y="724" width="129" height="131"/>
+    <SubTexture name="fullscreen_button_off" x="1706" y="259" width="158" height="158"/>
+    <SubTexture name="german_icon" x="1704" y="724" width="129" height="131"/>
+    <SubTexture name="gold_button_DB" x="443" y="260" width="226" height="89"/>
+    <SubTexture name="guildnotifications_icon_on" x="1221" y="421" width="158" height="158"/>
+    <SubTexture name="howtoplay_icon" x="1383" y="421" width="158" height="158"/>
+    <SubTexture name="icon_deck" x="893" y="422" width="140" height="125" frameX="-8" frameY="-9" frameWidth="161" frameHeight="146"/>
+    <SubTexture name="incomplete_deck" x="658" y="353" width="3" height="3" frameX="0" frameY="0" frameWidth="355" frameHeight="98"/>
+    <SubTexture name="infantry_ger" x="298" y="1721" width="51" height="70" frameX="-19" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="infantry_jap" x="298" y="1795" width="51" height="70" frameX="-19" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="infantry_rus" x="298" y="1869" width="51" height="70" frameX="-19" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="item_icon" x="482" y="713" width="90" height="90"/>
+    <SubTexture name="items_panel" x="658" y="353" width="3" height="3" frameX="0" frameY="0" frameWidth="498" frameHeight="430"/>
+    <SubTexture name="keep_playing_button" x="1869" y="402" width="130" height="158" frameX="-3" frameY="0" frameWidth="133" frameHeight="158"/>
+    <SubTexture name="language_icon" x="1545" y="421" width="158" height="158"/>
+    <SubTexture name="leader_icon_faction_01_04" x="1033" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_01_05" x="443" y="2" width="114" height="254" frameX="-10" frameY="-7" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_01_06" x="1151" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_01_07" x="89" y="2" width="114" height="255" frameX="-10" frameY="-6" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_01_08" x="1269" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_01" x="1387" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_02" x="561" y="2" width="114" height="254" frameX="-10" frameY="-7" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_03" x="1505" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_04" x="1623" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_05" x="207" y="2" width="114" height="255" frameX="-10" frameY="-6" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_06" x="1741" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_02_07" x="1859" y="2" width="114" height="253" frameX="-10" frameY="-8" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_03_07" x="679" y="2" width="114" height="254" frameX="-10" frameY="-7" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_04_07" x="797" y="2" width="114" height="254" frameX="-10" frameY="-7" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_05_03" x="325" y="2" width="114" height="255" frameX="-10" frameY="-6" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="leader_icon_faction_05_07" x="915" y="2" width="114" height="254" frameX="-10" frameY="-7" frameWidth="131" frameHeight="263"/>
+    <SubTexture name="light_icon_off" x="1707" y="421" width="158" height="158"/>
+    <SubTexture name="name_panel" x="89" y="261" width="270" height="68"/>
+    <SubTexture name="order_icon" x="576" y="718" width="90" height="90"/>
+    <SubTexture name="portrait_frame_self" x="515" y="353" width="139" height="138" frameX="-1" frameY="-3" frameWidth="141" frameHeight="141"/>
+    <SubTexture name="prev_button" x="1058" y="421" width="159" height="80"/>
+    <SubTexture name="rank_insignia_04" x="2003" y="462" width="31" height="50" frameX="-17" frameY="-5" frameWidth="63" frameHeight="64"/>
+    <SubTexture name="rank_insignia_07" x="2003" y="516" width="29" height="43" frameX="-18" frameY="-10" frameWidth="63" frameHeight="64"/>
+    <SubTexture name="rank_insignia_10" x="663" y="1037" width="46" height="49" frameX="-9" frameY="-6" frameWidth="63" frameHeight="64"/>
+    <SubTexture name="rarity_04_slot" x="114" y="686" width="97" height="119" frameX="0" frameY="-4" frameWidth="97" frameHeight="123"/>
+    <SubTexture name="rarity_06_slot" x="114" y="686" width="97" height="119" frameX="0" frameY="-4" frameWidth="97" frameHeight="123"/>
+    <SubTexture name="recruit_progress_bar_bg" x="1016" y="692" width="2" height="102" frameX="0" frameY="-8" frameWidth="2" frameHeight="118"/>
+    <SubTexture name="save_button" x="658" y="360" width="139" height="137" frameX="0" frameY="-2" frameWidth="139" frameHeight="139"/>
+    <SubTexture name="save_button_off" x="893" y="551" width="139" height="137" frameX="0" frameY="-2" frameWidth="139" frameHeight="139"/>
+    <SubTexture name="scroll_side_icon" x="409" y="806" width="64" height="91"/>
+    <SubTexture name="settings_confirmation_button" x="1959" y="564" width="77" height="116" frameX="-4" frameY="-3" frameWidth="84" frameHeight="122"/>
+    <SubTexture name="settings_panel_center" x="2039" y="2" width="2" height="182"/>
+    <SubTexture name="settings_panel_left" x="2014" y="2" width="21" height="182"/>
+    <SubTexture name="shop_top_button" x="223" y="478" width="128" height="112" frameX="0" frameY="-2" frameWidth="128" frameHeight="116"/>
+    <SubTexture name="smoke_fire" x="764" y="722" width="30" height="67" frameX="-7" frameY="-1" frameWidth="47" frameHeight="70"/>
+    <SubTexture name="tip_panel" x="658" y="353" width="3" height="3" frameX="0" frameY="0" frameWidth="1313" frameHeight="38"/>
+    <SubTexture name="tutorial_bubble_center" x="2008" y="2" width="2" height="225" frameX="0" frameY="-3" frameWidth="2" frameHeight="230"/>
+    <SubTexture name="tutorial_bubble_left" x="1983" y="2" width="21" height="225" frameX="-2" frameY="-3" frameWidth="23" frameHeight="230"/>
+    <SubTexture name="tutorial_panel_conversation_center" x="1977" y="2" width="2" height="266" frameX="0" frameY="-2" frameWidth="2" frameHeight="270"/>
+    <SubTexture name="unit_air_icon" x="477" y="807" width="90" height="90"/>
+    <SubTexture name="unit_infantry_icon" x="419" y="901" width="90" height="90"/>
+    <SubTexture name="unit_leader_icon" x="571" y="812" width="90" height="90"/>
+    <SubTexture name="unit_ship_icon" x="571" y="906" width="90" height="90"/>
+    <SubTexture name="unit_structure_icon" x="670" y="722" width="90" height="90"/>
+    <SubTexture name="xl_name_panel_left" x="2" y="325" width="75" height="141"/>
+</TextureAtlas>

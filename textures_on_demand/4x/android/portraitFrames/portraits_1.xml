@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:54b2f8735325c11d53b308bf5d7e4d59:2f60ebc5f01e9fd0f0ef7ebfcb7fe78a:627089b3893d448ac318fb166b86b5f8$ -->
+<TextureAtlas imagePath="portraits_1.png" width="1024" height="1024">
+    <SubTexture name="portrait_bp_season_01_01" x="752" y="374" width="181" height="187" frameX="-6" frameY="-6" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_01_02" x="564" y="559" width="181" height="187" frameX="-6" frameY="-6" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_01_03" x="377" y="562" width="181" height="187" frameX="-6" frameY="-6" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_01_04" x="377" y="753" width="181" height="187" frameX="-6" frameY="-6" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_01_05" x="562" y="750" width="181" height="187" frameX="-6" frameY="-6" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_02_01" x="567" y="189" width="183" height="181" frameX="0" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_02_02" x="378" y="192" width="183" height="181" frameX="0" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_02_03" x="754" y="189" width="183" height="181" frameX="0" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_02_04" x="565" y="374" width="183" height="181" frameX="0" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_02_05" x="377" y="377" width="183" height="181" frameX="0" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_05_01" x="2" y="195" width="184" height="189" frameX="-4" frameY="-4" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_05_02" x="2" y="388" width="184" height="189" frameX="-4" frameY="-4" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_05_04" x="2" y="581" width="184" height="189" frameX="-4" frameY="-4" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_bp_season_05_05" x="2" y="774" width="184" height="189" frameX="-4" frameY="-4" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_01" x="747" y="750" width="170" height="170" frameX="-11" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_02" x="749" y="565" width="170" height="170" frameX="-11" frameY="-11" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_09" x="378" y="2" width="185" height="186" frameX="-3" frameY="-3" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_26" x="567" y="2" width="183" height="183" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_27" x="754" y="2" width="183" height="183" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_28" x="190" y="195" width="183" height="188" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_29" x="191" y="2" width="183" height="188" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_30" x="190" y="387" width="183" height="188" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_31" x="190" y="579" width="183" height="188" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_32" x="190" y="771" width="183" height="188" frameX="-5" frameY="-5" frameWidth="193" frameHeight="193"/>
+    <SubTexture name="portrait_frame_34" x="2" y="2" width="185" height="189" frameX="-4" frameY="-4" frameWidth="193" frameHeight="193"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4a275016c73deeaa2ab977b5d287b457:328200d33cadf6656648589de27f00e8:e489509f0e90738a01b31a3a5f176165$ -->
+<TextureAtlas imagePath="shopScreen2.png">
+    <SubTexture name="currency_slot" x="2" y="2" width="380" height="116" frameX="-2" frameY="0" frameWidth="382" frameHeight="116"/>
+    <SubTexture name="gem_quest_icon" x="186" y="699" width="108" height="108" frameX="-7" frameY="-8" frameWidth="122" frameHeight="122"/>
+    <SubTexture name="raid_coin_icon" x="2" y="840" width="102" height="114" frameX="-7" frameY="-3" frameWidth="122" frameHeight="122"/>
+    <SubTexture name="shop_arrow_down" x="239" y="120" width="141" height="36"/>
+    <SubTexture name="shop_left_side_button_disable" x="2" y="278" width="235" height="156"/>
+    <SubTexture name="shop_left_side_button_enabled" x="2" y="120" width="235" height="156"/>
+    <SubTexture name="shop_left_side_icon_boosts" x="106" y="840" width="67" height="85" frameX="-58" frameY="-13" frameWidth="169" frameHeight="103"/>
+    <SubTexture name="shop_left_side_icon_gold" x="239" y="158" width="133" height="93" frameX="-18" frameY="-10" frameWidth="169" frameHeight="103"/>
+    <SubTexture name="shop_left_side_icon_offers" x="202" y="602" width="115" height="95" frameX="-27" frameY="-4" frameWidth="169" frameHeight="103"/>
+    <SubTexture name="shop_left_side_icon_quests" x="374" y="206" width="127" height="91" frameX="-21" frameY="-6" frameWidth="169" frameHeight="103"/>
+    <SubTexture name="shop_left_side_icon_raids" x="202" y="501" width="115" height="99" frameX="-26" frameY="0" frameWidth="169" frameHeight="103"/>
+    <SubTexture name="shop_left_side_icon_treasures" x="384" y="2" width="125" height="77" frameX="-23" frameY="-13" frameWidth="169" frameHeight="103"/>
+    <SubTexture name="shop_offer_discount" x="2" y="728" width="178" height="110" frameX="0" frameY="-6" frameWidth="178" frameHeight="120"/>
+    <SubTexture name="shop_slot_faction_01" x="365" y="422" width="124" height="121" frameX="-22" frameY="-22" frameWidth="146" frameHeight="143"/>
+    <SubTexture name="shop_slot_faction_02" x="239" y="253" width="124" height="123" frameX="-22" frameY="-20" frameWidth="146" frameHeight="143"/>
+    <SubTexture name="shop_slot_faction_03" x="239" y="378" width="124" height="121" frameX="-22" frameY="-22" frameWidth="146" frameHeight="143"/>
+    <SubTexture name="shop_slot_faction_04" x="384" y="81" width="124" height="123" frameX="-22" frameY="-20" frameWidth="146" frameHeight="143"/>
+    <SubTexture name="shop_slot_faction_05" x="365" y="299" width="124" height="121" frameX="-22" frameY="-22" frameWidth="146" frameHeight="143"/>
+    <SubTexture name="shop_slot_rarity_01" x="2" y="576" width="198" height="68" frameX="-21" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_02" x="2" y="506" width="198" height="68" frameX="-21" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_03" x="2" y="436" width="198" height="68" frameX="-21" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_04" x="2" y="646" width="182" height="80" frameX="-29" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_05" x="319" y="627" width="182" height="80" frameX="-29" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_06" x="2" y="646" width="182" height="80" frameX="-29" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_07" x="319" y="627" width="182" height="80" frameX="-29" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_slot_rarity_08" x="319" y="545" width="182" height="80" frameX="-29" frameY="0" frameWidth="242" frameHeight="80"/>
+    <SubTexture name="shop_top_icon_quests" x="186" y="699" width="108" height="108" frameX="-7" frameY="-8" frameWidth="122" frameHeight="122"/>
+    <SubTexture name="shop_top_icon_raids" x="2" y="840" width="102" height="114" frameX="-7" frameY="-3" frameWidth="122" frameHeight="122"/>
+</TextureAtlas>

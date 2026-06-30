@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3f09a239091a511067887ed9d0a98f37:02f44b2940377ba56469007ee74d32b8:8e3c17a95801db1b73abf25d4babfc4b$ -->
+<TextureAtlas imagePath="Comic_03.png">
+    <SubTexture name="strip_01" x="0" y="1040" width="1920" height="408" frameX="0" frameY="0" frameWidth="1920" frameHeight="1440"/>
+    <SubTexture name="strip_02" x="0" y="0" width="1920" height="1038" frameX="0" frameY="-402" frameWidth="1920" frameHeight="1440"/>
+    <SubTexture name="strip_03" x="1238" y="1450" width="581" height="412"/>
+    <SubTexture name="strip_04" x="586" y="1450" width="650" height="412"/>
+    <SubTexture name="strip_05" x="0" y="1450" width="584" height="413"/>
+</TextureAtlas>

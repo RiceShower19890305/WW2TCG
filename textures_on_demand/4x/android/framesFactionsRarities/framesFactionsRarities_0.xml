@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:0fd94f0632c669543c344d3b02be2f0c:48188655207adbe9c9c45d4ce3992c0e:39b99ea74d6773e2cc0e6d23f59f078b$ -->
+<TextureAtlas imagePath="framesFactionsRarities_0.png" width="2048" height="2048">
+    <SubTexture name="back_faction_01" x="1704" y="3" width="266" height="356"/>
+    <SubTexture name="back_faction_02" x="1698" y="363" width="266" height="356"/>
+    <SubTexture name="back_faction_03" x="98" y="481" width="266" height="356"/>
+    <SubTexture name="back_faction_04" x="98" y="841" width="266" height="356"/>
+    <SubTexture name="back_faction_05" x="3" y="1599" width="266" height="356"/>
+    <SubTexture name="frame_faction_01" x="2027" y="3" width="3" height="3" frameX="0" frameY="0" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_01_bottom" x="2027" y="3" width="3" height="3" frameX="0" frameY="0" frameWidth="563" frameHeight="281"/>
+    <SubTexture name="frame_faction_01_side_bottom" x="3" y="121" width="561" height="114" frameX="-2" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_01_side_left" x="652" y="1435" width="36" height="528" frameX="-2" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_01_side_right" x="1126" y="1407" width="28" height="528" frameX="-535" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_01_side_top" x="1133" y="345" width="561" height="112" frameX="-2" frameY="-2" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_02_bottom" x="2027" y="3" width="3" height="3" frameX="0" frameY="0" frameWidth="563" frameHeight="281"/>
+    <SubTexture name="frame_faction_02_side_bottom" x="3" y="239" width="561" height="114" frameX="-2" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_02_side_left" x="692" y="1407" width="36" height="528" frameX="-2" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_02_side_right" x="1158" y="1407" width="28" height="528" frameX="-535" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_02_side_top" x="1130" y="461" width="561" height="112" frameX="-2" frameY="-2" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_03_bottom" x="2027" y="3" width="3" height="3" frameX="0" frameY="0" frameWidth="563" frameHeight="281"/>
+    <SubTexture name="frame_faction_03_side_bottom" x="568" y="121" width="561" height="114" frameX="-2" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_03_side_left" x="732" y="1407" width="36" height="528" frameX="-2" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_03_side_right" x="1190" y="1407" width="28" height="528" frameX="-535" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_03_side_top" x="1130" y="577" width="561" height="112" frameX="-2" frameY="-2" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_04_bottom" x="2027" y="3" width="3" height="3" frameX="0" frameY="0" frameWidth="563" frameHeight="281"/>
+    <SubTexture name="frame_faction_04_side_bottom" x="568" y="239" width="561" height="114" frameX="-2" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_04_side_left" x="772" y="1407" width="36" height="528" frameX="-2" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_04_side_right" x="1222" y="1401" width="28" height="528" frameX="-535" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_04_side_top" x="93" y="1319" width="561" height="112" frameX="-2" frameY="-2" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_05_bottom" x="2027" y="3" width="3" height="3" frameX="0" frameY="0" frameWidth="563" frameHeight="281"/>
+    <SubTexture name="frame_faction_05_side_bottom" x="93" y="1201" width="560" height="114" frameX="-1" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_05_side_left" x="1052" y="1407" width="35" height="528" frameX="-1" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_05_side_right" x="1091" y="1407" width="31" height="528" frameX="-530" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_faction_05_side_top" x="657" y="1185" width="560" height="112" frameX="-1" frameY="-2" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_01_side_bottom" x="569" y="584" width="555" height="105" frameX="-4" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_01_side_left" x="812" y="1407" width="36" height="528" frameX="-4" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_01_side_right" x="852" y="1407" width="36" height="528" frameX="-523" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_01_side_top" x="93" y="1435" width="555" height="102" frameX="-4" frameY="-12" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_02_side_bottom" x="926" y="1067" width="555" height="105" frameX="-4" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_02_side_left" x="892" y="1407" width="36" height="528" frameX="-4" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_02_side_right" x="932" y="1407" width="36" height="528" frameX="-523" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_02_side_top" x="658" y="1301" width="555" height="102" frameX="-4" frameY="-12" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_03_side_bottom" x="1485" y="1067" width="555" height="105" frameX="-4" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_03_side_left" x="972" y="1407" width="36" height="528" frameX="-4" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_03_side_right" x="1012" y="1407" width="36" height="528" frameX="-523" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_03_side_top" x="570" y="475" width="556" height="105" frameX="-4" frameY="-9" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_04_side_bottom" x="1217" y="1301" width="545" height="96" frameX="-9" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_04_side_left" x="540" y="481" width="25" height="528" frameX="-11" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_04_side_right" x="2019" y="535" width="26" height="528" frameX="-527" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_04_side_top" x="368" y="1067" width="554" height="114" frameX="-9" frameY="0" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_05_side_bottom" x="1133" y="121" width="563" height="108" frameX="0" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_05_side_left" x="452" y="481" width="40" height="528" frameX="0" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_05_side_right" x="3" y="1067" width="41" height="528" frameX="-521" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_05_side_top" x="3" y="3" width="563" height="114" frameX="0" frameY="0" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_06_side_bottom" x="692" y="1939" width="552" height="96" frameX="-5" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_06_side_left" x="3" y="535" width="91" height="528" frameX="0" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_06_side_right" x="1968" y="535" width="47" height="528" frameX="-516" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_06_side_top" x="570" y="357" width="556" height="114" frameX="-7" frameY="0" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_07_side_bottom" x="1133" y="233" width="563" height="108" frameX="0" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_07_side_left" x="368" y="481" width="80" height="528" frameX="0" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_07_side_right" x="1974" y="3" width="49" height="528" frameX="-514" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_07_side_top" x="570" y="3" width="563" height="114" frameX="0" frameY="0" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_08_side_bottom" x="1137" y="3" width="563" height="114" frameX="0" frameY="-636" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_08_side_left" x="48" y="1067" width="41" height="528" frameX="0" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_08_side_right" x="496" y="481" width="40" height="528" frameX="-521" frameY="-111" frameWidth="563" frameHeight="750"/>
+    <SubTexture name="frame_rarity_08_side_top" x="3" y="363" width="563" height="114" frameX="0" frameY="0" frameWidth="563" frameHeight="750"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:7cfbac52f848d2ebc1cca6d6a86bcead:6470a54f2207aa5c6e85c4eb620ddb6b:b57e45d6894948a63339933d1ce950a2$ -->
+<TextureAtlas imagePath="tutorialPromote_1.png" width="2048" height="2048">
+    <SubTexture name="tutorial_animation_promote_01" x="380" y="841" width="349" height="684" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+    <SubTexture name="tutorial_animation_promote_02" x="731" y="841" width="349" height="684" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+    <SubTexture name="tutorial_animation_promote_03" x="731" y="841" width="349" height="684" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+    <SubTexture name="tutorial_animation_promote_10" x="2" y="2" width="376" height="837" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+    <SubTexture name="tutorial_animation_promote_11" x="2" y="841" width="376" height="837" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+    <SubTexture name="tutorial_animation_promote_12" x="380" y="2" width="376" height="837" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+    <SubTexture name="tutorial_animation_promote_13" x="758" y="2" width="349" height="684" frameX="-11" frameY="0" frameWidth="422" frameHeight="844"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a8178fa00481f4f5bd5476ae89bd1ec7:d23a7a56a6970ef45ac7622057ca6ff6:f1af0039809bbacbc09fb2b5c0fc55d1$ -->
+<TextureAtlas imagePath="comicThumbnails.png">
+    <SubTexture name="comic_thumbnail_01" x="653" y="219" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_02" x="436" y="219" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_03" x="219" y="653" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_04" x="219" y="436" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_05" x="219" y="219" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_06" x="653" y="2" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_07" x="436" y="2" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_08" x="219" y="2" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_09" x="2" y="653" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_10" x="2" y="436" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_11" x="2" y="219" width="215" height="215"/>
+    <SubTexture name="comic_thumbnail_12" x="2" y="2" width="215" height="215"/>
+</TextureAtlas>

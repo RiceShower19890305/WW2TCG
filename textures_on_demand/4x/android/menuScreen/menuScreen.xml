@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ec516f6c694a2f57faa22af58a982d5e:b7fe8b59adda9efcceac9943bc2179de:b2d287791adc9fdec6f9565c75dae503$ -->
+<TextureAtlas imagePath="menuScreen.png">
+    <SubTexture name="event_popup" x="2" y="787" width="1" height="1" frameX="0" frameY="0" frameWidth="675" frameHeight="473"/>
+    <SubTexture name="facebook_panel_gift" x="2" y="2" width="563" height="530" frameX="0" frameY="0" frameWidth="563" frameHeight="544"/>
+    <SubTexture name="logo_XL" x="2" y="787" width="1" height="1" frameX="0" frameY="0" frameWidth="859" frameHeight="799"/>
+    <SubTexture name="menu_plate_button" x="2" y="787" width="1" height="1" frameX="0" frameY="0" frameWidth="559" frameHeight="81"/>
+    <SubTexture name="menu_play_button" x="2" y="534" width="511" height="251"/>
+    <SubTexture name="yellow_light_menu_button" x="2" y="787" width="1" height="1" frameX="0" frameY="0" frameWidth="143" frameHeight="56"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5e4578a21a7f69456fe37d70ba681c83:c5b6474be1bef68995e77797242c3b0c:1973e7fa1f39a509b9f1a6b389cbf0ed$ -->
+<TextureAtlas imagePath="pvpLeagues.png">
+    <SubTexture name="pvp_aura_blue" x="2" y="1009" width="375" height="334"/>
+    <SubTexture name="pvp_aura_red" x="2" y="673" width="375" height="334"/>
+    <SubTexture name="pvp_league_circle_demotion" x="1428" y="1156" width="496" height="209" frameX="-116" frameY="-360" frameWidth="714" frameHeight="669"/>
+    <SubTexture name="pvp_league_circle_progress" x="1432" y="579" width="558" height="575" frameX="-85" frameY="-5" frameWidth="714" frameHeight="669"/>
+    <SubTexture name="pvp_league_circle_promotion" x="1432" y="2" width="558" height="575" frameX="-85" frameY="-6" frameWidth="714" frameHeight="669"/>
+    <SubTexture name="pvp_league_frame_1" x="718" y="669" width="708" height="649" frameX="-4" frameY="0" frameWidth="714" frameHeight="669"/>
+    <SubTexture name="pvp_league_frame_2" x="718" y="2" width="712" height="665" frameX="0" frameY="0" frameWidth="714" frameHeight="669"/>
+    <SubTexture name="pvp_league_frame_3" x="2" y="2" width="714" height="669"/>
+</TextureAtlas>

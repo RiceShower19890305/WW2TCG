@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:3005c119188f178c5dbe1b134abd0320:857f21c5091614c0877a20039d16c120:ba07d4e230aa02fc0bf905293a9b4e82$ -->
+<TextureAtlas imagePath="deckBuilderScreen_0.png" width="2048" height="2048">
+    <SubTexture name="amount_socket_limited" x="1035" y="852" width="263" height="351"/>
+    <SubTexture name="anim_craft_00000" x="1489" y="897" width="141" height="188"/>
+    <SubTexture name="anim_craft_00001" x="1825" y="962" width="141" height="188"/>
+    <SubTexture name="anim_craft_00002" x="1634" y="1032" width="141" height="188"/>
+    <SubTexture name="anim_craft_00003" x="1489" y="1089" width="141" height="188"/>
+    <SubTexture name="anim_craft_00004" x="1302" y="1203" width="141" height="188"/>
+    <SubTexture name="anim_craft_00005" x="1779" y="1154" width="141" height="188"/>
+    <SubTexture name="anim_craft_00006" x="1634" y="1224" width="141" height="188"/>
+    <SubTexture name="anim_craft_00007" x="1779" y="1346" width="141" height="188"/>
+    <SubTexture name="cancel_button" x="1924" y="1170" width="122" height="121"/>
+    <SubTexture name="cardSkin_button_lit" x="1653" y="587" width="375" height="121" frameX="0" frameY="-3" frameWidth="375" frameHeight="124"/>
+    <SubTexture name="cardSkin_button_unlit" x="1650" y="712" width="375" height="121" frameX="0" frameY="-3" frameWidth="375" frameHeight="124"/>
+    <SubTexture name="craft_arrow_rarity_02" x="1981" y="297" width="53" height="51" frameX="0" frameY="-11" frameWidth="53" frameHeight="71"/>
+    <SubTexture name="craft_arrow_rarity_03" x="1981" y="352" width="53" height="51" frameX="0" frameY="-11" frameWidth="53" frameHeight="71"/>
+    <SubTexture name="craft_arrow_rarity_04" x="1876" y="522" width="53" height="51" frameX="0" frameY="-11" frameWidth="53" frameHeight="71"/>
+    <SubTexture name="craft_arrow_rarity_05" x="1970" y="1046" width="53" height="51" frameX="0" frameY="-11" frameWidth="53" frameHeight="71"/>
+    <SubTexture name="craft_arrow_rarity_06" x="1970" y="1101" width="52" height="65" frameX="0" frameY="-5" frameWidth="52" frameHeight="70"/>
+    <SubTexture name="craft_arrow_rarity_07" x="1981" y="237" width="53" height="56" frameX="0" frameY="-8" frameWidth="53" frameHeight="71"/>
+    <SubTexture name="craft_arrow_rarity_08" x="1981" y="166" width="53" height="67" frameX="0" frameY="-1" frameWidth="53" frameHeight="71"/>
+    <SubTexture name="craft_button_lit" x="1649" y="837" width="375" height="121" frameX="0" frameY="-3" frameWidth="375" frameHeight="124"/>
+    <SubTexture name="craft_button_unlit" x="1035" y="727" width="375" height="121" frameX="0" frameY="-3" frameWidth="375" frameHeight="124"/>
+    <SubTexture name="craft_material_slot" x="220" y="1554" width="92" height="85"/>
+    <SubTexture name="craft_panel_info_center" x="2038" y="166" width="2" height="473"/>
+    <SubTexture name="craft_panel_info_left" x="1440" y="557" width="45" height="473"/>
+    <SubTexture name="craft_sign" x="1492" y="328" width="179" height="68"/>
+    <SubTexture name="craft_stat_ability" x="377" y="1941" width="79" height="79" frameX="-3" frameY="-3" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="craft_stat_attack" x="309" y="1647" width="81" height="84" frameX="0" frameY="0" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="craft_stat_defense" x="306" y="1745" width="84" height="84"/>
+    <SubTexture name="craft_stat_info" x="2" y="1395" width="122" height="75"/>
+    <SubTexture name="craft_stat_promote" x="383" y="1833" width="77" height="75" frameX="-4" frameY="-3" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="craft_stat_summon" x="1492" y="249" width="71" height="74" frameX="-10" frameY="-7" frameWidth="84" frameHeight="84"/>
+    <SubTexture name="craft_tutorial_image" x="2" y="2" width="1029" height="942" frameX="-161" frameY="-36" frameWidth="1380" frameHeight="1015"/>
+    <SubTexture name="db_arrow_down" x="1035" y="557" width="401" height="81"/>
+    <SubTexture name="db_arrow_up" x="1035" y="642" width="401" height="81"/>
+    <SubTexture name="db_button_craft_available_off" x="1945" y="476" width="88" height="107"/>
+    <SubTexture name="db_button_craft_available_on" x="230" y="1061" width="88" height="107"/>
+    <SubTexture name="db_button_craft_off" x="1492" y="461" width="157" height="154"/>
+    <SubTexture name="db_button_craft_on" x="1489" y="619" width="157" height="154"/>
+    <SubTexture name="db_button_off" x="1492" y="461" width="157" height="154"/>
+    <SubTexture name="db_button_on" x="1489" y="619" width="157" height="154"/>
+    <SubTexture name="db_button_top_off" x="1492" y="461" width="157" height="154"/>
+    <SubTexture name="db_button_top_on" x="1489" y="619" width="157" height="154"/>
+    <SubTexture name="db_craft_icon_01" x="1567" y="133" width="107" height="69" frameX="0" frameY="-23" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_craft_icon_02" x="287" y="1941" width="86" height="79" frameX="-10" frameY="-14" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_craft_icon_03" x="1962" y="407" width="66" height="65" frameX="-20" frameY="-21" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_craft_icon_06" x="316" y="1554" width="80" height="84" frameX="-14" frameY="-13" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_craft_icon_11" x="1970" y="962" width="76" height="80" frameX="-17" frameY="-13" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_craft_icon_12" x="1436" y="1034" width="49" height="73" frameX="-29" frameY="-17" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_craft_icon_13" x="1653" y="522" width="74" height="60" frameX="-18" frameY="-25" frameWidth="107" frameHeight="107"/>
+    <SubTexture name="db_filter_done" x="1489" y="619" width="157" height="154"/>
+    <SubTexture name="db_filter_icon_ability" x="2" y="1207" width="115" height="123" frameX="-21" frameY="-17" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition" x="187" y="1888" width="96" height="95" frameX="-31" frameY="-30" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_01" x="88" y="1474" width="122" height="75" frameX="-17" frameY="-44" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_02" x="215" y="1647" width="90" height="94" frameX="-35" frameY="-31" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_03" x="121" y="1207" width="110" height="118" frameX="-26" frameY="-19" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_04" x="104" y="1554" width="112" height="88" frameX="-22" frameY="-35" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_05" x="2" y="1554" width="98" height="89" frameX="-29" frameY="-32" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_06" x="115" y="1647" width="96" height="96" frameX="-30" frameY="-29" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_07" x="1981" y="70" width="63" height="92" frameX="-47" frameY="-30" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_edition_08" x="1854" y="1543" width="122" height="100" frameX="-18" frameY="-27" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_faction" x="287" y="1845" width="92" height="92" frameX="-32" frameY="-32" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_faction_01" x="128" y="1395" width="109" height="75" frameX="-26" frameY="-42" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_faction_02" x="214" y="1474" width="108" height="75" frameX="-26" frameY="-42" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_faction_03" x="241" y="1395" width="108" height="75" frameX="-26" frameY="-42" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_faction_04" x="326" y="1474" width="108" height="75" frameX="-26" frameY="-42" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_faction_05" x="353" y="1395" width="108" height="75" frameX="-26" frameY="-42" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_favourite" x="2" y="1477" width="82" height="72" frameX="-38" frameY="-45" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_new" x="208" y="1747" width="94" height="94" frameX="-30" frameY="-31" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity" x="107" y="1783" width="97" height="101" frameX="-31" frameY="-28" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_01" x="231" y="948" width="101" height="105" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_02" x="322" y="1057" width="101" height="105" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_03" x="336" y="948" width="101" height="105" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_04" x="427" y="1057" width="101" height="105" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_05" x="441" y="948" width="101" height="105" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_06" x="1567" y="206" width="101" height="118" frameX="-28" frameY="-25" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_07" x="235" y="1207" width="101" height="117" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_rarity_08" x="2" y="1783" width="101" height="105" frameX="-28" frameY="-26" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory" x="2" y="948" width="111" height="111" frameX="-24" frameY="-24" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory_01" x="2" y="1892" width="83" height="105" frameX="-36" frameY="-24" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory_02" x="117" y="948" width="110" height="109" frameX="-25" frameY="-19" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory_03" x="1302" y="987" width="130" height="116" frameX="-14" frameY="-20" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory_04" x="340" y="1207" width="101" height="113" frameX="-29" frameY="-23" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory_05" x="117" y="1061" width="109" height="107" frameX="-23" frameY="-27" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_icon_scategory_06" x="1489" y="777" width="156" height="116" frameX="0" frameY="-18" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_filter_off" x="1492" y="461" width="157" height="154"/>
+    <SubTexture name="db_filter_on" x="1489" y="619" width="157" height="154"/>
+    <SubTexture name="db_icon_cat_01" x="1302" y="852" width="132" height="131" frameX="-10" frameY="-15" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_icon_cat_02" x="1447" y="1339" width="135" height="134" frameX="-8" frameY="-14" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_icon_cat_03" x="1586" y="1416" width="135" height="134" frameX="-8" frameY="-14" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_icon_recycle" x="1924" y="1420" width="122" height="119"/>
+    <SubTexture name="db_icon_view_all" x="1725" y="1538" width="125" height="97" frameX="-16" frameY="-31" frameWidth="157" frameHeight="154"/>
+    <SubTexture name="db_save_button" x="1924" y="1295" width="122" height="121"/>
+    <SubTexture name="db_side_panel_title" x="1035" y="2" width="639" height="127" frameX="-8" frameY="-7" frameWidth="661" frameHeight="151"/>
+    <SubTexture name="deck_title_edit" x="1035" y="133" width="528" height="112" frameX="-3" frameY="-40" frameWidth="563" frameHeight="186"/>
+    <SubTexture name="deck_total_amount" x="1492" y="400" width="164" height="57" frameX="-15" frameY="-6" frameWidth="192" frameHeight="68"/>
+    <SubTexture name="decklimit_tab" x="1675" y="390" width="283" height="54"/>
+    <SubTexture name="edit_button" x="2" y="1063" width="111" height="111"/>
+    <SubTexture name="fusion_button_lit" x="1035" y="249" width="453" height="150"/>
+    <SubTexture name="fusion_button_unlit" x="1035" y="403" width="453" height="150"/>
+    <SubTexture name="fusion_layer_text" x="1660" y="448" width="281" height="70"/>
+    <SubTexture name="gold_icon_XS" x="1302" y="1107" width="129" height="92" frameX="-2" frameY="-17" frameWidth="132" frameHeight="124"/>
+    <SubTexture name="new_card_bubble" x="1981" y="2" width="64" height="64"/>
+    <SubTexture name="new_card_glow" x="1678" y="2" width="299" height="384"/>
+    <SubTexture name="raid_coins_icon_XS" x="89" y="1892" width="94" height="104" frameX="-16" frameY="-9" frameWidth="132" frameHeight="124"/>
+    <SubTexture name="recycle_cost_tab" x="1731" y="522" width="141" height="54" frameX="0" frameY="0" frameWidth="141" frameHeight="56"/>
+    <SubTexture name="recycle_cost_tab_raid_coins" x="1447" y="1281" width="141" height="54" frameX="0" frameY="0" frameWidth="141" frameHeight="56"/>
+    <SubTexture name="reset_button" x="1634" y="962" width="187" height="66"/>
+    <SubTexture name="suggest_button" x="1489" y="619" width="157" height="154"/>
+    <SubTexture name="trash_icon" x="2" y="1647" width="109" height="132" frameX="-62" frameY="-51" frameWidth="234" frameHeight="234"/>
+</TextureAtlas>

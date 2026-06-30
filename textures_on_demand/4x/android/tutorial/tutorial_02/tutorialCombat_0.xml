@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:54569844868e8d2ab2eef9b556db8e2b:86d636a230086bb0043609ea790ea78e:a074350786f8286ae4b4d934c49ade28$ -->
+<TextureAtlas imagePath="tutorialCombat_0.png" width="2048" height="2048">
+    <SubTexture name="tutorial_animation_combat_01" x="2" y="1108" width="450" height="870" frameX="0" frameY="-2" frameWidth="450" frameHeight="872"/>
+    <SubTexture name="tutorial_animation_combat_02" x="454" y="1108" width="450" height="870" frameX="0" frameY="-2" frameWidth="450" frameHeight="872"/>
+    <SubTexture name="tutorial_animation_combat_03" x="906" y="1108" width="450" height="870" frameX="0" frameY="-2" frameWidth="450" frameHeight="872"/>
+    <SubTexture name="tutorial_animation_combat_04" x="1358" y="1108" width="450" height="870" frameX="0" frameY="-2" frameWidth="450" frameHeight="872"/>
+    <SubTexture name="tutorial_animation_combat_05" x="1468" y="2" width="450" height="870" frameX="0" frameY="-2" frameWidth="450" frameHeight="872"/>
+    <SubTexture name="tutorial_panel_combat" x="2" y="2" width="1464" height="1104"/>
+</TextureAtlas>

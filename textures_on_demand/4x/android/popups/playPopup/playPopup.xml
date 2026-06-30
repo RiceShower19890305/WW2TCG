@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5da2651c4ac906d6421c0df3573c70bd:12ce84ff4d6f5198b1a09affe478fe32:399189f9e0183e174493a63ea871a75b$ -->
+<TextureAtlas imagePath="playPopup.png" width="1024" height="2048">
+    <SubTexture name="bg_star" x="648" y="1281" width="153" height="143" frameX="-7" frameY="-12" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="deck_select_icon" x="765" y="1431" width="136" height="136"/>
+    <SubTexture name="end_level_bar_bg" x="1008" y="2" width="2" height="69" frameX="0" frameY="-29" frameWidth="2" frameHeight="98"/>
+    <SubTexture name="end_level_bar_inner" x="1012" y="2" width="2" height="69" frameX="0" frameY="-29" frameWidth="2" frameHeight="98"/>
+    <SubTexture name="end_level_bar_top" x="2" y="198" width="887" height="232" frameX="-51" frameY="-1" frameWidth="984" frameHeight="233"/>
+    <SubTexture name="icon_class_00_XL" x="776" y="432" width="235" height="213" frameX="-14" frameY="-10" frameWidth="261" frameHeight="233"/>
+    <SubTexture name="icon_class_lock" x="912" y="2" width="94" height="114" frameX="-10" frameY="0" frameWidth="113" frameHeight="114"/>
+    <SubTexture name="popup_star_00000" x="324" y="1256" width="159" height="149" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00001" x="326" y="1103" width="159" height="151" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00002" x="163" y="1258" width="159" height="149" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00003" x="163" y="1105" width="159" height="151" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00004" x="652" y="972" width="159" height="154" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00005" x="2" y="947" width="159" height="157" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00006" x="328" y="943" width="159" height="158" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00007" x="491" y="940" width="159" height="159" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00008" x="816" y="811" width="159" height="157" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00009" x="165" y="945" width="159" height="158" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00010" x="654" y="811" width="160" height="159" frameX="-4" frameY="-9" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00011" x="770" y="647" width="161" height="162" frameX="-3" frameY="-7" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00012" x="491" y="784" width="161" height="154" frameX="-3" frameY="-5" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00013" x="328" y="784" width="161" height="157" frameX="-3" frameY="-4" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00014" x="165" y="784" width="161" height="159" frameX="-3" frameY="-4" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00015" x="2" y="784" width="161" height="161" frameX="-3" frameY="-4" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00016" x="816" y="970" width="159" height="157" frameX="-5" frameY="-2" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00017" x="2" y="1259" width="159" height="149" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00018" x="811" y="1129" width="159" height="149" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00019" x="2" y="1106" width="159" height="151" frameX="-5" frameY="-8" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00020" x="489" y="1101" width="159" height="152" frameX="-5" frameY="-7" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00021" x="811" y="1280" width="159" height="149" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00022" x="487" y="1255" width="159" height="150" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="popup_star_00023" x="650" y="1128" width="159" height="151" frameX="-5" frameY="-10" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="start_level_bottom" x="2" y="700" width="765" height="82" frameX="-107" frameY="0" frameWidth="984" frameHeight="88"/>
+    <SubTexture name="start_level_mid" x="2" y="540" width="766" height="158" frameX="-106" frameY="0" frameWidth="984" frameHeight="158"/>
+    <SubTexture name="start_level_mode_01" x="324" y="1407" width="145" height="144" frameX="-10" frameY="-11" frameWidth="158" frameHeight="158"/>
+    <SubTexture name="start_level_mode_02" x="163" y="1409" width="145" height="144" frameX="-10" frameY="-11" frameWidth="158" frameHeight="158"/>
+    <SubTexture name="start_level_mode_03" x="2" y="1410" width="145" height="144" frameX="-10" frameY="-11" frameWidth="158" frameHeight="158"/>
+    <SubTexture name="start_level_mode_04" x="471" y="1407" width="145" height="144" frameX="-10" frameY="-11" frameWidth="158" frameHeight="158"/>
+    <SubTexture name="start_level_mode_05" x="618" y="1426" width="145" height="144" frameX="-10" frameY="-11" frameWidth="158" frameHeight="158"/>
+    <SubTexture name="start_level_score" x="2" y="432" width="772" height="106" frameX="-100" frameY="0" frameWidth="984" frameHeight="106"/>
+    <SubTexture name="start_level_top" x="2" y="2" width="908" height="194" frameX="-54" frameY="-3" frameWidth="984" frameHeight="197"/>
+</TextureAtlas>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:b4827738dc7d322dda3a3683fa7e07ad:b763f3488c7e3fd0675b69d506b0732a:0afdae6d27a46d858afba2ecf0ebcd68$ -->
+<TextureAtlas imagePath="common.png" width="2048" height="2048">
+    <SubTexture name="accept_button_down" x="2" y="1748" width="312" height="111"/>
+    <SubTexture name="accept_button_up" x="2" y="1861" width="312" height="111"/>
+    <SubTexture name="close_button_down" x="2" y="1450" width="150" height="147"/>
+    <SubTexture name="close_button_up" x="2" y="1599" width="150" height="147"/>
+    <SubTexture name="cross_promotion_button_fantasy" x="2" y="2" width="646" height="604"/>
+    <SubTexture name="cross_promotion_button_monsters" x="650" y="2" width="646" height="604"/>
+    <SubTexture name="cross_promotion_button_mythologies" x="1298" y="2" width="646" height="604"/>
+    <SubTexture name="cross_promotion_button_starquest" x="2" y="617" width="646" height="604"/>
+    <SubTexture name="facebook_icon_share_small" x="2008" y="66" width="26" height="47" frameX="-16" frameY="-10" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="facebook_icon_small" x="1946" y="2" width="60" height="112" frameX="-42" frameY="-29" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="fb_button_up" x="154" y="1555" width="527" height="94"/>
+    <SubTexture name="internet_off" x="1946" y="301" width="59" height="59" frameX="-1" frameY="-1" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="internet_on" x="1946" y="240" width="60" height="59" frameX="0" frameY="-1" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="offline_led" x="2008" y="2" width="30" height="30"/>
+    <SubTexture name="online_led" x="2008" y="34" width="30" height="30"/>
+    <SubTexture name="settings_button" x="154" y="1450" width="103" height="103"/>
+    <SubTexture name="shimmer" x="2" y="1223" width="316" height="225" frameX="-84" frameY="0" frameWidth="480" frameHeight="225"/>
+    <SubTexture name="spinner_mini_black" x="1946" y="116" width="60" height="60"/>
+    <SubTexture name="spinner_mini_white" x="1946" y="178" width="60" height="60"/>
+    <SubTexture name="sync_loading_00" x="2" y="2025" width="54" height="19" frameX="-24" frameY="-42" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_01" x="226" y="2021" width="54" height="23" frameX="-24" frameY="-40" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_02" x="210" y="1651" width="54" height="27" frameX="-24" frameY="-38" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_03" x="2002" y="399" width="40" height="31" frameX="-24" frameY="-36" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_04" x="154" y="1693" width="54" height="37" frameX="-24" frameY="-33" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_05" x="282" y="1974" width="54" height="41" frameX="-24" frameY="-31" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_06" x="170" y="1974" width="54" height="45" frameX="-24" frameY="-29" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_07" x="1946" y="362" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_08" x="1946" y="413" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_09" x="1946" y="464" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_10" x="1946" y="515" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_11" x="1946" y="566" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_12" x="2" y="1974" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_13" x="58" y="1974" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_14" x="114" y="1974" width="54" height="49" frameX="-24" frameY="-27" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_15" x="226" y="1974" width="54" height="45" frameX="-24" frameY="-29" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_16" x="154" y="1651" width="54" height="40" frameX="-24" frameY="-31" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_17" x="2002" y="362" width="40" height="35" frameX="-38" frameY="-34" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_18" x="282" y="2017" width="54" height="29" frameX="-24" frameY="-37" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="sync_loading_19" x="170" y="2021" width="54" height="25" frameX="-24" frameY="-39" frameWidth="103" frameHeight="103"/>
+</TextureAtlas>

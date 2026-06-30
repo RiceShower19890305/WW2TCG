@@ -1,7 +1,8 @@
 # Build artifacts
 *.air
-*.swf
-!MainGame.swf
+# NOTE: do NOT blanket-ignore *.swf — the game ships runtime .swf assets
+# (e.g. textures_on_demand/.../maps/map_*.swf). Only ignore compiler output,
+# which lives under bin-debug/ and bin-release/ (ignored below).
 
 # IDE / OS
 .idea/
